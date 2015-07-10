@@ -112,6 +112,7 @@
     <item component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}" drawable="com_android_mms"/>
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="com_android_mms"/>
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MessageTabActivity}" drawable="com_android_mms"/>
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging}" drawable="com_android_mms"/>
 
 
 
