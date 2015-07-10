@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/square_over" />
+    <item android:state_focused="false" android:drawable="@drawable/square_over" />
+    <item android:state_window_focused="true" android:drawable="@drawable/square_over" />
+    <item android:state_window_focused="false" android:drawable="@android:color/transparent" />
+</selector>
+<!-- From: file:/C:/Users/user/AndroidStudioProjects/Новая%20папка%20(2)2/app/src/main/res/drawable/grid_selector.xml -->

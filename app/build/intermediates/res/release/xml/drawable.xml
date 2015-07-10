@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+    <item drawable="com_android_camera" />
+    <item drawable="com_android_calendar" />
+    <item drawable="com_android_contacts" />
+    <item drawable="com_android_settings" />
+    <item drawable="gplay" />
+    <item drawable="com_android_gallery3d"/>
+    <item drawable="com_android_calculator2"/>
+    <item drawable="com_android_browser"/>
+    <item drawable="com_google_android_apps_plus"/>
+    <item drawable="com_google_android_apps_translate"/>
+    <item drawable="com_google_android_apps_youtube"/>
+    <item drawable="com_android_music"/>
+</resources>
+<!-- From: file:/C:/Users/user/AndroidStudioProjects/Новая%20папка%20(2)2/app/src/main/res/xml/drawable.xml -->

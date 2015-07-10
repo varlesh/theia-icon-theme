@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="icon_pack" translatable="false">
+		<item>com_android_camera</item>
+        <item>com_android_calendar</item>
+        <item>com_android_contacts</item>
+        <item>com_android_music</item>
+        <item>com_android_settings</item>
+        <item>com_android_vending</item>
+        <item>com_android_gallery3d</item>
+        <item>com_android_calculator2</item>
+        <item>com_android_browser</item>
+        <item>com_google_android_apps_plus</item>
+        <item>com_google_android_translate</item>
+        <item>com_google_android_youtube</item>
+        <item>com_google_android_music</item>
+	</string-array>
+</resources>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <iconback img1="iconback" />
+	<iconmask img1="iconmask" />
+    <iconupon img1="iconupon" />
+    <scale factor=".75" />
+
+    <!-- Browser -->
+	<item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser_browseractivity" />
+    <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser_browseractivity" />
+
+    <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}" drawable="com_android_gallery3d"/>
+    <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="com_android_gallery3d"/>
+    <item component="ComponentInfo{com.google.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="com_android_gallery3d"/>
+    <item component="ComponentInfo{com.android.gallery3d/com.android.hwcamera}" drawable="com_android_gallery3d"/>
+
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="com_android_calculator2"/>
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator-Dark}" drawable="com_android_calculator2"/>
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.AsxCalculator}" drawable="com_android_calculator2"/>
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator-Light}" drawable="com_android_calculator2"/>
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.CalculatorActivity}" drawable="com_android_calculator2"/>
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.AdvancedCalulator}" drawable="com_android_calculator2"/>
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator2}" drawable="com_android_calculator2"/>
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Ca}" drawable="com_android_calculator2"/>
+
+    <!-- Settings -->
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="com_android_settings"/>
+    <item component="ComponentInfo{com.android.settings/com.android.settings.TetherSettings}" drawable="com_android_settings"/>
+    <item component="ComponentInfo{com.android.settings/com.android.settings.TetherSettingsActivity}" drawable="com_android_settings"/>
+    <item component="ComponentInfo{com.android.settings/com.android.settings.TetherSettingsWifi}" drawable="com_android_settings"/>
+    <item component="ComponentInfo{com.android.settings/com.android.settings.MainEntry}" drawable="com_android_settings"/>
+    <item component="ComponentInfo{com.android.settings/com.android.settings.MiuiSettings}" drawable="com_android_settings"/>
+    <item component="ComponentInfo{com.android.settings/com.android.settings.MiuiPasswordGuardActivity}" drawable="com_android_settings"/>
+    <item component="ComponentInfo{com.android.settings/com.android.settings.framework.activity.HtcSettings}" drawable="com_android_settings"/>
+
+    <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.cyngn.cameranext/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
+
+    <!-- Browser -->
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserLauncher}" drawable="com_android_browser" />
+    <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.ui.BrowserActivity}" drawable="com_android_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.WoActivity}" drawable="com_android_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.WoHallActivity}" drawable="com_android_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.Browser9130MainView}" drawable="com_android_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.MonternetLauncherActivity}" drawable="com_android_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserDownloadPage}" drawable="com_android_browser" />
+    <item component="ComponentInfo{com.android.browser/com.motorola.android.browser.ChinaMobileActivity}" drawable="com_android_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.CombinedBookmarkHistoryActivity}" drawable="com_android_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BaiduShortcutActivity}" drawable="com_android_browser" />
+    <item component="ComponentInfo{com.android.browser/com.yulong.android.browser.BrowserStartPage}" drawable="com_android_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.LoginBrowserActivity}" drawable="com_android_browser" />
+
+
+    <!-- Google Plus -->
+    <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plusone.app.HomeScreenActivity}" drawable="com_google_android_apps_plus"/>
+    <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity}" drawable="com_google_android_apps_plus"/>
+    <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.StreamOneUpActivity}" drawable="com_google_android_apps_plus"/>
+    <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.settings.SettingsActivity}" drawable="com_google_android_apps_plus"/>
+    <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.PhotoOneUpActivity}" drawable="com_google_android_apps_plus"/>
+    <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.SignOnActivity}" drawable="com_google_android_apps_plus"/>
+    <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.ProfilActionGatewayActivity}" drawable="com_google_android_apps_plus"/>
+    <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.ViewStreamItemActivity}" drawable="com_google_android_apps_plus"/>
+    <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.ViewStreamItemPhotoActivity}" drawable="com_google_android_apps_plus"/>
+    <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.ViewCircleActivity}" drawable="com_google_android_apps_plus"/>
+    <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.widget.EsWidgetConfigurationActivity}" drawable="com_google_android_apps_plus"/>
+    <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.settings.SettingsActivity}" drawable="com_google_android_apps_plus"/>
+    <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.InviteContactActivity}" drawable="com_google_android_apps_plus"/>
+
+    <!-- Google Translate -->
+    <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.HomeActivity}" drawable="com_google_android_apps_translate"/>
+
+    <!-- YouTube -->
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.HomeActivity}" drawable="com_google_android_apps_youtube"/>
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.HomePage}" drawable="com_google_android_apps_youtube"/>
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="com_google_android_apps_youtube"/>
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.froyo.phone.HomeActivity}" drawable="com_google_android_apps_youtube"/>
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.tablet.HomeActivity}" drawable="com_google_android_apps_youtube"/>
+
+
+    <!-- Music -->
+    <item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserActivity}" drawable="com_android_music"/>
+    <item component="ComponentInfo{com.google.android/com.google.android.music.MusicBrowserActivity}" drawable="com_android_music"/>
+    <item component="ComponentInfo{com.htc.music/com.htc.music.HtcMusic}" drawable="com_android_music"/>
+    <item component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.list.activity.MpMainTabActivity}" drawable="com_android_music"/>
+    <item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserActivity}" drawable="com_android_music"/>
+    <item component="ComponentInfo{com.android.music/com.android.music.list.activity.MpMainTabActivity}" drawable="com_android_music"/>
+    <item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserTabActivity}" drawable="com_android_music"/>
+    <item component="ComponentInfo{com.htc.music/com.htc.music.browserlayer.MusicBrowserTabActivity}" drawable="com_android_music"/>
+
+
+
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+    <item drawable="camera" />
+    <item drawable="calendar" />
+    <item drawable="contacts" />
+    <item drawable="settings" />
+    <item drawable="gplay" />
+</resources>
+<!-- From: file:/C:/Users/user/AndroidStudioProjects/Новая%20папка%20(2)2/app/src/main/res/xml/drawable.xml -->
