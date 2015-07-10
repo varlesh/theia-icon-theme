@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <iconback img1="iconback" />
-    <iconmask img1="iconmask" />
-    <iconupon img1="iconupon" />
-    <scale factor=".75" />
+    <iconback img1="iconback"/>
+    <iconmask img1="iconmask"/>
+    <iconupon img1="iconupon"/>
+    <scale factor=".75"/>
 
-    <!-- Browser -->
-    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser_browseractivity" />
-    <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser_browseractivity" />
-
+    <!-- Gallery -->
     <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}" drawable="com_android_gallery3d"/>
     <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="com_android_gallery3d"/>
     <item component="ComponentInfo{com.google.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="com_android_gallery3d"/>
     <item component="ComponentInfo{com.android.gallery3d/com.android.hwcamera}" drawable="com_android_gallery3d"/>
 
+    <!-- Calculator -->
     <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="com_android_calculator2"/>
     <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator-Dark}" drawable="com_android_calculator2"/>
     <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.AsxCalculator}" drawable="com_android_calculator2"/>
@@ -33,31 +31,46 @@
     <item component="ComponentInfo{com.android.settings/com.android.settings.MiuiPasswordGuardActivity}" drawable="com_android_settings"/>
     <item component="ComponentInfo{com.android.settings/com.android.settings.framework.activity.HtcSettings}" drawable="com_android_settings"/>
 
+    <!-- Camera -->
+    <item component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.android.camera/com.android.camera.CameraEntry}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.android.gallery3d/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.google.android.camera/com.android.camera.Camera}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="com_android_camera"/>
-    <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
-    <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
-    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="com_android_camera"/>
-    <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
-    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="com_android_camera"/>
-    <item component="ComponentInfo{com.cyngn.cameranext/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.google.android.gallery3d/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.cyngn.cameranextmod/com.cyngn.cameranextmod}" drawable="com_android_camera"/>
 
     <!-- Browser -->
-    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser" />
-    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserLauncher}" drawable="com_android_browser" />
-    <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser" />
-    <item component="ComponentInfo{com.android.browser/com.android.browser.ui.BrowserActivity}" drawable="com_android_browser" />
-    <item component="ComponentInfo{com.android.browser/com.android.browser.WoActivity}" drawable="com_android_browser" />
-    <item component="ComponentInfo{com.android.browser/com.android.browser.WoHallActivity}" drawable="com_android_browser" />
-    <item component="ComponentInfo{com.android.browser/com.android.browser.Browser9130MainView}" drawable="com_android_browser" />
-    <item component="ComponentInfo{com.android.browser/com.android.browser.MonternetLauncherActivity}" drawable="com_android_browser" />
-    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserDownloadPage}" drawable="com_android_browser" />
-    <item component="ComponentInfo{com.android.browser/com.motorola.android.browser.ChinaMobileActivity}" drawable="com_android_browser" />
-    <item component="ComponentInfo{com.android.browser/com.android.browser.CombinedBookmarkHistoryActivity}" drawable="com_android_browser" />
-    <item component="ComponentInfo{com.android.browser/com.android.browser.BaiduShortcutActivity}" drawable="com_android_browser" />
-    <item component="ComponentInfo{com.android.browser/com.yulong.android.browser.BrowserStartPage}" drawable="com_android_browser" />
-    <item component="ComponentInfo{com.android.browser/com.android.browser.LoginBrowserActivity}" drawable="com_android_browser" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser"/>
+    <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser"/>
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser"/>
+    <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser"/>
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser"/>
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserLauncher}" drawable="com_android_browser"/>
+    <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser"/>
+    <item component="ComponentInfo{com.android.browser/com.android.browser.ui.BrowserActivity}" drawable="com_android_browser"/>
+    <item component="ComponentInfo{com.android.browser/com.android.browser.WoActivity}" drawable="com_android_browser"/>
+    <item component="ComponentInfo{com.android.browser/com.android.browser.WoHallActivity}" drawable="com_android_browser"/>
+    <item component="ComponentInfo{com.android.browser/com.android.browser.Browser9130MainView}" drawable="com_android_browser"/>
+    <item component="ComponentInfo{com.android.browser/com.android.browser.MonternetLauncherActivity}" drawable="com_android_browser"/>
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserDownloadPage}" drawable="com_android_browser"/>
+    <item component="ComponentInfo{com.android.browser/com.motorola.android.browser.ChinaMobileActivity}" drawable="com_android_browser"/>
+    <item component="ComponentInfo{com.android.browser/com.android.browser.CombinedBookmarkHistoryActivity}" drawable="com_android_browser"/>
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BaiduShortcutActivity}" drawable="com_android_browser"/>
+    <item component="ComponentInfo{com.android.browser/com.yulong.android.browser.BrowserStartPage}" drawable="com_android_browser"/>
+    <item component="ComponentInfo{com.android.browser/com.android.browser.LoginBrowserActivity}" drawable="com_android_browser"/>
 
-
+    <!-- Messaging -->
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="com_android_mms"/>
+    <item component="ComponentInfo{com.motorola.blur.conversations/com.motorola.blur.conversations.ui.ConversationList}" drawable="com_android_mms"/>
+    <item component="ComponentInfo{com.motorola.blur.messaging/com.motorola.blur.messaging.MessagingActivity}" drawable="com_android_mms"/>
+    <item component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}" drawable="com_android_mms"/>
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="com_android_mms"/>
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MessageTabActivity}" drawable="com_android_mms"/>
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging}" drawable="com_android_mms"/>
+    
     <!-- Google Plus -->
     <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plusone.app.HomeScreenActivity}" drawable="com_google_android_apps_plus"/>
     <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity}" drawable="com_google_android_apps_plus"/>
@@ -72,7 +85,7 @@
     <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.widget.EsWidgetConfigurationActivity}" drawable="com_google_android_apps_plus"/>
     <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.settings.SettingsActivity}" drawable="com_google_android_apps_plus"/>
     <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.InviteContactActivity}" drawable="com_google_android_apps_plus"/>
-
+    
     <!-- Google Translate -->
     <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.HomeActivity}" drawable="com_google_android_apps_translate"/>
 
@@ -84,12 +97,12 @@
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.tablet.HomeActivity}" drawable="com_google_android_youtube"/>
     
     <!-- Calendar -->
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" drawable="com_android_calendar" />
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="com_android_calendar" />
-    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="com_android_calendar" />
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.CalendarTabActivity}" drawable="com_android_calendar" />
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.MonthActivity}" drawable="com_android_calendar" />
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AgendaActivity}" drawable="com_android_calendar" />
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" drawable="com_android_calendar"/>
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="com_android_calendar"/>
+    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="com_android_calendar"/>
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.CalendarTabActivity}" drawable="com_android_calendar"/>
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.MonthActivity}" drawable="com_android_calendar"/>
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AgendaActivity}" drawable="com_android_calendar"/>
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.EventInfoActivity}" drawable="com_android_calendar"/> 
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.EditEventActivity}" drawable="com_android_calendar"/> 
     <item component="ComponentInfo{com.htc.calendar/com.htc.calendar.MonthActivity}" drawable="com_android_calendar"/>
@@ -110,47 +123,11 @@
     <item component="ComponentInfo{com.android.music/com.android.music.list.activity.MpMainTabActivity}" drawable="com_android_music"/>
     <item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserTabActivity}" drawable="com_android_music"/>
     <item component="ComponentInfo{com.htc.music/com.htc.music.browserlayer.MusicBrowserTabActivity}" drawable="com_android_music"/>
+    
+    <!-- Apps -->
     <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="com_alensw_PicFolder"/>
 
-    <!-- Camera -->
-    <item component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}" drawable="com_android_camera"/>
-    <item component="ComponentInfo{com.android.camera/com.android.camera.CameraEntry}" drawable="com_android_camera"/>
-    <item component="ComponentInfo{com.android.gallery3d/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
-    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="com_android_camera"/>
-    <item component="ComponentInfo{com.google.android.camera/com.android.camera.Camera}" drawable="com_android_camera"/>
-    <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="com_android_camera"/>
-    <item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="com_android_camera"/>
-    <item component="ComponentInfo{com.google.android.gallery3d/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
-    <item component="ComponentInfo{com.cyngn.cameranextmod/com.cyngn.cameranextmod}" drawable="com_android_camera"/>
-
-    <!-- Messaging -->
-    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="com_android_mms"/>
-    <item component="ComponentInfo{com.motorola.blur.conversations/com.motorola.blur.conversations.ui.ConversationList}" drawable="com_android_mms"/>
-    <item component="ComponentInfo{com.motorola.blur.messaging/com.motorola.blur.messaging.MessagingActivity}" drawable="com_android_mms"/>
-    <item component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}" drawable="com_android_mms"/>
-    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="com_android_mms"/>
-    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MessageTabActivity}" drawable="com_android_mms"/>
-    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging}" drawable="com_android_mms"/>
-
-    <!-- Calendar -->
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" drawable="com_android_calendar" />
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="com_android_calendar" />
-    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="ccom_android_calendar" />
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.CalendarTabActivity}" drawable="com_android_calendar" />
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.MonthActivity}" drawable="com_android_calendar" />
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AgendaActivity}" drawable="com_android_calendar" />
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.EventInfoActivity}" drawable="com_android_calendar"/> 
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.EditEventActivity}" drawable="com_android_calendar"/> 
-    <item component="ComponentInfo{com.htc.calendar/com.htc.calendar.MonthActivity}" drawable="com_android_calendar"/>
-    <item component="ComponentInfo{com.htc.calendar/com.htc.calendar.LaunchActivity}" drawable="com_android_calendar"/>
-    <item component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" drawable="com_android_calendar"/>
-    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}" drawable="com_android_calendar"/>
-    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.HtcCalendarProvider}" drawable="com_android_calendar"/>
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.timeline.EventListWithStartTime}" drawable="com_android_calendar"/>
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.ChooserActivity}" drawable="com_android_calendar"/>
-
-
-
+    <!-- Games -->
 
 
 </resources>
