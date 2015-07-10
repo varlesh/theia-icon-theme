@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <iconback img1="iconback" />
-	<iconmask img1="iconmask" />
+    <iconmask img1="iconmask" />
     <iconupon img1="iconupon" />
     <scale factor=".75" />
 
     <!-- Browser -->
-	<item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser_browseractivity" />
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser_browseractivity" />
     <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser_browseractivity" />
 
     <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}" drawable="com_android_gallery3d"/>
@@ -77,11 +77,28 @@
     <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.HomeActivity}" drawable="com_google_android_apps_translate"/>
 
     <!-- YouTube -->
-    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.HomeActivity}" drawable="com_google_android_apps_youtube"/>
-    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.HomePage}" drawable="com_google_android_apps_youtube"/>
-    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="com_google_android_apps_youtube"/>
-    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.froyo.phone.HomeActivity}" drawable="com_google_android_apps_youtube"/>
-    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.tablet.HomeActivity}" drawable="com_google_android_apps_youtube"/>
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.HomeActivity}" drawable="com_google_android_youtube"/>
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.HomePage}" drawable="com_google_android_youtube"/>
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="com_google_android_youtube"/>
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.froyo.phone.HomeActivity}" drawable="com_google_android_youtube"/>
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.tablet.HomeActivity}" drawable="com_google_android_youtube"/>
+    
+    <!-- Calendar -->
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" drawable="com_android_calendar" />
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="com_android_calendar" />
+    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="com_android_calendar" />
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.CalendarTabActivity}" drawable="com_android_calendar" />
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.MonthActivity}" drawable="com_android_calendar" />
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AgendaActivity}" drawable="com_android_calendar" />
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.EventInfoActivity}" drawable="com_android_calendar"/> 
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.EditEventActivity}" drawable="com_android_calendar"/> 
+    <item component="ComponentInfo{com.htc.calendar/com.htc.calendar.MonthActivity}" drawable="com_android_calendar"/>
+    <item component="ComponentInfo{com.htc.calendar/com.htc.calendar.LaunchActivity}" drawable="com_android_calendar"/>
+    <item component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" drawable="com_android_calendar"/>
+    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}" drawable="com_android_calendar"/>
+    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.HtcCalendarProvider}" drawable="com_android_calendar"/>
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.timeline.EventListWithStartTime}" drawable="com_android_calendar"/>
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.ChooserActivity}" drawable="com_android_calendar"/>
 
 
     <!-- Music -->
@@ -93,6 +110,7 @@
     <item component="ComponentInfo{com.android.music/com.android.music.list.activity.MpMainTabActivity}" drawable="com_android_music"/>
     <item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserTabActivity}" drawable="com_android_music"/>
     <item component="ComponentInfo{com.htc.music/com.htc.music.browserlayer.MusicBrowserTabActivity}" drawable="com_android_music"/>
+    <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="com_alensw_PicFolder"/>
 
 
 
