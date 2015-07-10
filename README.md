@@ -1,2 +1,2 @@
 # elementary-style
-android icon theme
+Android icon theme.
