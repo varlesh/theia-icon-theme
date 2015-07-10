@@ -94,6 +94,18 @@
     <item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserTabActivity}" drawable="com_android_music"/>
     <item component="ComponentInfo{com.htc.music/com.htc.music.browserlayer.MusicBrowserTabActivity}" drawable="com_android_music"/>
 
+    <!-- Camera -->
+    <item component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.android.camera/com.android.camera.CameraEntry}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.android.gallery3d/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.google.android.camera/com.android.camera.Camera}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.google.android.gallery3d/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.cyngn.cameranextmod/com.cyngn.cameranextmod}" drawable="com_android_camera"/>
+
+
 
 
 
