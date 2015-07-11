@@ -75,6 +75,11 @@
         <item>ru_mail_mailapp</item>
         <item>ru_ok_android</item>
         <item>ru_superjob_client_android</item>
-        <item>com_android_soundrecorder</item>
+        <item>com_flyersoft_moonreader</item>
+        <item>com_google_android_apps_fitness</item>
+        <item>com_instagram_android</item>
+        <item>com_twitter_android</item>
+        <item>io_meduza_android</item>
+        <item>mobi_beyondpod</item>
 	</string-array>
 </resources>

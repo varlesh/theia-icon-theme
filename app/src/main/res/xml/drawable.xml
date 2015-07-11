@@ -65,6 +65,10 @@
     <item drawable="com_google_android_googlequicksearchbox"/>
     <item drawable="ru_superjob_client_android"/>
     <item drawable="com_android_settings_wifi"/>
-    <item drawable="com_android_soundrecorder"/>
-
+    <item drawable="com_flyersoft_moonreader"/>
+    <item drawable="com_google_android_apps_fitness"/>
+    <item drawable="com_instagram_android"/>
+    <item drawable="com_twitter_android"/>
+    <item drawable="io_meduza_android"/>
+    <item drawable="mobi_beyondpod"/>
 </resources>
