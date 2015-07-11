@@ -390,7 +390,7 @@
     <item component="ComponentInfo{ru.ok.android/ru.ok.android.ui.activity.main.OdklActivity}" drawable="ru_ok_android" />
 
     <!-- KDE Connect -->
-    <item component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivit}" drawable="org_kde_kdeconnect_tp" />
+    <item component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}" drawable="org_kde_kdeconnect_tp" />
 
     <!-- World Time -->
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="com_android_deskclock" />

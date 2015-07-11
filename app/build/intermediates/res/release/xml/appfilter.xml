@@ -44,6 +44,8 @@
     <item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.google.android.gallery3d/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.cyngn.cameranextmod/com.cyngn.cameranextmod.CameraLauncher}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.android.camera/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
 
     <!-- Browser -->
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser"/>
@@ -128,7 +130,7 @@
     <item component="ComponentInfo{com.htc.music/com.htc.music.browserlayer.MusicBrowserTabActivity}" drawable="com_android_music"/>
     
     <!-- Apps -->
-    <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="com_alensw_PicFolder"/>
+    <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="com_alensw_picfolder"/>
 
     <!-- Email -->
     <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="com_android_email"/>
@@ -228,6 +230,9 @@
 
     <!-- Google_settings -->
     <item component="ComponentInfo{com.google.android.gms/com.google.android.gms.app.settings.GoogleSettingsActivity}" drawable="google_settings" />
+    <item component="ComponentInfo{com.google.android.gms/com.google.android.gms.common.settings.GoogleSettingsActivity}" drawable="google_settings" />
+    <item component="ComponentInfo{com.google.android.gms/com.google.android.location.settings.GoogleLocationSettingsActivit}" drawable="google_settings" />
+
 
 
     <!-- Google Maps-->
@@ -368,7 +373,7 @@
     <item component="ComponentInfo{com.indeed.android.jobsearch/com.indeed.android.jobsearch.MainActivity}" drawable="com_indeed_android_jobsearch"/>
 
     <!-- UC Browser-->
-    <item component="ComponentInfo{com.UCMobile.intl/com.UCMobile.main.UCMobile}" drawable="com_UCMobile_intl"/>
+    <item component="ComponentInfo{com.ucmobile.intl/com.ucmobile.main.ucmobile}" drawable="com_ucmobile_intl"/>
 
     <!-- Viber -->
     <item component="ComponentInfo{com.viber.voip/com.viber.voip.IdleActivity}" drawable="com_viber_voip" />
@@ -395,14 +400,31 @@
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="com_android_deskclock" />
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.TabDetails}" drawable="com_android_deskclock" />
     <item component="ComponentInfo{com.android.deskclock/com.pantech.app.clock.ClockLauncher}" drawable="com_android_deskclock" />
+    <item component="com.chineseinspiration/com.chineseinspiration.Clocks}" drawable="com_android_deskclock" />
+
 
 
     <!-- FM Radio -->
-    <item component="ComponentInfo{com.sec.android.app.fm/com.sec.android.app.fm.MainActivity}" drawable="com_android_secundomer"/>
-    <item component="ComponentInfo{com.miui.fmradio/com.miui.fmradio.FMRadioMain}" drawable="com_android_secundomer"/>
-    <item component="ComponentInfo{com.motorola.fmradio/com.motorola.fmradio.FMRadioMain}" drawable="com_android_secundomer"/>
-    <item component="ComponentInfo{com.htc.fm/com.htc.fm.FMRadioMain}" drawable="com_android_secundomer"/>
-    <item component="ComponentInfo{com.android.fm/com.android.fm.radio.FMRadio}" drawable="com_android_secundomer" />
+    <item component="ComponentInfo{com.sec.android.app.fm/com.sec.android.app.fm.MainActivity}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.miui.fmradio/com.miui.fmradio.FMRadioMain}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.motorola.fmradio/com.motorola.fmradio.FMRadioMain}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.htc.fm/com.htc.fm.FMRadioMain}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.android.fm/com.android.fm.radio.FMRadio}" drawable="com_android_radio" />
+    <item component="ComponentInfo{com.htc.fm/com.htc.fm.activity.FMRadioEdit}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.htc.fm/com.htc.fm.ap.activity.FMRadioMain}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.lge.fmradio/com.lge.fmradio.FmRadio}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.motorola.motofmradio/com.motorola.motofmradio.FMPlayer}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.sonyericsson.fmradio/com.sonyericsson.fmradio.FMRadioActivity}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.ti.fmapp/com.ti.fmapp.FmRxApp}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.sonyericsson.fmradio/com.sonyericsson.fmradio.ui.FmRadioActivity}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.broadcom.bt.app.fm/com.broadcom.bt.app.fm.rx.FmRadio}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.quicinc.fmradio/com.quicinc.fmradio.FMRadio}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.lge.fmradio/com.lge.fmradio.IntroActivity}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.thunderst.radio/com.thunderst.radio.FMPlay}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.caf.fmradio/com.caf.fmradio.FMRadio}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.miui.fmradio/com.miui.fmradio.FMRadioActivity}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.cyanogenmod.fmradio/com.cyanogenmod.fmradio.screens.BandSelectionScreen}" drawable="com_android_radio"/>
+
 
     <!-- FB Reader -->
     <item component="ComponentInfo{org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.FBReader}" drawable="org_geometerplus_zlibrary_ui_android"/>
@@ -455,7 +477,42 @@
     
 
     <!-- WiFi AP -->
-    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings.WifiApSettingsActivity}" drawable="WifiApSettingsActivity"/>
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings.WifiApSettingsActivity}" drawable="com_android_settings_wifi"/>
+
+    <!-- Flud -->
+    <item component="ComponentInfo{comcom.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="com_delphicoder_flud"/>
+
+    <!-- Sound Recorder -->
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="com_android_soundrecorder"/>
+
+    <!-- Moon Reader -->
+    <item component="ComponentInfo{com.flyersoft.moonreader/com.flyersoft.moonreader.ActivityMain}" drawable="com_flyersoft_moonreader"/>
+    <item component="ComponentInfo{com.flyersoft.moonreaderp/com.flyersoft.moonreaderp.ActivityMain}" drawable="com_flyersoft_moonreader"/>
+    <item component="ComponentInfo{com.flyersoft.moonreaderpro/com.flyersoft.moonreaderpro.ActivityMain}" drawable="com_flyersoft_moonreader"/>
+    <item component="ComponentInfo{com.flyersoft.moonreaderpj/com.flyersoft.moonreaderpj.ActivityMain}" drawable="com_flyersoft_moonreader"/>
+
+    <!-- Google Fit -->
+    <item component="ComponentInfo{com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity}" drawable="com_google_android_apps_fitness"/>
+
+    <!-- Instagram -->
+    <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="com_instagram_android"/>
+
+    <!-- Twitter-->
+    <item component="ComponentInfo{com.twitter.android/com.twitter.android.LoginActivity}" drawable="com_twitter_android"/>
+    <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="com_twitter_android"/>
+
+    <!-- Meduza -->
+    <item component="ComponentInfo{io.meduza.android/io.meduza.android.MainActivity}" drawable="io_meduza_android"/>
+
+    <!-- BeyonPod -->
+    <item component="ComponentInfo{mobi.beyondpod/mobi.beyondpod.ui.views.Splash}" drawable="mobi_beyondpod"/>
+    
+    <!-- Pocket -->
+    <item component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity}" drawable="com_ideashower_readitlater_pro"/>
+    <item component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.SplashActivity}" drawable="com_ideashower_readitlater_pro"/>
+
+
+
 
 </resources>
 <!-- From: file:/C:/Users/user/AndroidStudioProjects/elementary-style/app/src/main/res/xml/appfilter.xml -->
