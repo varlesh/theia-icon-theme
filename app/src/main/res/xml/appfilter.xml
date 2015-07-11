@@ -479,7 +479,6 @@
     <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.DialerTabActivity}" drawable="com_android_dialer"/>
     <item component="ComponentInfo{com.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="com_android_dialer"/>
     
-
     <!-- WiFi AP -->
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings.WifiApSettingsActivity}" drawable="com_android_settings_wifi"/>
 
