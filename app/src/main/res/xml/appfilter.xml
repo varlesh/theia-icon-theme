@@ -401,7 +401,7 @@
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.TabDetails}" drawable="com_android_deskclock" />
     <item component="ComponentInfo{com.android.deskclock/com.pantech.app.clock.ClockLauncher}" drawable="com_android_deskclock" />
     <item component="com.chineseinspiration/com.chineseinspiration.Clocks}" drawable="com_android_deskclock" />
-    <item component="com.android.qworldclock/com.android.qworldclock.QWorldClock}" drawable="com_android_deskclock" />
+    <item component="com.android.qworldclock/com.android.qworldclock.QWorldClock}" drawable="com_android_world_clock" />
 
 
 
