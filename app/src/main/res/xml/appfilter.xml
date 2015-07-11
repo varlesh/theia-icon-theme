@@ -438,6 +438,7 @@
     <!-- AudioFX -->
     <item component="ComponentInfo{com.namakerorin.audiofxwidget/com.namakerorin.audiofxwidget.Settings}" drawable="com_android_equalizer"/>
     <item component="ComponentInfo{com.hbstudios.dspmanagerfree/com.hbstudios.dspmanagerfree.AudioFX}" drawable="com_android_equalizer"/>
+    <item component="ComponentInfo{com.android.musicfx/com.android.musicfx.ActivityMusic}" drawable="com_android_equalizer"/>
 
     <!-- Google Search -->
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="com_google_android_googlequicksearchbox"/>
