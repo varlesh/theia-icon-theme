@@ -228,6 +228,14 @@
 
     <!-- Google_settings -->
     <item component="ComponentInfo{com.google.android.gms/com.google.android.gms.app.settings.GoogleSettingsActivity}" drawable="google_settings" />
+
+
+    <!-- Google Maps-->
+    <item component="ComponentInfo{com.google.android.apps.maps/com.android.internal.app.ResolverActivity}" drawable="com_google_android_maps"/>
+
+    <!-- Google Movies -->
+    <item component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.honeycomb.VideosActivity}" drawable="com_google_android_videos"/>
+    <item component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" drawable="com_google_android_videos"/>
     
 
     <!-- GMail -->
@@ -288,6 +296,7 @@
     <!-- Firefox -->
     <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="org_mozilla_firefox" />
     <item component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" drawable="org_mozilla_firefox" />
+    <item component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" drawable="org_mozilla_firefox_beta"/>
 
     <!-- Telegram -->
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="org_telegram_messenger" />
@@ -305,14 +314,11 @@
     <!-- Adobe Reader -->
     <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="com_adobe_reader" />
 
-    <!-- Foobnix PDF Reader -->
-    <item component="ComponentInfo{com.foobnix.pdf.reader/com.foobnix.pdf.reader.Main}" drawable="com_foobnix_pdf_reader" />
-
     <!-- Tinnkof Bank -->
     <item component="ComponentInfo{com.idamob.tinkoff.android/com.idamob.tinkoff.android.Main}" drawable="com_idamob_tinkoff_android" />
 
     <!-- RuTaxi -->
-    <item component="ComponentInfo{com.its.rto/com.its.rto.Main}" drawable="com_its_rto" />
+    <item component="ComponentInfo{ru.yandex.taxi/ru.yandex.taxi.activity.StartActivity}" drawable="com_its_rto"/>
 
     <!-- MX Player Pro -->
     <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.ActivityVideoList}" drawable="com_mxtech_videoplayer_ad"/>
@@ -324,16 +330,44 @@
     <item component="ComponentInfo{com.trablone.geekhabr/com.trablone.geekhabr.Main}" drawable="com_trablone_geekhabr" />
 
     <!-- Keepas2Android -->
-    <item component="ComponentInfo{keepass2android.keepass2android/keepass2android.keepass2android.Main}" drawable="keepass2android_keepass2android" />
+    <item component="ComponentInfo{keepass2android.keepass2android/keepass2android.KeePass}" drawable="keepass2android_keepass2android" />
 
     <!-- 2GIS -->
     <item component="ComponentInfo{ru.dublgis.dgismobile/ru.dublgis.dgismobile.GrymMobileActivity}" drawable="ru_dublgis_dgismobile"/>
 
+    <!-- Flud -->
+    <item component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="com_delphicoder_flud"/>
+
+    <!-- Mplayer -->
+    <item component="ComponentInfo{com.android.mplayer/com.android.mplayer.Main}" drawable="com_android_mplayer"/>
 
 
+    <!-- Foobnix PDF Reader -->
+    <item component="ComponentInfo{com.foobnix.pdf.reader/com.foobnix.pdf.info.MainBrowserActivity}" drawable="com_foobnix_pdf_reader"/>
+
+    <!-- Chromecast-->
+    <item component="ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}" drawable="com_google_android_apps_chromecast_app"/>
 
 
+    <!-- Job Search-->
+    <item component="ComponentInfo{com.indeed.android.jobsearch/com.indeed.android.jobsearch.MainActivity}" drawable="com_indeed_android_jobsearch"/>
 
+    <!-- UC Browser-->
+    <item component="ComponentInfo{com.UCMobile.intl/com.UCMobile.main.UCMobile}" drawable="com_UCMobile_intl"/>
+
+    <!-- Viber -->
+    <item component="ComponentInfo{com.viber.voip/com.viber.voip.IdleActivity}" drawable="com_viber_voip" />
+    <item component="ComponentInfo{com.viber.voip/com.viber.voip.LaunchActivity}" drawable="com_viber_voip" />
+    <item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="com_viber_voip" />
+
+    <!-- Yandex Browser -->
+    <item component="ComponentInfo{com.yandex.browser/com.yandex.browser.YandexBrowserActivity}" drawable="com_yandex_browser" />
+
+    <!-- Mail.Ru -->
+    <item component="ComponentInfo{ru.mail.mailapp/ru.mail.mailapp.SplashScreenActivity}" drawable="ru_mail_mailapp" />
+
+    <!-- Mail.Ru -->
+    <item component="ComponentInfo{ru.ok.android/ru.ok.android.ui.activity.main.OdklActivity}" drawable="ru_ok_android" />
 
 
 
