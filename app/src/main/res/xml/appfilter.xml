@@ -398,11 +398,11 @@
 
 
     <!-- FM Radio -->
-    <item component="ComponentInfo{com.sec.android.app.fm/com.sec.android.app.fm.MainActivity}" drawable="com_android_secundomer"/>
-    <item component="ComponentInfo{com.miui.fmradio/com.miui.fmradio.FMRadioMain}" drawable="com_android_secundomer"/>
-    <item component="ComponentInfo{com.motorola.fmradio/com.motorola.fmradio.FMRadioMain}" drawable="com_android_secundomer"/>
-    <item component="ComponentInfo{com.htc.fm/com.htc.fm.FMRadioMain}" drawable="com_android_secundomer"/>
-    <item component="ComponentInfo{com.android.fm/com.android.fm.radio.FMRadio}" drawable="com_android_secundomer" />
+    <item component="ComponentInfo{com.sec.android.app.fm/com.sec.android.app.fm.MainActivity}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.miui.fmradio/com.miui.fmradio.FMRadioMain}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.motorola.fmradio/com.motorola.fmradio.FMRadioMain}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.htc.fm/com.htc.fm.FMRadioMain}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.android.fm/com.android.fm.radio.FMRadio}" drawable="com_android_radio" />
 
     <!-- FB Reader -->
     <item component="ComponentInfo{org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.FBReader}" drawable="org_geometerplus_zlibrary_ui_android"/>
@@ -455,6 +455,6 @@
     
 
     <!-- WiFi AP -->
-    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings.WifiApSettingsActivity}" drawable="WifiApSettingsActivity"/>
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings.WifiApSettingsActivity}" drawable="com_android_settings_wifi"/>
 
 </resources>
