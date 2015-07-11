@@ -5,6 +5,9 @@
     <iconupon img1="iconupon"/>
     <scale factor=".75"/>
 
+    <!-- Appdrawer -->
+    <item component="ComponentInfo{JakedUp.AppDrawer/JakedUp.AppDrawer.Main}" drawable="rename_me_app_drawer"/>
+
     <!-- Gallery -->
     <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}" drawable="com_android_gallery3d"/>
     <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="com_android_gallery3d"/>
@@ -204,6 +207,10 @@
     <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="com_google_android_maps"/>
     <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.PlacesActivity}" drawable="com_google_android_maps"/>
 
+    <!-- Google Earth -->
+    <item component="ComponentInfo{com.google.earth/com.google.earth.EarthActivity}" drawable="com_google_earth"/>
+    <item component="ComponentInfo{com.google.earth/com.google.earth.MainActivity}" drawable="com_google_earth"/>
+
     <!-- Google Drive -->
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="com_google_android_apps_docs"/>
 
@@ -241,8 +248,34 @@
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="com_google_android_youtube"/>
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.froyo.phone.HomeActivity}" drawable="com_google_android_youtube"/>
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.tablet.HomeActivity}" drawable="com_google_android_youtube"/>
+
+    <!-- Opera Mobile -->
+    <item component="ComponentInfo{com.opera.browser/com.opera.Opera}" drawable="com_opera_browser"/>
+    <!-- Opera Mini -->
+    <item component="ComponentInfo{com.opera.mini.android/com.opera.mini.android.Browser}" drawable="com_opera_browser"/>
+    
+    <!-- APP: PushBullet -->
+    <item component="ComponentInfo{com.pushbullet.android/com.pushbullet.android.ui.LaunchActivity}" drawable="com_pushbullet_android" />
+
+    <!-- Skype -->
+    <item component="ComponentInfo{com.skype.raider/com.skype.raider.ui.SplashScreenActivity}" drawable="com_skype_android_raider"/>
+    <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="com_skype_android_raider"/>
+
+    <!-- Viber -->
+    <item component="ComponentInfo{com.viber.voip/com.viber.voip.IdleActivity}" drawable="com_viber_voip" />
+
+    <!-- WhatsApp -->
+    <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="com_whatsapp"/>
+
+    <!-- Firefox -->
+    <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="org_mozilla_firefox" />
+    <item component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" drawable="org_mozilla_firefox" />
+
+    <!-- Telegram -->
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="org_telegram_messenger" />
+    <item component="ComponentInfo{org.telegram.android/org.telegram.android.StartActivity}" drawable="org_telegram_messenger" />
+    
     
 
-    
 
 </resources>
