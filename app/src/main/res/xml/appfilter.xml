@@ -269,10 +269,10 @@
     <item component="ComponentInfo{com.opera.browser/com.opera.Opera}" drawable="com_opera_browser"/>
     <!-- Opera Mini -->
     <item component="ComponentInfo{com.opera.mini.android/com.opera.mini.android.Browser}" drawable="com_opera_browser"/>
-    <!--Opera-->
+    <!--Opera Beta-->
     <item component="ComponentInfo{com.opera.browser.beta/com.opera.Opera}" drawable="com_opera_browser_beta" />
     
-    <!-- APP: PushBullet -->
+    <!-- PushBullet -->
     <item component="ComponentInfo{com.pushbullet.android/com.pushbullet.android.ui.LaunchActivity}" drawable="com_pushbullet_android" />
 
     <!-- Skype -->
