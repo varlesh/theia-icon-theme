@@ -6,65 +6,101 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91df4109-073e-48e8-b3a5-7efb3f78b966" name="Default" comment="Fixed compile errors">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/com_usmobile_intl.png" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\pre-dexed\debug\android-support-v4-70263f5b69e89d9dd45c1bd10dccc4ec9b19a605.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\debug\drawable-mdpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\debug\drawable-xhdpi\com_android_calculator2.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\debug\drawable-xhdpi\com_android_calendar.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\debug\drawable-xhdpi\com_android_camera.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\debug\drawable-xhdpi\com_android_contacts.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\debug\drawable-xhdpi\com_android_deskclock.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\debug\drawable-xhdpi\com_android_gallery3d.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\debug\drawable-xhdpi\com_android_mms.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\debug\drawable-xhdpi\com_android_mplayer.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\debug\drawable-xhdpi\com_android_music.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\debug\drawable-xhdpi\com_android_settings.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\debug\drawable-xhdpi\com_android_vending.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\src\main\res\drawable-xhdpi\com_UCMobile_intl.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\src\main\res\drawable\drawable.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/areeb/scratch/iconpack/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/areeb/scratch/iconpack/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/areeb/scratch/iconpack/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/areeb/scratch/iconpack/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/areeb/scratch/iconpack/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/areeb/scratch/iconpack/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/areeb/scratch/iconpack/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/areeb/scratch/iconpack/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/areeb/scratch/iconpack/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/areeb/scratch/iconpack/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/areeb/scratch/iconpack/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/areeb/scratch/iconpack/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/areeb/scratch/iconpack/R$xml.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/areeb/scratch/iconpack/R$xml.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/areeb/scratch/iconpack/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/areeb/scratch/iconpack/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
+    <list default="true" id="91df4109-073e-48e8-b3a5-7efb3f78b966" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\pre-dexed\release\android-support-v4-70263f5b69e89d9dd45c1bd10dccc4ec9b19a605.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com.delphicoder.flud.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_browser.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_calculator2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_calendar.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_camera.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_contacts.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_deskclock.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_dialer.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_email.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_gallery3d.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_mms.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_mplayer.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_music.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_providers_downloads_ui.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_settings.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_vending.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_devexpert_weather.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_facebook_orca.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_apps_books.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_apps_chrome.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_apps_chromecast_app.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_apps_docs.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_apps_docs_editors_sheets.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_apps_inbox.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_apps_plus.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_apps_translate.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_docs_editors_docs.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_gm.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_gms.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_keep.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_maps.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_music.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_play_games.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_videos.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_youtube.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_earth.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_indeed_android_jobsearch.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_opera_browser.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_opera_browser_beta.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_opera_browser_classic.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_opera_mini_android.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_piksoft_turboscan.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_pushbullet_android.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_skype_android_raider.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_viber_voip.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_vkontakte_android.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_whatsapp.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_yandex_browser.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\org_kde_kdeconnect_tp.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\org_mozilla_firefox.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\org_mozilla_firefox_beta.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\org_telegram_messenger.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\rename_me_app_drawer.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\ru_mail_mailapp.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\ru_ok_android.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\ru_superjob_client_android.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\src\main\java\areeb\scratch\iconpack\Icons.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$xml.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$xml.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-release-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-release-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/dex/release/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/release/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable-xhdpi/com_android_browser.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable-xhdpi/com_android_browser.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable-xhdpi/com_android_gallery3d.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable-xhdpi/com_android_gallery3d.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable-xhdpi/com_android_music.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable-xhdpi/com_android_music.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable-xhdpi/icon.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable-xhdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable-xhdpi/icon.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable-xhdpi/icon.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-release.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-release.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/debug/areeb/scratch/iconpack/test/BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/debug/areeb/scratch/iconpack/test/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/areeb/scratch/iconpack/BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/areeb/scratch/iconpack/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/areeb/scratch/iconpack/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/areeb/scratch/iconpack/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/xml/appfilter.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/xml/appfilter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/xml/drawable.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/xml/drawable.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/xml/drawable.xml" afterPath="$PROJECT_DIR$/app/src/main/res/xml/drawable.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elementary-style.iml" afterPath="$PROJECT_DIR$/elementary-style.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/grid_selector.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/grid_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/icon_picker.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/icon_picker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/menu/icons.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/menu/icons.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/square_over.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/square_over.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-sw720dp-land/values-sw720dp-land.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-sw720dp-land/values-sw720dp-land.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/release/areeb/scratch/iconpack/BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/release/areeb/scratch/iconpack/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/release/areeb/scratch/iconpack/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/release/areeb/scratch/iconpack/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/xml/appfilter.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/xml/appfilter.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/xml/drawable.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/xml/drawable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable/grid_selector.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable/grid_selector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/lint-results-release-fatal_files/hololike.css" afterPath="$PROJECT_DIR$/app/build/outputs/lint-results-release-fatal_files/hololike.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/layout/icon_picker.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/layout/icon_picker.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/menu/icons.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/menu/icons.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/lint-results-release-fatal.html" afterPath="$PROJECT_DIR$/app/build/outputs/lint-results-release-fatal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/lint-results-release-fatal.xml" afterPath="$PROJECT_DIR$/app/build/outputs/lint-results-release-fatal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-release-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-release-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/release/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/release/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/release/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/release/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable/square_over.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable/square_over.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/values-sw720dp-land/values-sw720dp-land.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/values-sw720dp-land/values-sw720dp-land.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Новая папка (2).iws" />
@@ -100,18 +136,6 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="135" column="0" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Icons.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/areeb/scratch/iconpack/Icons.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -1574,8 +1598,8 @@
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_22_x86" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
-    <property name="ExportApk.ApkPath" value="C:\Users\user\Desktop" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/elementary-style" />
+    <property name="ExportApk.ApkPath" value="C:\Users\user\Desktop\elementary-style" />
     <property name="ExportApk.Flavors" value="" />
     <property name="ExportApk.BuildType" value="release" />
   </component>
@@ -1908,6 +1932,13 @@
       <option name="number" value="Default" />
       <updated>1436478586769</updated>
     </task>
+    <task id="LOCAL-00001" summary="Fixed compile errors">
+      <created>1436615029060</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1436615029060</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2009,16 +2040,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/areeb/scratch/iconpack/Icons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/drawable.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2051,31 +2072,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/areeb/scratch/iconpack/Icons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/areeb/scratch/iconpack/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/areeb/scratch/iconpack/Icons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2150,16 +2151,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="135" column="0" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/areeb/scratch/iconpack/Icons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
