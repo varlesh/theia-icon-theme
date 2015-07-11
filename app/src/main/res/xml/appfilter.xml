@@ -446,6 +446,8 @@
     <item component="ComponentInfo{com.google.android.voicesearch/com.google.android.voicesearch.RecognitionActivityReal}" drawable="com_google_android_googlequicksearchbox" />
     <item component="ComponentInfo{com.google.android.voicesearch/com.google.android.voicesearch.performanceanalysis.LogFilesViewer}" drawable="com_google_android_googlequicksearchbox" />
     <item component="ComponentInfo{com.nuance.android.vsuite.vsuiteapp/com.nuance.android.vsuite.vsuiteapp.VSuiteStartSession}" drawable="com_google_android_googlequicksearchbox" />
+    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.google.GoogleSearch}" drawable="com_google_android_googlequicksearchbox" />
+    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="com_google_android_googlequicksearchbox" />
     
     <!-- Phone -->
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsCallLogActivity}" drawable="com_android_dialer" />
