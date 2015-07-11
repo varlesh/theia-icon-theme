@@ -2,6 +2,13 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\user\AndroidStudioProjects\elementary-style\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\pre-dexed\debug\android-support-v4-ef8bb15d8a2f2086c84f633cd5606672c7a5676a.jar" />
+    </item>
+    <item
         jar="C:\Users\user\AndroidStudioProjects\Новая папка (2)2\app\libs\android-support-v4.jar"
         jumboMode="false"
         revision="22.0.1"

@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <version>1</version>
-    <item drawable="camera" />
-    <item drawable="calendar" />
-    <item drawable="contacts" />
-    <item drawable="settings" />
-    <item drawable="gplay" />
+    <item drawable="com_alensw_picfolder"/>
+    <item drawable="com_android_browser"/>
+    <item drawable="com_android_calculator2"/>
+    <item drawable="com_android_calendar"/>
+    <item drawable="com_android_camera"/>
+    <item drawable="com_android_contacts"/>
+    <item drawable="com_android_deskclock"/>
+    <item drawable="com_android_dialer"/>
+    <item drawable="com_android_email"/>
+    <item drawable="com_android_gallery3d"/>
+    <item drawable="com_android_mms"/>
+    <item drawable="com_android_mplayer"/>
+    <item drawable="com_android_music"/>
+    <item drawable="com_android_providers_downloads_ui"/>
+    <item drawable="com_android_settings"/>
+    <item drawable="com_android_vending"/>
+    <item drawable="com_delphicoder_flud"/>
+    <item drawable="com_devexpert_weather"/>
+    <item drawable="com_facebook_orca"/>
+    <item drawable="com_google_android_apps_books"/>
+    <item drawable="com_google_android_apps_chromecast_app"/>
+    <item drawable="com_google_android_apps_chrome"/>
+    <item drawable="com_google_android_apps_docs_editors_sheets"/>
+    <item drawable="com_google_android_apps_docs"/>
+    <item drawable="com_google_android_apps_inbox"/>
+    <item drawable="com_google_android_apps_plus"/>
+    <item drawable="com_google_android_apps_translate"/>
+    <item drawable="com_google_android_docs_editors_docs"/>
+    <item drawable="com_google_android_gm"/>
+    <item drawable="com_google_android_gms"/>
+    <item drawable="com_google_android_keep"/>
+    <item drawable="com_google_android_maps"/>
+    <item drawable="com_google_android_music"/>
+    <item drawable="com_google_android_play_games"/>
+    <item drawable="com_google_android_videos"/>
+    <item drawable="com_google_android_youtube"/>
+    <item drawable="com_google_earth"/>
+    <item drawable="com_indeed_android_jobsearch"/>
+    <item drawable="com_opera_browser_beta"/>
+    <item drawable="com_opera_browser_classic"/>
+    <item drawable="com_opera_browser"/>
+    <item drawable="com_opera_mini_android"/>
+    <item drawable="com_piksoft_turboscan"/>
+    <item drawable="com_pushbullet_android"/>
+    <item drawable="com_skype_android_raider"/>
+    <item drawable="com_ucmobile_intl"/>
+    <item drawable="com_viber_voip"/>
+    <item drawable="com_vkontakte_android"/>
+    <item drawable="com_whatsapp"/>
+    <item drawable="com_yandex_browser"/>
+    <item drawable="org_kde_kdeconnect_tp"/>
+    <item drawable="org_mozilla_firefox_beta"/>
+    <item drawable="org_mozilla_firefox"/>
+    <item drawable="org_telegram_messenger"/>
+    <item drawable="rename_me_app_drawer"/>
+    <item drawable="ru_mail_mailapp"/>
+    <item drawable="ru_ok_android"/>
+    <item drawable="ru_superjob_client_android"/>
+
+
 </resources>
-<!-- From: file:/C:/Users/user/AndroidStudioProjects/Новая%20папка%20(2)2/app/src/main/res/xml/drawable.xml -->
+<!-- From: file:/C:/Users/user/AndroidStudioProjects/elementary-style/app/src/main/res/xml/drawable.xml -->

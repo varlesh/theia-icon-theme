@@ -32,8 +32,8 @@
         android:listSelector="@drawable/grid_selector"
     	android:layout_width="match_parent"
     	android:layout_height="match_parent"
-    	android:layout_below="@+id/abNull" />
+    	/>
 
     
     
-</RelativeLayout><!-- From: file:/C:/Users/user/AndroidStudioProjects/Новая%20папка%20(2)2/app/src/main/res/layout/icon_picker.xml -->
+</RelativeLayout><!-- From: file:/C:/Users/user/AndroidStudioProjects/elementary-style/app/src/main/res/layout/icon_picker.xml -->
