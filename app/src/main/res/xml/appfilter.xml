@@ -302,5 +302,42 @@
     <!--Clock-->
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="com_android_deskclock" />
 
+    <!-- Adobe Reader -->
+    <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="com_adobe_reader" />
+
+    <!-- Foobnix PDF Reader -->
+    <item component="ComponentInfo{com.foobnix.pdf.reader/com.foobnix.pdf.reader.Main}" drawable="com_foobnix_pdf_reader" />
+
+    <!-- Tinnkof Bank -->
+    <item component="ComponentInfo{com.idamob.tinkoff.android/com.idamob.tinkoff.android.Main}" drawable="com_idamob_tinkoff_android" />
+
+    <!-- RuTaxi -->
+    <item component="ComponentInfo{com.its.rto/com.its.rto.Main}" drawable="com_its_rto" />
+
+    <!-- MX Player Pro -->
+    <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.ActivityVideoList}" drawable="com_mxtech_videoplayer_ad"/>
+    <item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityVideoList}" drawable="com_mxtech_videoplayer_ad"/>
+    <item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityMediaList}" drawable="com_mxtech_videoplayer_ad" />
+    <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.ActivityMediaList}" drawable="com_mxtech_videoplayer_ad" />
+
+    <!-- GeekHabr -->
+    <item component="ComponentInfo{com.trablone.geekhabr/com.trablone.geekhabr.Main}" drawable="com_trablone_geekhabr" />
+
+    <!-- Keepas2Android -->
+    <item component="ComponentInfo{keepass2android.keepass2android/keepass2android.keepass2android.Main}" drawable="keepass2android_keepass2android" />
+
+    <!-- 2GIS -->
+    <item component="ComponentInfo{ru.dublgis.dgismobile/ru.dublgis.dgismobile.GrymMobileActivity}" drawable="ru_dublgis_dgismobile"/>
+
+
+
+
+
+
+
+
+
+
+
 
 </resources>
