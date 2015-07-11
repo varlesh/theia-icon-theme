@@ -62,5 +62,6 @@
     <item drawable="com_android_alarm"/>
     <item drawable="com_android_secundomer"/>
     <item drawable="org_geometerplus_zlibrary_ui_android"/>
+    <item drawable="com_google_android_googlequicksearchbox"/>
 
 </resources>
