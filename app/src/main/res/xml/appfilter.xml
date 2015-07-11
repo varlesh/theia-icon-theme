@@ -514,6 +514,8 @@
     <item component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity}" drawable="com_ideashower_readitlater_pro"/>
     <item component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.SplashActivity}" drawable="com_ideashower_readitlater_pro"/>
 
+    <!-- Timer-->
+    <item component="ComponentInfo{com.android.secundomer/com.android.stoptimer.StopTimer}" drawable="com_android_secundomer"/>
 
 
 
