@@ -373,7 +373,7 @@
     <item component="ComponentInfo{com.indeed.android.jobsearch/com.indeed.android.jobsearch.MainActivity}" drawable="com_indeed_android_jobsearch"/>
 
     <!-- UC Browser-->
-    <item component="ComponentInfo{com.UCMobile.intl/com.UCMobile.main.UCMobile}" drawable="com_ucmobile_intl"/>
+    <item component="ComponentInfo{com.ucmobile.intl/com.ucmobile.main.ucmobile}" drawable="com_ucmobile_intl"/>
 
     <!-- Viber -->
     <item component="ComponentInfo{com.viber.voip/com.viber.voip.IdleActivity}" drawable="com_viber_voip" />
