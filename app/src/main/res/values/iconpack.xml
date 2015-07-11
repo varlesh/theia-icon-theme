@@ -4,6 +4,7 @@
         <item>bottom</item>
         <item>com_adobe_reader</item>
         <item>com_alensw_PicFolder</item>
+        <item>com_android_alarm</item>
         <item>com_android_browser</item>
         <item>com_android_calculator2</item>
         <item>com_android_calendar</item>
@@ -12,13 +13,18 @@
         <item>com_android_deskclock</item>
         <item>com_android_dialer</item>
         <item>com_android_email</item>
+        <item>com_android_equalizer</item>
         <item>com_android_gallery3d</item>
         <item>com_android_mms</item>
         <item>com_android_mplayer</item>
         <item>com_android_music</item>
         <item>com_android_providers_downloads_ui</item>
+        <item>com_android_radio</item>
+        <item>com_android_secundomer</item>
         <item>com_android_settings</item>
+        <item>com_android_settings_wifi</item>
         <item>com_android_vending</item>
+        <item>com_android_world_clock</item>
         <item>com_delphicoder_flud</item>
         <item>com_devexpert_weather</item>
         <item>com_facebook_orca</item>
@@ -34,6 +40,7 @@
         <item>com_google_android_docs_editors_docs</item>
         <item>com_google_android_gm</item>
         <item>com_google_android_gms</item>
+        <item>com_google_android_googlequicksearchbox</item>
         <item>com_google_android_keep</item>
         <item>com_google_android_maps</item>
         <item>com_google_android_music</item>
@@ -56,7 +63,9 @@
         <item>com_vkontakte_android</item>
         <item>com_whatsapp</item>
         <item>com_yandex_browser</item>
+        <item>icon</item>
         <item>keepass2android_keepass2android</item>
+        <item>org_geometerplus_zlibrary_ui_android</item>
         <item>org_kde_kdeconnect_tp</item>
         <item>org_mozilla_firefox_beta</item>
         <item>org_mozilla_firefox</item>
