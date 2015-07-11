@@ -6,101 +6,11 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91df4109-073e-48e8-b3a5-7efb3f78b966" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\pre-dexed\release\android-support-v4-70263f5b69e89d9dd45c1bd10dccc4ec9b19a605.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com.delphicoder.flud.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_browser.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_calculator2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_calendar.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_camera.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_contacts.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_deskclock.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_dialer.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_email.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_gallery3d.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_mms.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_mplayer.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_music.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_providers_downloads_ui.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_settings.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_android_vending.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_devexpert_weather.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_facebook_orca.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_apps_books.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_apps_chrome.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_apps_chromecast_app.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_apps_docs.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_apps_docs_editors_sheets.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_apps_inbox.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_apps_plus.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_apps_translate.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_docs_editors_docs.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_gm.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_gms.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_keep.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_maps.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_music.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_play_games.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_videos.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_android_youtube.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_google_earth.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_indeed_android_jobsearch.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_opera_browser.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_opera_browser_beta.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_opera_browser_classic.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_opera_mini_android.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_piksoft_turboscan.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_pushbullet_android.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_skype_android_raider.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_viber_voip.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_vkontakte_android.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_whatsapp.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\com_yandex_browser.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\org_kde_kdeconnect_tp.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\org_mozilla_firefox.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\org_mozilla_firefox_beta.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\org_telegram_messenger.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\rename_me_app_drawer.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\ru_mail_mailapp.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\ru_ok_android.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\build\intermediates\res\release\drawable-mdpi\ru_superjob_client_android.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\src\main\java\areeb\scratch\iconpack\Icons.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$xml.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R$xml.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/areeb/scratch/iconpack/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-release-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-release-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/dex/release/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/release/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable-xhdpi/com_android_browser.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable-xhdpi/com_android_browser.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable-xhdpi/com_android_gallery3d.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable-xhdpi/com_android_gallery3d.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable-xhdpi/com_android_music.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable-xhdpi/com_android_music.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable-xhdpi/icon.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable-xhdpi/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-release.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-release.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/release/areeb/scratch/iconpack/BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/release/areeb/scratch/iconpack/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/release/areeb/scratch/iconpack/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/release/areeb/scratch/iconpack/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/xml/appfilter.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/xml/appfilter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/xml/drawable.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/xml/drawable.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable/grid_selector.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable/grid_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/lint-results-release-fatal_files/hololike.css" afterPath="$PROJECT_DIR$/app/build/outputs/lint-results-release-fatal_files/hololike.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/layout/icon_picker.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/layout/icon_picker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/menu/icons.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/menu/icons.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/lint-results-release-fatal.html" afterPath="$PROJECT_DIR$/app/build/outputs/lint-results-release-fatal.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/lint-results-release-fatal.xml" afterPath="$PROJECT_DIR$/app/build/outputs/lint-results-release-fatal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-release-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-release-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/release/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/release/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/release/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/release/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable/square_over.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/drawable/square_over.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/values-sw720dp-land/values-sw720dp-land.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/values-sw720dp-land/values-sw720dp-land.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/release/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/release/values/values.xml" />
+    <list default="true" id="91df4109-073e-48e8-b3a5-7efb3f78b966" name="Default" comment="Deleted unused files">
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\src\main\res\drawable-hdpi\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\user\AndroidStudioProjects\elementary-style\app\src\main\res\drawable-ldpi\icon.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/iconback.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/iconback.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Новая папка (2).iws" />
@@ -135,7 +45,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="135" column="0" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#2519#2520#0" expanded="false" />
+                <element signature="e#2564#2565#0" expanded="false" />
+                <element signature="e#2939#2940#0" expanded="false" />
+                <element signature="e#2978#2979#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -143,8 +59,8 @@
       <file leaf-file-name="drawable.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/drawable.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25939178">
-              <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+            <state vertical-scroll-proportion="0.8411215">
+              <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -1534,6 +1450,9 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1565,31 +1484,10 @@
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xml" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Новая папка (2)" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1602,116 +1500,6 @@
     <property name="ExportApk.ApkPath" value="C:\Users\user\Desktop\elementary-style" />
     <property name="ExportApk.Flavors" value="" />
     <property name="ExportApk.BuildType" value="release" />
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/src/main/res/values/iconpack.xml</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunManager" selected="Android Application.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -1938,7 +1726,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436615029060</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Deleted unused files">
+      <created>1436615500391</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1436615500391</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1955,14 +1749,13 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40545145" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40545145" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3781942" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1980,6 +1773,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -2025,7 +1819,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fixed compile errors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed compile errors" />
+    <MESSAGE value="Deleted unused files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted unused files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -2036,7 +1831,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="135" column="0" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2519#2520#0" expanded="false" />
+            <element signature="e#2564#2565#0" expanded="false" />
+            <element signature="e#2939#2940#0" expanded="false" />
+            <element signature="e#2978#2979#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/drawable.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/iconpack.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="38" selection-start-line="67" selection-start-column="38" selection-end-line="67" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/appfilter.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="94" column="20" selection-start-line="94" selection-start-column="20" selection-end-line="94" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/areeb/scratch/iconpack/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="135" column="0" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2519#2520#0" expanded="false" />
+            <element signature="e#2564#2565#0" expanded="false" />
+            <element signature="e#2939#2940#0" expanded="false" />
+            <element signature="e#2978#2979#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2068,7 +1907,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2519#2520#0" expanded="false" />
+            <element signature="e#2564#2565#0" expanded="false" />
+            <element signature="e#2939#2940#0" expanded="false" />
+            <element signature="e#2978#2979#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2076,7 +1921,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2519#2520#0" expanded="false" />
+            <element signature="e#2564#2565#0" expanded="false" />
+            <element signature="e#2939#2940#0" expanded="false" />
+            <element signature="e#2978#2979#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2113,11 +1964,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/icon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/run_selected.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -2142,7 +1988,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5017422">
           <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2150,19 +1995,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="135" column="0" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2519#2520#0" expanded="false" />
+            <element signature="e#2564#2565#0" expanded="false" />
+            <element signature="e#2939#2940#0" expanded="false" />
+            <element signature="e#2978#2979#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/icon_picker.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.64935064">
           <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/com_android_browser.png">
@@ -2196,10 +2046,15 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/drawable.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25939178">
-          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.8411215">
+          <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
           <folding />
         </state>
       </provider>
