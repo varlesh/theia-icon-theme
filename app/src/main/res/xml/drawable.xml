@@ -71,4 +71,5 @@
     <item drawable="com_twitter_android"/>
     <item drawable="io_meduza_android"/>
     <item drawable="mobi_beyondpod"/>
+    <item drawable="com_android_soundrecorder"/>
 </resources>
