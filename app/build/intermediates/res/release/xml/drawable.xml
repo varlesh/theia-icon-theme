@@ -58,8 +58,13 @@
     <item drawable="rename_me_app_drawer"/>
     <item drawable="ru_mail_mailapp"/>
     <item drawable="ru_ok_android"/>
+    <item drawable="com_android_equalizer"/>
+    <item drawable="com_android_alarm"/>
+    <item drawable="com_android_secundomer"/>
+    <item drawable="org_geometerplus_zlibrary_ui_android"/>
+    <item drawable="com_google_android_googlequicksearchbox"/>
     <item drawable="ru_superjob_client_android"/>
-
+    <item drawable="com_android_settings_wifi"/>
 
 </resources>
 <!-- From: file:/C:/Users/user/AndroidStudioProjects/elementary-style/app/src/main/res/xml/drawable.xml -->
