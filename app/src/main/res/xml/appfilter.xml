@@ -130,7 +130,7 @@
     <item component="ComponentInfo{com.htc.music/com.htc.music.browserlayer.MusicBrowserTabActivity}" drawable="com_android_music"/>
     
     <!-- Apps -->
-    <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="com_alensw_PicFolder"/>
+    <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="com_alensw_picfolder"/>
 
     <!-- Email -->
     <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="com_android_email"/>
@@ -506,8 +506,10 @@
 
     <!-- BeyonPod -->
     <item component="ComponentInfo{mobi.beyondpod/mobi.beyondpod.ui.views.Splash}" drawable="mobi_beyondpod"/>
-
-
+    
+    <!-- Pocket -->
+    <item component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity}" drawable="com_ideashower_readitlater_pro"/>
+    <item component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.SplashActivity}" drawable="com_ideashower_readitlater_pro"/>
 
 
 
