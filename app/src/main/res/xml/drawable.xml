@@ -65,5 +65,6 @@
     <item drawable="com_google_android_googlequicksearchbox"/>
     <item drawable="ru_superjob_client_android"/>
     <item drawable="com_android_settings_wifi"/>
+    <item drawable="com_android_soundrecorder"/>
 
 </resources>

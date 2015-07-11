@@ -75,5 +75,6 @@
         <item>ru_mail_mailapp</item>
         <item>ru_ok_android</item>
         <item>ru_superjob_client_android</item>
+        <item>com_android_soundrecorder</item>
 	</string-array>
 </resources>

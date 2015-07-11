@@ -44,6 +44,8 @@
     <item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.google.android.gallery3d/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.cyngn.cameranextmod/com.cyngn.cameranextmod.CameraLauncher}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.android.camera/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
 
     <!-- Browser -->
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser"/>
@@ -228,6 +230,9 @@
 
     <!-- Google_settings -->
     <item component="ComponentInfo{com.google.android.gms/com.google.android.gms.app.settings.GoogleSettingsActivity}" drawable="google_settings" />
+    <item component="ComponentInfo{com.google.android.gms/com.google.android.gms.common.settings.GoogleSettingsActivity}" drawable="google_settings" />
+    <item component="ComponentInfo{com.google.android.gms/com.google.android.location.settings.GoogleLocationSettingsActivit}" drawable="google_settings" />
+
 
 
     <!-- Google Maps-->
@@ -395,6 +400,8 @@
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="com_android_deskclock" />
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.TabDetails}" drawable="com_android_deskclock" />
     <item component="ComponentInfo{com.android.deskclock/com.pantech.app.clock.ClockLauncher}" drawable="com_android_deskclock" />
+    <item component="com.chineseinspiration/com.chineseinspiration.Clocks}" drawable="com_android_deskclock" />
+
 
 
     <!-- FM Radio -->
@@ -403,6 +410,21 @@
     <item component="ComponentInfo{com.motorola.fmradio/com.motorola.fmradio.FMRadioMain}" drawable="com_android_radio"/>
     <item component="ComponentInfo{com.htc.fm/com.htc.fm.FMRadioMain}" drawable="com_android_radio"/>
     <item component="ComponentInfo{com.android.fm/com.android.fm.radio.FMRadio}" drawable="com_android_radio" />
+    <item component="ComponentInfo{com.htc.fm/com.htc.fm.activity.FMRadioEdit}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.htc.fm/com.htc.fm.ap.activity.FMRadioMain}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.lge.fmradio/com.lge.fmradio.FmRadio}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.motorola.motofmradio/com.motorola.motofmradio.FMPlayer}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.sonyericsson.fmradio/com.sonyericsson.fmradio.FMRadioActivity}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.ti.fmapp/com.ti.fmapp.FmRxApp}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.sonyericsson.fmradio/com.sonyericsson.fmradio.ui.FmRadioActivity}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.broadcom.bt.app.fm/com.broadcom.bt.app.fm.rx.FmRadio}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.quicinc.fmradio/com.quicinc.fmradio.FMRadio}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.lge.fmradio/com.lge.fmradio.IntroActivity}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.thunderst.radio/com.thunderst.radio.FMPlay}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.caf.fmradio/com.caf.fmradio.FMRadio}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.miui.fmradio/com.miui.fmradio.FMRadioActivity}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.cyanogenmod.fmradio/com.cyanogenmod.fmradio.screens.BandSelectionScreen}" drawable="com_android_radio"/>
+
 
     <!-- FB Reader -->
     <item component="ComponentInfo{org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.FBReader}" drawable="org_geometerplus_zlibrary_ui_android"/>
@@ -459,5 +481,8 @@
 
     <!-- Flud -->
     <item component="ComponentInfo{comcom.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="com_delphicoder_flud"/>
+
+    <!-- Sound Recorder -->
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="com_android_soundrecorder"/>
 
 </resources>
