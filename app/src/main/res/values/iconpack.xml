@@ -81,5 +81,6 @@
         <item>com_twitter_android</item>
         <item>io_meduza_android</item>
         <item>mobi_beyondpod</item>
+        <item>com_android_soundrecorder</item>
 	</string-array>
 </resources>
