@@ -1,18 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="icon_pack" translatable="false">
-		<item>com_android_camera</item>
+        <item>bottom</item>
+        <item>com_adobe_reader</item>
+        <item>com_alensw_PicFolder</item>
+        <item>com_android_browser</item>
+        <item>com_android_calculator2</item>
         <item>com_android_calendar</item>
+        <item>com_android_camera</item>
         <item>com_android_contacts</item>
+        <item>com_android_deskclock</item>
+        <item>com_android_dialer</item>
+        <item>com_android_email</item>
+        <item>com_android_gallery3d</item>
+        <item>com_android_mms</item>
+        <item>com_android_mplayer</item>
         <item>com_android_music</item>
+        <item>com_android_providers_downloads_ui</item>
         <item>com_android_settings</item>
         <item>com_android_vending</item>
-        <item>com_android_gallery3d</item>
-        <item>com_android_calculator2</item>
-        <item>com_android_browser</item>
+        <item>com_delphicoder_flud</item>
+        <item>com_devexpert_weather</item>
+        <item>com_facebook_orca</item>
+        <item>com_foobnix_pdf_reader</item>
+        <item>com_google_android_apps_books</item>
+        <item>com_google_android_apps_chromecast_app</item>
+        <item>com_google_android_apps_chrome</item>
+        <item>com_google_android_apps_docs_editors_sheets</item>
+        <item>com_google_android_apps_docs</item>
+        <item>com_google_android_apps_inbox</item>
         <item>com_google_android_apps_plus</item>
-        <item>com_google_android_translate</item>
-        <item>com_google_android_youtube</item>
+        <item>com_google_android_apps_translate</item>
+        <item>com_google_android_docs_editors_docs</item>
+        <item>com_google_android_gm</item>
+        <item>com_google_android_gms</item>
+        <item>com_google_android_keep</item>
+        <item>com_google_android_maps</item>
         <item>com_google_android_music</item>
+        <item>com_google_android_play_games</item>
+        <item>com_google_android_videos</item>
+        <item>com_google_android_youtube</item>
+        <item>com_google_earth</item>
+        <item>com_idamob_tinkoff_android</item>
+        <item>com_indeed_android_jobsearch</item>
+        <item>com_its_rto</item>
+        <item>com_mxtech_videoplayer_ad</item>
+        <item>com_opera_browser_beta</item>
+        <item>com_opera_browser</item>
+        <item>com_piksoft_turboscan</item>
+        <item>com_pushbullet_android</item>
+        <item>com_skype_android_raider</item>
+        <item>com_trablone_geekhabr</item>
+        <item>com_UCMobile_intl</item>
+        <item>com_viber_voip</item>
+        <item>com_vkontakte_android</item>
+        <item>com_whatsapp</item>
+        <item>com_yandex_browser</item>
+        <item>keepass2android_keepass2android</item>
+        <item>org_kde_kdeconnect_tp</item>
+        <item>org_mozilla_firefox_beta</item>
+        <item>org_mozilla_firefox</item>
+        <item>org_telegram_messenger</item>
+        <item>rename_me_app_drawer</item>
+        <item>ru_dublgis_dgismobile</item>
+        <item>ru_mail_mailapp</item>
+        <item>ru_ok_android</item>
+        <item>ru_superjob_client_android</item>
 	</string-array>
 </resources>
