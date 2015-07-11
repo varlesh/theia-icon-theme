@@ -202,6 +202,9 @@
     <item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.IntentResolverWithMimeTypeActivity}" drawable="com_google_android_keep" />
     <item component="ComponentInfo{com.google.android.keep/com.google.android.keep.homescreenwidget.WidgetIntentResolverActivity}" drawable="com_google_android_keep" />
 
+    <!-- Google Docs -->
+    <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="com_google_android_docs_editors_docs" />
+
 
     <!-- Google Maps -->
     <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="com_google_android_maps"/>
@@ -213,6 +216,19 @@
 
     <!-- Google Drive -->
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="com_google_android_apps_docs"/>
+
+    <!--Google Play Games-->
+    <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="com_google_android_gms" />
+
+    <!--Google Translator-->
+    <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.HomeActivity}" drawable="com_google_android_apps_translate" />
+
+    <!-- Google Sheets -->
+    <item component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="com_google_android_apps_docs_editors_sheets" />
+
+    <!-- Google_settings -->
+    <item component="ComponentInfo{com.google.android.gms/com.google.android.gms.app.settings.GoogleSettingsActivity}" drawable="google_settings" />
+    
 
     <!-- GMail -->
     <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="com_google_android_gm"/>
@@ -253,6 +269,8 @@
     <item component="ComponentInfo{com.opera.browser/com.opera.Opera}" drawable="com_opera_browser"/>
     <!-- Opera Mini -->
     <item component="ComponentInfo{com.opera.mini.android/com.opera.mini.android.Browser}" drawable="com_opera_browser"/>
+    <!--Opera-->
+    <item component="ComponentInfo{com.opera.browser.beta/com.opera.Opera}" drawable="com_opera_browser_beta" />
     
     <!-- APP: PushBullet -->
     <item component="ComponentInfo{com.pushbullet.android/com.pushbullet.android.ui.LaunchActivity}" drawable="com_pushbullet_android" />
@@ -274,8 +292,15 @@
     <!-- Telegram -->
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="org_telegram_messenger" />
     <item component="ComponentInfo{org.telegram.android/org.telegram.android.StartActivity}" drawable="org_telegram_messenger" />
-    
-    
+
+    <!-- VK -->
+    <item component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.MainActivity}" drawable="com_vkontakte_android" />
+
+    <!-- Weather & Clock Widget Android -->
+    <item component="ComponentInfo{com.devexpert.weather/com.devexpert.weather.view.HomeActivity}" drawable="com_devexpert_weather" />
+
+    <!--Clock-->
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="com_android_deskclock" />
 
 
 </resources>
