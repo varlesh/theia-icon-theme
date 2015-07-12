@@ -9,10 +9,12 @@ Android icon theme.
 
 3. Прописать название иконки в /app/src/main/res/values/drawable.xml.
 Пример:
+
 <code><item drawable="ru_superjob_client_android"/></code>
 
 4. Прописать название иконки в /app/src/main/res/values/iconpack.xml.
 Пример:
+
 <code><item>ru_superjob_client_android</item></code>
 
 5. Задать иконке класс приложения в /app/src/main/res/xml/appfilte.xml.
