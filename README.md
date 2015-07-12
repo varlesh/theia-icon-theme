@@ -10,20 +10,19 @@ Android icon theme.
 3. Задать иконке класс приложения в /app/src/main/res/xml/appfilte.xml.
 Пример:
 ```
-<!-- Torrent -->
-    <item component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="com_delphicoder_flud"/>
+<item component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="com_delphicoder_flud"/>
 ```
 Для удобства можно использовать http://czarnomorski.pl/search.php
 
 4. Прописать название иконки в /app/src/main/res/xml/drawable.xml.
 Пример:
 ```
-com_delphicoder_flud
+<item drawable="com_delphicoder_flud"/>
 ```
 5. Прописать название иконки в /app/src/main/res/values/iconpack.xml.
 Пример:
 ```
-com_delphicoder_flud
+<item>com_delphicoder_flud</item>
 ```
 6. Молиться и ждать ))
 
