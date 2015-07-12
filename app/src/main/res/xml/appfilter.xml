@@ -118,7 +118,6 @@
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.timeline.EventListWithStartTime}" drawable="com_android_calendar"/>
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.ChooserActivity}" drawable="com_android_calendar"/>
 
-
     <!-- Music -->
     <item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserActivity}" drawable="com_android_music"/>
     <item component="ComponentInfo{com.google.android/com.google.android.music.MusicBrowserActivity}" drawable="com_android_music"/>
@@ -128,6 +127,16 @@
     <item component="ComponentInfo{com.android.music/com.android.music.list.activity.MpMainTabActivity}" drawable="com_android_music"/>
     <item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserTabActivity}" drawable="com_android_music"/>
     <item component="ComponentInfo{com.htc.music/com.htc.music.browserlayer.MusicBrowserTabActivity}" drawable="com_android_music"/>
+    <item component="ComponentInfo{de.qspool.clementineremote/de.qspool.clementineremote.ui.ConnectDialog}" drawable="de_qspool_clementineremote"/>
+    <item component="ComponentInfo{org.deadbeef.android/org.deadbeef.android.Deadbeef}" drawable="org_deadbeef_android"/>
+    <item component="ComponentInfo{com.maxmpz.audioplayer/com.maxmpz.audioplayer.StartupActivity}" drawable="com_maxmpz_audioplayer"/>
+    <item component="ComponentInfo{com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.LauncherRedirectorActivity}" drawable="com_maxmpz_audioplayer"/>
+    <item component="ComponentInfo{com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.RedirectorActivity}" drawable="com_maxmpz_audioplayer"/>
+    <item component="ComponentInfo{com.aimp.player/com.aimp.player.activities.MainActivity}" drawable="com_aimp_player"/>
+    <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.activity.Main}" drawable="com_soundcloud_android"/>
+    <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.LauncherActivity}" drawable="com_soundcloud_android"/>
+    <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.activity.Launch}" drawable="com_soundcloud_android"/>
+    <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.activity.Dashboard}" drawable="com_soundcloud_android"/>
     
     <!-- Apps -->
     <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="com_alensw_picfolder"/>
@@ -233,15 +242,12 @@
     <item component="ComponentInfo{com.google.android.gms/com.google.android.gms.common.settings.GoogleSettingsActivity}" drawable="google_settings" />
     <item component="ComponentInfo{com.google.android.gms/com.google.android.location.settings.GoogleLocationSettingsActivit}" drawable="google_settings" />
 
-
-
     <!-- Google Maps-->
     <item component="ComponentInfo{com.google.android.apps.maps/com.android.internal.app.ResolverActivity}" drawable="com_google_android_maps"/>
 
     <!-- Google Movies -->
     <item component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.honeycomb.VideosActivity}" drawable="com_google_android_videos"/>
     <item component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" drawable="com_google_android_videos"/>
-    
 
     <!-- GMail -->
     <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="com_google_android_gm"/>
@@ -251,8 +257,6 @@
     <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.Preference.GmailPreferenceActivity}" drawable="com_google_android_gm"/>
     <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.MailboxSelectionActivity}" drawable="com_google_android_gm"/>
     <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.MailboxSelectionActivityGoogleMail}" drawable="com_google_android_gm"/>
-    
-    
 
     <!-- Downloads -->
     <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="com_android_providers_downloads_ui"/>
@@ -329,7 +333,6 @@
     <item component="ComponentInfo{com.lge.clock/com.lge.clock.Clock}" drawable="com_android_alarm" />
     <item component="ComponentInfo{com.sonyericsson.organizer/com.sonyericsson.organizer.Organizer}" drawable="com_android_alarm" />
     <item component="ComponentInfo{com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl}" drawable="com_android_alarm" />
-    
 
     <!-- Adobe Reader -->
     <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="com_adobe_reader" />
@@ -340,11 +343,14 @@
     <!-- RuTaxi -->
     <item component="ComponentInfo{ru.yandex.taxi/ru.yandex.taxi.activity.StartActivity}" drawable="com_its_rto"/>
 
-    <!-- MX Player Pro -->
+    <!-- Video Player -->
     <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.ActivityVideoList}" drawable="com_mxtech_videoplayer_ad"/>
     <item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityVideoList}" drawable="com_mxtech_videoplayer_ad"/>
     <item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityMediaList}" drawable="com_mxtech_videoplayer_ad" />
     <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.ActivityMediaList}" drawable="com_mxtech_videoplayer_ad" />
+    <item component="ComponentInfo{com.kmplayer/com.kmplayer.activity.MainActivity}" drawable="com_kmplayer" />
+    <item component="ComponentInfo{org.videolan.vlc.betav7neon/org.videolan.vlc.betav7neon.gui.MainActivity}" drawable="org_videolan_vlc_betav7neon" />
+    <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.gui.MainActivity}" drawable="org_videolan_vlc_betav7neon" />
 
     <!-- GeekHabr -->
     <item component="ComponentInfo{com.trablone.geekhabr/com.trablone.geekhabr.Main}" drawable="com_trablone_geekhabr" />
@@ -355,19 +361,19 @@
     <!-- 2GIS -->
     <item component="ComponentInfo{ru.dublgis.dgismobile/ru.dublgis.dgismobile.GrymMobileActivity}" drawable="ru_dublgis_dgismobile"/>
 
-    <!-- Flud -->
+    <!-- Torrent -->
     <item component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="com_delphicoder_flud"/>
+    <item component="ComponentInfo{com.neogb.rtac/com.neogb.rtac.TorrentsActivity}" drawable="com.neogb.rtac"/>
+    <item component="ComponentInfo{org.transdroid.lite/org.transdroid.core.gui.TorrentsActivity_}" drawable="org_transdroid_lite"/>
 
     <!-- Mplayer -->
     <item component="ComponentInfo{com.android.mplayer/com.android.mplayer.Main}" drawable="com_android_mplayer"/>
-
 
     <!-- Foobnix PDF Reader -->
     <item component="ComponentInfo{com.foobnix.pdf.reader/com.foobnix.pdf.info.MainBrowserActivity}" drawable="com_foobnix_pdf_reader"/>
 
     <!-- Chromecast-->
     <item component="ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}" drawable="com_google_android_apps_chromecast_app"/>
-
 
     <!-- Job Search-->
     <item component="ComponentInfo{com.indeed.android.jobsearch/com.indeed.android.jobsearch.MainActivity}" drawable="com_indeed_android_jobsearch"/>
@@ -403,8 +409,6 @@
     <item component="com.chineseinspiration/com.chineseinspiration.Clocks}" drawable="com_android_deskclock" />
     <item component="com.android.qworldclock/com.android.qworldclock.QWorldClock}" drawable="com_android_world_clock" />
 
-
-
     <!-- FM Radio -->
     <item component="ComponentInfo{com.sec.android.app.fm/com.sec.android.app.fm.MainActivity}" drawable="com_android_radio"/>
     <item component="ComponentInfo{com.miui.fmradio/com.miui.fmradio.FMRadioMain}" drawable="com_android_radio"/>
@@ -425,7 +429,7 @@
     <item component="ComponentInfo{com.caf.fmradio/com.caf.fmradio.FMRadio}" drawable="com_android_radio"/>
     <item component="ComponentInfo{com.miui.fmradio/com.miui.fmradio.FMRadioActivity}" drawable="com_android_radio"/>
     <item component="ComponentInfo{com.cyanogenmod.fmradio/com.cyanogenmod.fmradio.screens.BandSelectionScreen}" drawable="com_android_radio"/>
-
+    <item component="ComponentInfo{com.radio.fmradio/com.radio.fmradio.InitFM}" drawable="com_android_radio"/>
 
     <!-- FB Reader -->
     <item component="ComponentInfo{org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.FBReader}" drawable="org_geometerplus_zlibrary_ui_android"/>
@@ -434,11 +438,12 @@
     <item component="ComponentInfo{org.geometerplus.zlibrary.ui.android/com.rock.lly.EBookView}" drawable="org_geometerplus_zlibrary_ui_android"/>
     <item component="ComponentInfo{org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.KediBookView}" drawable="org_geometerplus_zlibrary_ui_android"/>
 
-
     <!-- AudioFX -->
     <item component="ComponentInfo{com.namakerorin.audiofxwidget/com.namakerorin.audiofxwidget.Settings}" drawable="com_android_equalizer"/>
     <item component="ComponentInfo{com.hbstudios.dspmanagerfree/com.hbstudios.dspmanagerfree.AudioFX}" drawable="com_android_equalizer"/>
     <item component="ComponentInfo{com.android.musicfx/com.android.musicfx.ActivityMusic}" drawable="com_android_equalizer"/>
+    <item component="ComponentInfo{com.android.musicfx/com.android.musicfx.ActivitySRS}" drawable="com_android_equalizer"/>
+    <item component="ComponentInfo{com.android.musicfx/com.android.musicfx.SRSEqualizerActivity}" drawable="com_android_equalizer"/>
 
     <!-- Google Search -->
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="com_google_android_googlequicksearchbox"/>
@@ -449,6 +454,8 @@
     <item component="ComponentInfo{com.nuance.android.vsuite.vsuiteapp/com.nuance.android.vsuite.vsuiteapp.VSuiteStartSession}" drawable="com_google_android_googlequicksearchbox" />
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.google.GoogleSearch}" drawable="com_google_android_googlequicksearchbox" />
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="com_google_android_googlequicksearchbox" />
+    <item component="ComponentInfo{com.android.quicksearchbox/com.android.quicksearchbox.SearchActivity}" drawable="com_android_quicksearchbox"/>
+    <item component="ComponentInfo{com.android.quicksearchbox/com.android.quicksearchbox.google.GoogleSearch}" drawable="com_android_quicksearchbox"/>
     
     <!-- Phone -->
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsCallLogActivity}" drawable="com_android_dialer" />
@@ -510,13 +517,57 @@
     <!-- BeyonPod -->
     <item component="ComponentInfo{mobi.beyondpod/mobi.beyondpod.ui.views.Splash}" drawable="mobi_beyondpod"/>
     
-    <!-- Pocket -->
+    <!-- Podcast -->
     <item component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity}" drawable="com_ideashower_readitlater_pro"/>
     <item component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.SplashActivity}" drawable="com_ideashower_readitlater_pro"/>
+    <item component="ComponentInfo{com.doubleiq.podcast/com.doubleiq.podcast.Launcher}" drawable="com_doubleiq_podcast"/>
+    <item component="ComponentInfo{com.doubleiq.podcast/com.doubleiq.podcast.MainActivity}" drawable="com_doubleiq_podcast"/>
+    <item component="ComponentInfo{com.bambuna.podcastaddict/com.bambuna.podcastaddict.activity.PodcastListActivity}" drawable="com_bambuna_podcastaddict"/>
 
     <!-- Timer-->
-    <item component="ComponentInfo{com.android.secundomer/com.android.stoptimer.StopTimer}" drawable="com_android_secundomer"/>
+    <item component="ComponentInfo{com.android.stoptimer/com.android.stoptimer.StopTimer}" drawable="com_android_secundomer"/>
 
+    <!-- Utils -->
+    <item component="ComponentInfo{com.piriform.ccleaner/com.piriform.ccleaner.ui/activity.MainActivity}" drawable="com_piriform_ccleaner"/>
+    <item component="ComponentInfo{com.cleanmaster.mguard/com.keniu.security.main.MainActivity}" drawable="com_cleanmaster_mguard"/>
 
-
+    <!-- Bluetooth -->
+    <item component="ComponentInfo{com.android.bluetooth/com.android.bluetooth.opp.BluetoothOppLauncherActivity}" drawable="com_android_bluetooth"/>
+    <item component="ComponentInfo{com.android.bluetooth/com.android.bluetooth.opp.BluetoothOppLiveFolder}" drawable="com_android_bluetooth"/>
+    <item component="ComponentInfo{com.android.bluetooth/com.android.bluetooth.pbap.BluetoothPbapActivity}" drawable="com_android_bluetooth"/>
+    <item component="ComponentInfo{com.android.bluetooth/com.android.bluetooth.sap.BluetoothSapDialog}" drawable="com_android_bluetooth"/>
+    
+    <!-- Video Editor -->
+    <item component="ComponentInfo{com.google.android.videoeditor/com.android.videoeditor.ProjectsActivity}" drawable="com_android_videoeditor"/>
+    <item component="ComponentInfo{com.android.videoeditor/com.android.videoeditor.ProjectsActivity}" drawable="com_android_videoeditor"/>
+    <item component="ComponentInfo{yong.app.videoeditor/com.android.videoeditor.ProjectsActivity}" drawable="com_android_videoeditor"/>
+    <item component="ComponentInfo{com.qine.free.videoeditor/com.android.videoeditor.ProjectsActivity}" drawable="com_android_videoeditor"/>
+    
+    <!-- Voice Dialer -->
+    <item component="ComponentInfo{com.android.voicedialer/com.android.voicedialer.VoiceDialerActivity}" drawable="com_android_voicedialer"/>
+    <item component="ComponentInfo{com.android.voicedialer/com.android.voicedialer.VoiceDialerLauncherActivity}" drawable="com_android_voicedialer"/>
+    <item component="ComponentInfo{com.cyberon.cvsd/com.cyberon.cvsd.VSDActivity}" drawable="com_android_voicedialer"/>
+    <item component="ComponentInfo{com.android.voicedialer/com.android.voicedialer.SelectorAcitvity}" drawable="com_android_voicedialer"/>
+    <item component="ComponentInfo{com.android.jcontacts/com.android.jcontacts.activities.DialtactsActivity}" drawable="com_android_voicedialer"/>
+    
+    <!-- Archiver -->
+    <item component="ComponentInfo{com.rarlab.rar/com.rarlab.rar.MainActivity}" drawable="com_rarlab_rar"/>
+    <item component="ComponentInfo{ru.zdevs.zarchiver/ru.zdevs.zarchiver.ZArchiver}" drawable="com_rarlab_rar"/>
+    <item component="ComponentInfo{ru.zdevs.zarchiver/ru.zdevs.zarchiver.ZArchiverFS}" drawable="com_rarlab_rar"/>
+    <item component="ComponentInfo{ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver}" drawable="com_rarlab_rar"/>
+    <item component="ComponentInfo{org.joa.zipperplus7v2/org.test.flashtest.StartPageActivity}" drawable="com_rarlab_rar"/>
+    <item component="ComponentInfo{org.joa.zipperplus7/org.test.flashtest.StartPageActivity}" drawable="com_rarlab_rar"/>
+    
+    <!-- File Explorer -->
+    <item component="ComponentInfo{com.android.qrdfileexplorer/com.android.qrdfileexplorer.QRDFileExplorer}" drawable="file_explorer"/>
+    <item component="ComponentInfo{com.rhmsoft.fm/com.rhmsoft.fm.FileManager}" drawable="file_explorer"/>
+    <item component="ComponentInfo{com.rhmsoft.fm.hd/com.rhmsoft.fm.hd.FileManagerHD}" drawable="file_explorer"/>
+    <item component="ComponentInfo{com.rhmsoft.fm.pro/com.rhmsoft.fm.pro.FileManager}" drawable="file_explorer"/>
+    <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="file_explorer"/>
+    <item component="ComponentInfo{com.estrongs.android.pop.cupcake/com.estrongs.android.pop.cupcake.view.FileExplorerActivity}" drawable="file_explorer"/>
+    <item component="ComponentInfo{com.estrongs.android.pop.tmp/com.estrongs.android.pop.app.FileExplorerActivity}" drawable="file_explorer"/>
+    <item component="ComponentInfo{com.mobisystems.fileman/com.mobisystems.office.FileBrowser}" drawable="file_explorer"/>
+    <item component="ComponentInfo{pl.solidexplorer/pl.solidexplorer.SolidExplorer}" drawable="file_explorer"/>
+    <item component="ComponentInfo{com.ghisler.android.TotalCommander/com.ghisler.android.TotalCommander.TotalCommander}" drawable="com_ghisler_android_totalcommander"/>
+    
 </resources>
