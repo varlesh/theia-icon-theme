@@ -24,5 +24,5 @@ Android icon theme.
 ```
 <item>com_delphicoder_flud</item>
 ```
-* Молиться и ждать ))
+* Молиться и ждать :expressionless:
 
