@@ -114,4 +114,5 @@
     <item drawable="ru_mail_mailapp"/>
     <item drawable="ru_ok_android"/>
     <item drawable="ru_superjob_client_android"/>
+    <item drawable="org_kman_aquamail"/>
 </resources>

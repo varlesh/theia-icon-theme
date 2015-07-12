@@ -147,6 +147,8 @@
     <item component="ComponentInfo{com.htc.android.mail/com.htc.android.mail.MailListTab}" drawable="com_android_email"/>
     <item component="ComponentInfo{com.google.android.email/com.android.email.activity.Welcome}" drawable="com_android_email"/>
     <item component="ComponentInfo{com.motorola.blur.email/com.motorola.blur.email.mailbox.MailListActivity}" drawable="com_android_email"/>
+    <item component="ComponentInfo{org.kman.AquaMail/org.kman.AquaMail.ui.AccountListActivity}" drawable="org_kman_aquamail"/>
+    <item component="ComponentInfo{org.kman.AquaMail.UnlockerMarket/org.kman.AquaMail.UnlockerMarket.LauncherActivity}" drawable="org_kman_aquamail"/>
     
     <!-- Contacts -->
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="com_android_contacts" />
