@@ -5,8 +5,8 @@
     <string name="theme_title">elementary icon pack</string>
     <string name="developer_name">elementary OS Russian Community</string>
     <!-- This (optional) link will appear at the end of the theme description -->
-    <string name="developer_link"></string>
-    <string name="theme_description"></string>
+    <string name="developer_link">https://elementary.today</string>
+    <string name="theme_description">Тема создана в порыве любви к святейшему Daniel Fore. Слава elementary, дизайну слава!</string>
 
  
     <!-- The feature graphic will appear above the theme description -->
@@ -17,10 +17,8 @@
     <string name="theme_preview2">preview2</string>
     <string name="title_activity_icons">Icons</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
     
     <!-- Go theme information -->
-    <string name="theme_description">Тема создана в порыве любви к святейшему Daniel Fore. Слава elementary, дизайну слава!</string>
     <string name="theme_info">Тема создана в порыве любви к святейшему Daniel Fore. Слава elementary, дизайну слава!</string>
     <string name="go_applied">Text for theme applied popup</string>
 
