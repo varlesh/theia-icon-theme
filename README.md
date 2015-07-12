@@ -5,7 +5,7 @@ Android icon theme.
 
 1. Сконвертировать иконку в PNG (192px).
 
-2. SVG положить в /icons-source/, PNG в /app/src/main/res/drawable-xhdpi/.
+2. SVG положить в /icons-source/, PNG в /app/src/main/res/drawable-xhdpi/.*
 
 3. Прописать название иконки в /app/src/main/res/values/drawable.xml.
 Пример:
@@ -26,3 +26,4 @@ Android icon theme.
 Для удобства можно использовать http://czarnomorski.pl/search.php
 
 
+* - имя иконки не должно содержать заглавных букв.
