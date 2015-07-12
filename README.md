@@ -9,11 +9,11 @@ Android icon theme.
 
 3. Прописать название иконки в /app/src/main/res/values/drawable.xml.
 Пример:
-<item drawable="ru_superjob_client_android"/>
+<code><item drawable="ru_superjob_client_android"/></code>
 
 4. Прописать название иконки в /app/src/main/res/values/iconpack.xml.
 Пример:
-<item>ru_superjob_client_android</item>
+<code><item>ru_superjob_client_android</item></code>
 
 5. Задать иконке класс приложения в /app/src/main/res/xml/appfilte.xml.
 Пример:
@@ -22,5 +22,3 @@ Android icon theme.
     <item component="ComponentInfo{com.rhmsoft.fm/com.rhmsoft.fm.FileManager}" drawable="file_explorer"/>
 
 Для удобства можно использовать http://czarnomorski.pl/search.php
-
-
