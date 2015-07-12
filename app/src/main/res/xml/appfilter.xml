@@ -137,6 +137,7 @@
     <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.LauncherActivity}" drawable="com_soundcloud_android"/>
     <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.activity.Launch}" drawable="com_soundcloud_android"/>
     <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.activity.Dashboard}" drawable="com_soundcloud_android"/>
+    <item component="ComponentInfo{com.mv2studio.amarok.kontrol.free/com.mv2studio.amarok.kontrol.ui.Acivity.BaseActivity}" drawable="com_mv2studio_amarok_kontrol_free"/>
     
     <!-- Apps -->
     <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="com_alensw_picfolder"/>
@@ -267,9 +268,6 @@
     <!-- Go Weather -->
     <item component="ComponentInfo{com.mediawoz.goweather/com.mediawoz.goweather.WeatherApp}" drawable="com_devexpert_weather"/>
     <item component="ComponentInfo{com.gau.go.launcherex.gowidget.weatherwidget/com.gau.go.launcherex.gowidget.framework.GoWidgetActivity}" drawable="com_devexpert_weather"/>
-
-    <!-- Facebook Messenger -->
-    <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="com_facebook_orca" />
     
     <!-- Chrome -->
     <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="com_google_android_apps_chrome" />
@@ -311,9 +309,6 @@
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="org_telegram_messenger" />
     <item component="ComponentInfo{org.telegram.android/org.telegram.android.StartActivity}" drawable="org_telegram_messenger" />
 
-    <!-- VK -->
-    <item component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.MainActivity}" drawable="com_vkontakte_android" />
-
     <!-- Weather & Clock Widget Android -->
     <item component="ComponentInfo{com.devexpert.weather/com.devexpert.weather.view.HomeActivity}" drawable="com_devexpert_weather" />
 
@@ -351,6 +346,12 @@
     <item component="ComponentInfo{com.kmplayer/com.kmplayer.activity.MainActivity}" drawable="com_kmplayer" />
     <item component="ComponentInfo{org.videolan.vlc.betav7neon/org.videolan.vlc.betav7neon.gui.MainActivity}" drawable="org_videolan_vlc_betav7neon" />
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.gui.MainActivity}" drawable="org_videolan_vlc_betav7neon" />
+    
+    <!-- Screencast -->
+    <item component="ComponentInfo{com.ms.screencastfree/com.ms.screencastfree.Screencast}" drawable="com_ms_screencastfree"/>
+    <item component="ComponentInfo{com.ms.screencast/com.ms.screencast.Screencast}" drawable="com_ms_screencastfree"/>
+    <item component="ComponentInfo{com.iwobanas.screenrecorder.pro/com.iwobanas.screenrecorder.RecorderActivity}" drawable="com_ms_screencastfree"/>
+    <item component="ComponentInfo{com.iwobanas.screenrecorder.free/com.iwobanas.screenrecorder.RecorderActivity}" drawable="com_ms_screencastfree"/>
 
     <!-- GeekHabr -->
     <item component="ComponentInfo{com.trablone.geekhabr/com.trablone.geekhabr.Main}" drawable="com_trablone_geekhabr" />
@@ -365,6 +366,12 @@
     <item component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="com_delphicoder_flud"/>
     <item component="ComponentInfo{com.neogb.rtac/com.neogb.rtac.TorrentsActivity}" drawable="com.neogb.rtac"/>
     <item component="ComponentInfo{org.transdroid.lite/org.transdroid.core.gui.TorrentsActivity_}" drawable="org_transdroid_lite"/>
+    <item component="ComponentInfo{com.mobilityflow.torrent/com.mobilityflow.torrent.MainView}" drawable="com_mobilityflow_torrent"/>
+    <item component="ComponentInfo{com.mobilityflow.torrent.prof/com.mobilityflow.torrent.prof.MainView}" drawable="com_mobilityflow_torrent"/>
+    <item component="ComponentInfo{com.mobilityflow.torrent.beta/com.mobilityflow.atorrent.MainView}" drawable="com_mobilityflow_torrent"/>
+    <item component="ComponentInfo{com.mobilityflow.torrent.prof/com.mobilityflow.atorrent.MainView}" drawable="com_mobilityflow_torrent"/>
+    <item component="ComponentInfo{com.mobilityflow.torrent.prof/com.mobilityflow.atorrent.AddTorrent}" drawable="com_mobilityflow_torrent"/>
+    <item component="ComponentInfo{com.mobilityflow.torrent.beta/com.mobilityflow.torrent.beta.MainView}" drawable="com_mobilityflow_torrent"/>
 
     <!-- Mplayer -->
     <item component="ComponentInfo{com.android.mplayer/com.android.mplayer.Main}" drawable="com_android_mplayer"/>
@@ -392,8 +399,11 @@
     <!-- Mail.Ru -->
     <item component="ComponentInfo{ru.mail.mailapp/ru.mail.mailapp.SplashScreenActivity}" drawable="ru_mail_mailapp" />
 
-    <!-- Odnoklassniki -->
+    <!-- Social -->
     <item component="ComponentInfo{ru.ok.android/ru.ok.android.ui.activity.main.OdklActivity}" drawable="ru_ok_android" />
+    <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.orca.ThreadListLauncherActivity}" drawable="com_facebook_katana"/>
+    <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="com_facebook_orca" />
+    <item component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.MainActivity}" drawable="com_vkontakte_android" />
 
     <!-- KDE Connect -->
     <item component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}" drawable="org_kde_kdeconnect_tp" />
@@ -530,6 +540,8 @@
     <!-- Utils -->
     <item component="ComponentInfo{com.piriform.ccleaner/com.piriform.ccleaner.ui/activity.MainActivity}" drawable="com_piriform_ccleaner"/>
     <item component="ComponentInfo{com.cleanmaster.mguard/com.keniu.security.main.MainActivity}" drawable="com_cleanmaster_mguard"/>
+    <item component="ComponentInfo{it.msec.dukto/it.msec.dukto.Dukto}" drawable="it_msec_dukto"/>
+    <item component="ComponentInfo{com.alephzain.framaroot/com.alephzain.framaroot.FramaActivity}" drawable="com_alephzain_framaroot"/>
 
     <!-- Bluetooth -->
     <item component="ComponentInfo{com.android.bluetooth/com.android.bluetooth.opp.BluetoothOppLauncherActivity}" drawable="com_android_bluetooth"/>
@@ -569,5 +581,11 @@
     <item component="ComponentInfo{com.mobisystems.fileman/com.mobisystems.office.FileBrowser}" drawable="file_explorer"/>
     <item component="ComponentInfo{pl.solidexplorer/pl.solidexplorer.SolidExplorer}" drawable="file_explorer"/>
     <item component="ComponentInfo{com.ghisler.android.TotalCommander/com.ghisler.android.TotalCommander.TotalCommander}" drawable="com_ghisler_android_totalcommander"/>
+    
+    <!-- Launcher -->
+    <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="com_anddoes_launcher"/>
+    <item component="ComponentInfo{com.anddoes.launcher.pro/com.anddoes.launcher.pro.ApexLauncherProActivity}" drawable="com_anddoes_launcher"/>
+    <item component="ComponentInfo{com.teslacoilsw.launcher/com.android.launcher2.Launcher}" drawable="com_teslacoilsw_launcher"/>
+    <item component="ComponentInfo{com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity}" drawable="com_teslacoilsw_launcher"/>
     
 </resources>
