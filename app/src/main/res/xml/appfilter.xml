@@ -399,6 +399,7 @@
 
     <!-- Job Search-->
     <item component="ComponentInfo{com.indeed.android.jobsearch/com.indeed.android.jobsearch.MainActivity}" drawable="com_indeed_android_jobsearch"/>
+    <item component="ComponentInfo{ru.superjob.client.android/ru.superjob.client.android.MainActivity}" drawable="ru_superjob_client_android"/>
 
     <!-- UC Browser-->
     <item component="ComponentInfo{com.ucmobile.intl/com.ucmobile.main.ucmobile}" drawable="com_ucmobile_intl"/>
