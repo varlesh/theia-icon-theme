@@ -7,7 +7,7 @@ Android icon theme.
 
 2. Сконвертировать исходную иконку в PNG 192x192 и переместить в /app/src/main/res/drawable-xhdpi
 
-3. Задать иконке класс приложения в /app/src/main/res/xml/appfilte.xml.
+3. Задать иконке класс приложения в /app/src/main/res/xml/appfilter.xml.
 Пример:
 ```
 <item component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="com_delphicoder_flud"/>
