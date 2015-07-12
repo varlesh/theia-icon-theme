@@ -3,7 +3,7 @@
 
     <!-- Basic theme information -->
     <string name="theme_title">elementary icon pack</string>
-    <string name="developer_name">elementary community</string>
+    <string name="developer_name">elementary OS Russian Community</string>
     <!-- This (optional) link will appear at the end of the theme description -->
     <string name="developer_link"></string>
     <string name="theme_description"></string>
@@ -20,8 +20,8 @@
     <string name="hello_world">Hello world!</string>
     
     <!-- Go theme information -->
-
-    <string name="theme_info">Your theme information here</string>
+    <string name="theme_description">Тема создана в порыве любви к святейшему Daniel Fore. Слава elementary, дизайну слава!</string>
+    <string name="theme_info">Тема создана в порыве любви к святейшему Daniel Fore. Слава elementary, дизайну слава!</string>
     <string name="go_applied">Text for theme applied popup</string>
 
 </resources>
