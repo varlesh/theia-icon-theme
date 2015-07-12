@@ -22,3 +22,5 @@ Android icon theme.
     <item component="ComponentInfo{com.rhmsoft.fm/com.rhmsoft.fm.FileManager}" drawable="file_explorer"/>
 
 Для удобства можно использовать http://czarnomorski.pl/search.php
+
+
