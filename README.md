@@ -7,20 +7,23 @@ Android icon theme.
 
 2. Сконвертировать исходную иконку в PNG 192x192 и переместить в /app/src/main/res/drawable-xhdpi
 
-3. Прописать название иконки в /app/src/main/res/values/drawable.xml.
-Пример:
-```
-ru_superjob_client_android
-```
-4. Прописать название иконки в /app/src/main/res/values/iconpack.xml.
-Пример:
-```
-ru_superjob_client_android
-```
-5. Задать иконке класс приложения в /app/src/main/res/xml/appfilte.xml.
+3. Задать иконке класс приложения в /app/src/main/res/xml/appfilte.xml.
 Пример:
 ```
 <!-- Torrent -->
     <item component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="com_delphicoder_flud"/>
 ```
 Для удобства можно использовать http://czarnomorski.pl/search.php
+
+4. Прописать название иконки в /app/src/main/res/xml/drawable.xml.
+Пример:
+```
+com_delphicoder_flud
+```
+5. Прописать название иконки в /app/src/main/res/values/iconpack.xml.
+Пример:
+```
+com_delphicoder_flud
+```
+6. Молиться и ждать ))
+
