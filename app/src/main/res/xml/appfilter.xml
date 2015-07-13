@@ -331,6 +331,7 @@
 
     <!-- Clock -->
     <item component="ComponentInfo{com.android.alarmclock/com.android.alarmclock.AlarmClock}" drawable="com_android_alarm"/>
+    <item component="ComponentInfo{com.nokia.alarmclock/com.android.alarmclock.AlarmClock}" drawable="com_android_alarm"/>
     <item component="ComponentInfo{com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl}" drawable="com_android_alarm"/>
     <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="com_android_alarm"/>
     <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="com_android_alarm"/>
@@ -513,7 +514,8 @@
     <item component="ComponentInfo{com.android.htccontacts/com.android.htccontacts.DialerTabActivity}" drawable="com_android_dialer"/>
     <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.DialerTabActivity}" drawable="com_android_dialer"/>
     <item component="ComponentInfo{com.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="com_android_dialer"/>
-    
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="com_android_dialer"/>
+
     <!-- WiFi AP -->
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings.WifiApSettingsActivity}" drawable="com_android_settings_wifi"/>
 
