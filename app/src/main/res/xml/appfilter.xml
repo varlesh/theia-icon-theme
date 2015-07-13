@@ -331,7 +331,7 @@
 
     <!-- Clock -->
     <item component="ComponentInfo{com.android.alarmclock/com.android.alarmclock.AlarmClock}" drawable="com_android_alarm"/>
-    <item component="ComponentInfo{com.nokia.alarmclock/com.android.alarmclock.AlarmClock}" drawable="com_android_alarm"/>
+    <item component="ComponentInfo{com.nokia.alarmclock/com.nokia.alarmclock.AlarmClock}" drawable="com_android_alarm"/>
     <item component="ComponentInfo{com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl}" drawable="com_android_alarm"/>
     <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="com_android_alarm"/>
     <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="com_android_alarm"/>
