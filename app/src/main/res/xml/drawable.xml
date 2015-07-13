@@ -127,4 +127,7 @@
     <item drawable="org_cohortor_gstrings"/>
     <item drawable="com_stackexchange_marvin"/>
     <item drawable="fr_outadev_lastfm_scrobb"/>
+    <item drawable="au_com_shiftyjelly_pocketcasts"/>
+    <item drawable="com_mixradio_droid"/>
+    <item drawable="tunein_player"/>
 </resources>

@@ -127,5 +127,10 @@
         <item>org_cohortor_gstrings</item>
         <item>com_stackexchange_marvin</item>
         <item>fr_outadev_lastfm_scrobb</item>
+        <item>au_com_shiftyjelly_pocketcasts</item>
+        <item>com_mixradio_droid</item>
+        <item>tunein_player</item>
+
+
 	</string-array>
 </resources>
