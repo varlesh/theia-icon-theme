@@ -671,5 +671,9 @@
 
     <!-- Root Explorer -->
     <item component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}" drawable="file_explorer" />
+
+    <!-- Payment Services -->
+    <item component="ComponentInfo{ru.mw/ru.mw.Main}" drawable="ru_mw" />
+    <item component="ComponentInfo{ru.yandex.money.view/ru.yandex.money.view.ActMain}" drawable="ru_yandex_money" />
     
 </resources>

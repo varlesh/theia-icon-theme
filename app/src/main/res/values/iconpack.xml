@@ -133,5 +133,7 @@
         <item>f_droid</item>
         <item>opera_store</item>
         <item>yandex_store</item>
+        <item>ru_mw</item>
+        <item>ru_yandex_money</item>
 	</string-array>
 </resources>

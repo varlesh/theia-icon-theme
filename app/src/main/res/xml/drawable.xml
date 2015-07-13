@@ -133,4 +133,6 @@
     <item drawable="f_droid"/>
     <item drawable="opera_store"/>
     <item drawable="yandex_store"/>
+    <item drawable="ru_mw"/>
+    <item drawable="ru_yandex_money"/>
 </resources>
