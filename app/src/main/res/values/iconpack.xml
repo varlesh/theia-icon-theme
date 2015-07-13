@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="icon_pack" translatable="false">
+        <item>battery</item>
         <item>bottom</item>
         <item>com_adobe_reader</item>
         <item>com_aimp_player</item>
@@ -100,20 +101,28 @@
         <item>io_meduza_android</item>
         <item>it_msec_dukto</item>
         <item>keepass2android_keepass2android</item>
+        <item>midori</item>
         <item>mobi_beyondpod</item>
+        <item>news_reader</item>
         <item>org_deadbeef_android</item>
         <item>org_geometerplus_zlibrary_ui_android</item>
         <item>org_kde_kdeconnect_tp</item>
+        <item>org_kman_aquamail</item>
         <item>org_mozilla_firefox_beta</item>
         <item>org_mozilla_firefox</item>
         <item>org_telegram_messenger</item>
         <item>org_transdroid_lite</item>
         <item>org_videolan_vlc_betav7neon</item>
+        <item>phone</item>
+        <item>power</item>
         <item>rename_me_app_drawer</item>
         <item>ru_dublgis_dgismobile</item>
         <item>ru_mail_mailapp</item>
         <item>ru_ok_android</item>
         <item>ru_superjob_client_android</item>
-        <item>org_kman_aquamail</item>
+        <item>sim</item>
+        <item>super_su</item>
+        <item>terminal</item>
+        <item>update</item>
 	</string-array>
 </resources>

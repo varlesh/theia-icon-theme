@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <version>1</version>
+    <item drawable="battery"/>
     <item drawable="bottom"/>
     <item drawable="com_adobe_reader"/>
     <item drawable="com_aimp_player"/>
@@ -100,19 +101,27 @@
     <item drawable="io_meduza_android"/>
     <item drawable="it_msec_dukto"/>
     <item drawable="keepass2android_keepass2android"/>
+    <item drawable="midori"/>
     <item drawable="mobi_beyondpod"/>
+    <item drawable="news_reader"/>
     <item drawable="org_deadbeef_android"/>
     <item drawable="org_geometerplus_zlibrary_ui_android"/>
     <item drawable="org_kde_kdeconnect_tp"/>
+    <item drawable="org_kman_aquamail"/>
     <item drawable="org_mozilla_firefox_beta"/>
     <item drawable="org_mozilla_firefox"/>
     <item drawable="org_telegram_messenger"/>
     <item drawable="org_transdroid_lite"/>
     <item drawable="org_videolan_vlc_betav7neon"/>
+    <item drawable="phone"/>
+    <item drawable="power"/>
     <item drawable="rename_me_app_drawer"/>
     <item drawable="ru_dublgis_dgismobile"/>
     <item drawable="ru_mail_mailapp"/>
     <item drawable="ru_ok_android"/>
     <item drawable="ru_superjob_client_android"/>
-    <item drawable="org_kman_aquamail"/>
+    <item drawable="sim"/>
+    <item drawable="super_su"/>
+    <item drawable="terminal"/>
+    <item drawable="update"/>
 </resources>
