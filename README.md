@@ -12,7 +12,7 @@ Android icon theme.
 ```
 <item component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="com_delphicoder_flud"/>
 ```
-Для удобства можно использовать http://czarnomorski.pl/search.php
+Для удобства можно использовать [DCikonZ Database] (http://czarnomorski.pl/search.php) или приложение [Activity Launcher] (https://play.google.com/store/apps/details?id=de.szalkowski.activitylauncher&hl=ru).
 
 * Прописать название иконки в /app/src/main/res/xml/drawable.xml.
 Пример:
