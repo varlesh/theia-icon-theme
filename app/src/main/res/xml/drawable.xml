@@ -130,4 +130,7 @@
     <item drawable="au_com_shiftyjelly_pocketcasts"/>
     <item drawable="com_mixradio_droid"/>
     <item drawable="tunein_player"/>
+    <item drawable="f_droid"/>
+    <item drawable="opera_store"/>
+    <item drawable="yandex_store"/>
 </resources>

@@ -130,7 +130,8 @@
         <item>au_com_shiftyjelly_pocketcasts</item>
         <item>com_mixradio_droid</item>
         <item>tunein_player</item>
-
-
+        <item>f_droid</item>
+        <item>opera_store</item>
+        <item>yandex_store</item>
 	</string-array>
 </resources>

@@ -222,8 +222,13 @@
 
     <!-- Play Music -->
     <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="com_android_music"/>
-    <!-- Play Store -->
+
+    <!-- Stores -->
     <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="com_android_vending"/>
+    <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}" drawable="f_droid"/>
+    <item component="ComponentInfo{com.nokia.nstore/com.nokia.nstore.HomeListActivity}" drawable="opera_store"/>
+    <item component="ComponentInfo{com.yandex.store/com.yandex.store.MainActivity}" drawable="yandex_store"/>
+
     <!-- Google Books -->
     <item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.HomeActivity}" drawable="com_google_android_apps_books"/>
     <item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="com_google_android_apps_books"/>
