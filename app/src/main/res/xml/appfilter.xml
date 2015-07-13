@@ -200,19 +200,19 @@
     <item component="ComponentInfo{com.brainworks.contacts/com.brainworks.contacts.ui.Main}" drawable="com_android_contacts"/>
 
     <!-- Simtoolkit -->
-    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="com_android_dialer" />
-    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivitySingle}" drawable="com_android_dialer" />
-    <item component="ComponentInfo{com.android.stk/com.android.stk.StkAliasLauncherActivity}" drawable="com_android_dialer" />
-    <item component="ComponentInfo{com.android.stk2/com.android.stk2.StkLauncherActivity}" drawable="com_android_dialer" />
-    <item component="ComponentInfo{com.android.stk/com.android.stk.SubStkLauncherActivity}" drawable="com_android_dialer" />
-    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}" drawable="com_android_dialer" />
-    <item component="ComponentInfo{com.android.stk1/com.android.stk1.StkLauncherActivity}" drawable="com_android_dialer" />
-    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityII}" drawable="com_android_dialer" />
-    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityDefault}" drawable="com_android_dialer" />
-    <item component="ComponentInfo{com.android.stk/com.android.stk.UtkExLauncherActivity}" drawable="com_android_dialer" />
-    <item component="ComponentInfo{com.android.stk2/com.android.stk2.StkLauncherActivity2}" drawable="com_android_dialer" />
-    <item component="ComponentInfo{com.android.stk/com.android.stk.UtkLauncherActivity}" drawable="com_android_dialer" />
-    <item component="ComponentInfo{com.android.stk/com.android.stk.EgStkExLauncherActivity2}" drawable="com_android_dialer" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivitySingle}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkAliasLauncherActivity}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk2/com.android.stk2.StkLauncherActivity}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.SubStkLauncherActivity}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk1/com.android.stk1.StkLauncherActivity}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityII}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityDefault}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.UtkExLauncherActivity}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk2/com.android.stk2.StkLauncherActivity2}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.UtkLauncherActivity}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.EgStkExLauncherActivity2}" drawable="sim" />
 
     <!-- Play Music -->
     <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="com_android_music"/>
