@@ -606,4 +606,25 @@
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.android.launcher2.Launcher}" drawable="com_teslacoilsw_launcher"/>
     <item component="ComponentInfo{com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity}" drawable="com_teslacoilsw_launcher"/>
     
+    <!-- SuperSU -->
+    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-SuperAndy}" drawable="super_su"/>
+    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity}" drawable="super_su"/>
+    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Chip}" drawable="super_su"/>
+    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-SuperSU}" drawable="super_su"/>
+    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Emblem}" drawable="super_su"/>
+    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Original}" drawable="super_su"/>
+    
+    <!-- Terminal -->
+    <item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="terminal"/>
+    <item component="ComponentInfo{jackpal.androidterm2/jackpal.androidterm2.Term}" drawable="terminal"/>
+    <item component="ComponentInfo{berserker.android.apps.sshdroid/berserker.android.apps.sshdroid.MainActivity}" drawable="terminal"/>
+    <item component="ComponentInfo{com.android.term/com.android.term.Term}" drawable="terminal"/>
+    <item component="ComponentInfo{com.dejan.zoki_japanac/com.dejan.zoki_japanac.MainActivity}" drawable="terminal"/>
+    <item component="ComponentInfo{com.sfr.android.console/com.sfr.android.console.QuickLauncher}" drawable="terminal"/>
+    <item component="ComponentInfo{net.curve84.android.terminalsolver/net.curve84.android.terminalsolver.TerminalSolver}" drawable="terminal"/>
+    <item component="ComponentInfo{com.stericson.rootlogger.free/com.stericson.rootlogger.free.activities.RootLoggerActivity}" drawable="terminal"/>
+    <item component="ComponentInfo{com.magicandroidapps.bettertermpro/com.magicandroidapps.bettertermpro.BetterTerm}" drawable="terminal"/>
+    <item component="ComponentInfo{com.spartacusrex.spartacuside/com.spartacusrex.spartacuside.Start}" drawable="terminal"/>
+    <item component="ComponentInfo{berserker.android.apps.sshdroidpro/berserker.android.apps.sshdroidpro.MainActivity}" drawable="terminal"/>
+    
 </resources>
