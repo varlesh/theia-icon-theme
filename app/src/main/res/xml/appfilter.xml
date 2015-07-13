@@ -43,11 +43,11 @@
     <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.google.android.gallery3d/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
-    <item component="ComponentInfo{com.cyngn.cameranextmod/com.cyngn.cameranextmod.CameraLauncher}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.cyngn.cameranextmod/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
-    <item component="ComponentInfo{com.android.camera/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
-    <item component="ComponentInfo{com.android.camera/com.android.camera.CameraActivity}" drawable="com_android_camera"/>
-    <item component="ComponentInfo{com.android.camera/com.android.camera.SecureCameraActivity}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.cyngn.cameranextmod/com.android.camera.VideoCamera}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.cyngn.cameranextmod/com.android.camera.CameraActivity}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.cyngn.cameranextmod/com.android.camera.SecureCameraActivity}" drawable="com_android_camera"/>
 
 
 
@@ -550,8 +550,8 @@
     <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="com_twitter_android"/>
 
     <!-- Meduza -->
-    <item component="ComponentInfo{io.meduza.android/io.meduza.android.AppLinkActivity}" drawable="io_meduza_android"/>
-    <item component="ComponentInfo{io.meduza.android/io.meduza.android.SplashActivity}" drawable="io_meduza_android"/>
+    <item component="ComponentInfo{io.meduza.android/io.meduza.android.activities.AppLinkActivity}" drawable="io_meduza_android"/>
+    <item component="ComponentInfo{io.meduza.android/io.meduza.android.activities.SplashActivity}" drawable="io_meduza_android"/>
 
     <!-- BeyonPod -->
     <item component="ComponentInfo{mobi.beyondpod/mobi.beyondpod.ui.views.Splash}" drawable="mobi_beyondpod"/>
