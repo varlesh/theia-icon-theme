@@ -627,4 +627,9 @@
     <item component="ComponentInfo{com.spartacusrex.spartacuside/com.spartacusrex.spartacuside.Start}" drawable="terminal"/>
     <item component="ComponentInfo{berserker.android.apps.sshdroidpro/berserker.android.apps.sshdroidpro.MainActivity}" drawable="terminal"/>
     
+    <!-- Tuner -->
+    <item component="ComponentInfo{org.cohortor.gstrings/org.cohortor.gstrings.GStrings}" drawable="org_cohortor_gstrings"/>
+    <item component="ComponentInfo{org.cohortor.gstrings.tyd/org.cohortor.gstrings.GStrings}" drawable="org_cohortor_gstrings"/>
+    <item component="ComponentInfo{com.ovelin.guitartuna/com.facebook.unity.FBUnityPlayerActivity}" drawable="org_cohortor_gstrings"/>
+    
 </resources>

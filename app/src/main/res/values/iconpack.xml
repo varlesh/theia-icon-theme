@@ -124,5 +124,6 @@
         <item>super_su</item>
         <item>terminal</item>
         <item>update</item>
+        <item>org_cohortor_gstrings</item>
 	</string-array>
 </resources>

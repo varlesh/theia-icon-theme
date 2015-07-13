@@ -124,4 +124,5 @@
     <item drawable="super_su"/>
     <item drawable="terminal"/>
     <item drawable="update"/>
+    <item drawable="org_cohortor_gstrings"/>
 </resources>
