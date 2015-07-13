@@ -33,7 +33,6 @@
     <item component="ComponentInfo{com.android.settings/com.android.settings.MiuiSettings}" drawable="com_android_settings"/>
     <item component="ComponentInfo{com.android.settings/com.android.settings.MiuiPasswordGuardActivity}" drawable="com_android_settings"/>
     <item component="ComponentInfo{com.android.settings/com.android.settings.framework.activity.HtcSettings}" drawable="com_android_settings"/>
-    <item component="ComponentInfo{ }" drawable="com_google_android_gms" />
 
     <!-- Camera -->
     <item component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}" drawable="com_android_camera"/>
