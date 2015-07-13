@@ -601,6 +601,11 @@
     <item component="ComponentInfo{com.mobisystems.fileman/com.mobisystems.office.FileBrowser}" drawable="file_explorer"/>
     <item component="ComponentInfo{pl.solidexplorer/pl.solidexplorer.SolidExplorer}" drawable="file_explorer"/>
     <item component="ComponentInfo{com.ghisler.android.TotalCommander/com.ghisler.android.TotalCommander.TotalCommander}" drawable="com_ghisler_android_totalcommander"/>
+    <item component="ComponentInfo{com.metago.astro/com.metago.astro.SplashActivity}" drawable="file_explorer"/>
+    <item component="ComponentInfo{com.metago.astro/com.metago.astro.FileManagerActivity}" drawable="file_explorer"/>
+    <item component="ComponentInfo{com.metago.astro/com.metago.astro.MainActivity}" drawable="file_explorer"/>
+    <item component="ComponentInfo{com.metago.astro/com.metago.astro.tools.dirsize.DirSizeActivityLauncher}" drawable="file_explorer"/>
+    <item component="ComponentInfo{com.metago.astro/com.metago.astro.tools.AppManagerLauncher}" drawable="file_explorer"/>
     
     <!-- Launcher -->
     <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="com_anddoes_launcher"/>
@@ -633,13 +638,5 @@
     <item component="ComponentInfo{org.cohortor.gstrings/org.cohortor.gstrings.GStrings}" drawable="org_cohortor_gstrings"/>
     <item component="ComponentInfo{org.cohortor.gstrings.tyd/org.cohortor.gstrings.GStrings}" drawable="org_cohortor_gstrings"/>
     <item component="ComponentInfo{com.ovelin.guitartuna/com.facebook.unity.FBUnityPlayerActivity}" drawable="org_cohortor_gstrings"/>
-
-    <!-- Super SU -->
-    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-SuperAndy}" drawable="super_su"/>
-    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity}" drawable="super_su"/>
-    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Chip}" drawable="super_su"/>
-    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-SuperSU}" drawable="super_su"/>
-    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Emblem}" drawable="super_su"/>
-    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Original}" drawable="super_su"/>
-
+    
 </resources>
