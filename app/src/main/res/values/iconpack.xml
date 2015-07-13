@@ -125,5 +125,7 @@
         <item>terminal</item>
         <item>update</item>
         <item>org_cohortor_gstrings</item>
+        <item>com_stackexchange_marvin</item>
+        <item>fr_outadev_lastfm_scrobb</item>
 	</string-array>
 </resources>

@@ -638,5 +638,14 @@
     <item component="ComponentInfo{org.cohortor.gstrings/org.cohortor.gstrings.GStrings}" drawable="org_cohortor_gstrings"/>
     <item component="ComponentInfo{org.cohortor.gstrings.tyd/org.cohortor.gstrings.GStrings}" drawable="org_cohortor_gstrings"/>
     <item component="ComponentInfo{com.ovelin.guitartuna/com.facebook.unity.FBUnityPlayerActivity}" drawable="org_cohortor_gstrings"/>
+
+    <!-- Stack Exchange -->
+    <item component="ComponentInfo{com.stackexchange.marvin/com.stackexchange.marvin.ui.LaunchActivity}" drawable="com_stackexchange_marvin" />
+
+    <!-- Authenticator Plus -->
+    <item component="ComponentInfo{com.mufri.authenticatorplus/com.mufri.authenticatorplus.LoginActivity}" drawable="keepass2android_keepass2android" />
+
+    <!-- Scrobb -->
+    <item component="ComponentInfo{fr.outadev.lastfm.scrobb/fr.outadev.lastfm.scrobb.MainActivity}" drawable="fr_outadev_lastfm_scrobb" />
     
 </resources>

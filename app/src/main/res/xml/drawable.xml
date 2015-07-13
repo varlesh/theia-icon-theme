@@ -125,4 +125,6 @@
     <item drawable="terminal"/>
     <item drawable="update"/>
     <item drawable="org_cohortor_gstrings"/>
+    <item drawable="com_stackexchange_marvin"/>
+    <item drawable="fr_outadev_lastfm_scrobb"/>
 </resources>
