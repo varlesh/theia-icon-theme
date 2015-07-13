@@ -633,5 +633,13 @@
     <item component="ComponentInfo{org.cohortor.gstrings/org.cohortor.gstrings.GStrings}" drawable="org_cohortor_gstrings"/>
     <item component="ComponentInfo{org.cohortor.gstrings.tyd/org.cohortor.gstrings.GStrings}" drawable="org_cohortor_gstrings"/>
     <item component="ComponentInfo{com.ovelin.guitartuna/com.facebook.unity.FBUnityPlayerActivity}" drawable="org_cohortor_gstrings"/>
-    
+
+    <!-- Super SU -->
+    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-SuperAndy}" drawable="super_su"/>
+    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity}" drawable="super_su"/>
+    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Chip}" drawable="super_su"/>
+    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-SuperSU}" drawable="super_su"/>
+    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Emblem}" drawable="super_su"/>
+    <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Original}" drawable="super_su"/>
+
 </resources>
