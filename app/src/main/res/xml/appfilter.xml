@@ -212,14 +212,14 @@
     <item component="ComponentInfo{com.android.htccontacts/com.android.htccontacts.ContactsSearch}" drawable="com_android_dialer" />
     <item component="ComponentInfo{com.android.htccontacts/com.android.htccontacts.BrowseLayerCarouselActivity}" drawable="com_android_contacts"/>
     <item component="ComponentInfo{com.brainworks.contacts/com.brainworks.contacts.ui.Main}" drawable="com_android_contacts"/>
-    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.contactAppActivity}" drawable="com_android_contacts"/>
-    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.callLogsActivity}" drawable="com_android_contacts"/>
-    <item component="ComponentInfo{com.lenovo.ideafriend/contacts.alias.ContactShortcut}" drawable="com_android_contacts"/>
-    <item component="ComponentInfo{com.lenovo.ideafriend/contacts.alias.PeopleActivity}" drawable="com_android_contacts"/>
-    <item component="ComponentInfo{com.lenovo.ideafriend/contacts.alias.ContactsFontDoor}" drawable="com_android_contacts"/>
-    <item component="ComponentInfo{com.lenovo.ideafriend/contacts.alias.DialtactsContactsEntryActivity}" drawable="com_android_contacts"/>
-    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.DialtactsActivity}" drawable="com_android_contacts"/>
-    <item component="ComponentInfo{com.lenovo.ideafriend/contacts.alias.CallLogActivity}" drawable="com_android_contacts"/>
+    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.contactAppActivity}" drawable="com_android_dialer"/>
+    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.callLogsActivity}" drawable="com_android_dialer"/>
+    <item component="ComponentInfo{com.lenovo.ideafriend/contacts.alias.ContactShortcut}" drawable="com_android_dialer"/>
+    <item component="ComponentInfo{com.lenovo.ideafriend/contacts.alias.PeopleActivity}" drawable="com_android_dialer"/>
+    <item component="ComponentInfo{com.lenovo.ideafriend/contacts.alias.ContactsFontDoor}" drawable="com_android_dialer"/>
+    <item component="ComponentInfo{com.lenovo.ideafriend/contacts.alias.DialtactsContactsEntryActivity}" drawable="com_android_dialer"/>
+    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.DialtactsActivity}" drawable="com_android_dialer"/>
+    <item component="ComponentInfo{com.lenovo.ideafriend/contacts.alias.CallLogActivity}" drawable="com_android_dialer"/>
 
     <!-- Simtoolkit -->
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="sim" />
