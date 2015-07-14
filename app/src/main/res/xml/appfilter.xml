@@ -703,6 +703,6 @@
     <!-- Sports.ru -->
     <item component="ComponentInfo{ru.sports/ru.sports.activity.SplashActivity}" drawable="ru_sports" />
 
-    <!-- Sports.ru -->
+    <!-- Чемпионат.com -->
     <item component="ComponentInfo{ru.ideast.championat/ru.ideast.championat.SplashActivity}" drawable="ru_ideast_championat" />
 </resources>
