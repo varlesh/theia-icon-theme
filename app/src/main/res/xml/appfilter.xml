@@ -688,7 +688,7 @@
     <item component="ComponentInfo{com.webmoney.my/com.webmoney.my.view.MasterActivity}" drawable="com_webmoney_my" />
 
     <!-- Overchan -->
-    <item component="ComponentInfo{nya.miku.wishmaster/nya.miku.wishmaster.ui.MasterActivity}" drawable="nya_miku_wishmaster_sfw" />
+    <item component="ComponentInfo{nya.miku.wishmaster/nya.miku.wishmaster.ui.MainActivity}" drawable="nya_miku_wishmaster_sfw" />
 
     <!-- 2ch -->
     <item component="ComponentInfo{com.vortexwolf.chan.activites/com.vortexwolf.chan.activites.PickBoardActivity}" drawable="com_vortexwolf_chan" />
