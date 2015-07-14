@@ -6,4 +6,4 @@
     <item android:state_window_focused="true" android:drawable="@drawable/square_over" />
     <item android:state_window_focused="false" android:drawable="@android:color/transparent" />
 </selector>
-<!-- From: file:/C:/Users/user/AndroidStudioProjects/elementary-style/app/src/main/res/drawable/grid_selector.xml -->
+<!-- From: file:/C:/Users/user/Documents/GitHub/elementary-style/app/src/main/res/drawable/grid_selector.xml -->
