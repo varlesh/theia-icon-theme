@@ -48,6 +48,8 @@
     <item component="ComponentInfo{com.cyngn.cameranextmod/com.android.camera.VideoCamera}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.cyngn.cameranextmod/com.android.camera.CameraActivity}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.cyngn.cameranextmod/com.android.camera.SecureCameraActivity}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.android.gallery3d/com.android.camera.VideoCamera}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.android.gallery3d/com.android.camera.Camera}" drawable="com_android_camera"/>
 
 
 
@@ -269,6 +271,7 @@
 
     <!-- Google_settings -->
     <item component="ComponentInfo{com.google.android.gms/com.google.android.gms.app.settings.GoogleSettingsActivity}" drawable="google_settings" />
+    <item component="ComponentInfo{com.google.android.gms/com.google.android.gms.app.settings.GoogleSettingsLink}" drawable="google_settings" />
     <item component="ComponentInfo{com.google.android.gms/com.google.android.gms.common.settings.GoogleSettingsActivity}" drawable="google_settings" />
     <item component="ComponentInfo{com.google.android.gms/com.google.android.location.settings.GoogleLocationSettingsActivit}" drawable="google_settings" />
 
@@ -376,6 +379,7 @@
     <item component="ComponentInfo{com.kmplayer/com.kmplayer.activity.MainActivity}" drawable="com_kmplayer" />
     <item component="ComponentInfo{org.videolan.vlc.betav7neon/org.videolan.vlc.betav7neon.gui.MainActivity}" drawable="org_videolan_vlc_betav7neon" />
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.gui.MainActivity}" drawable="org_videolan_vlc_betav7neon" />
+    <item component="ComponentInfo{com.android.music/com.android.music.VideoBrowserActivity}" drawable="com_google_android_videos" />
     
     <!-- Screencast -->
     <item component="ComponentInfo{com.ms.screencastfree/com.ms.screencastfree.Screencast}" drawable="com_ms_screencastfree"/>
@@ -447,8 +451,8 @@
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="com_android_deskclock" />
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.TabDetails}" drawable="com_android_deskclock" />
     <item component="ComponentInfo{com.android.deskclock/com.pantech.app.clock.ClockLauncher}" drawable="com_android_deskclock" />
-    <item component="com.chineseinspiration/com.chineseinspiration.Clocks}" drawable="com_android_deskclock" />
-    <item component="com.android.qworldclock/com.android.qworldclock.QWorldClock}" drawable="com_android_world_clock" />
+    <item component="ComponentInfo{com.chineseinspiration/com.chineseinspiration.Clocks}" drawable="com_android_deskclock" />
+    <item component="ComponentInfo{com.android.qworldclock/com.android.qworldclock.QWorldClock}" drawable="com_android_world_clock" />
 
     <!-- FM Radio -->
     <item component="ComponentInfo{com.sec.android.app.fm/com.sec.android.app.fm.MainActivity}" drawable="com_android_radio"/>
@@ -532,6 +536,7 @@
 
     <!-- WiFi AP -->
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings.WifiApSettingsActivity}" drawable="com_android_settings_wifi"/>
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings$TetherSettingsActivity}" drawable="com_android_settings_wifi"/>
 
     <!-- Flud -->
     <item component="ComponentInfo{comcom.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="com_delphicoder_flud"/>
@@ -573,7 +578,7 @@
     <item component="ComponentInfo{com.android.stoptimer/com.android.stoptimer.StopTimer}" drawable="com_android_secundomer"/>
 
     <!-- Utils -->
-    <item component="ComponentInfo{com.piriform.ccleaner/com.piriform.ccleaner.ui/activity.MainActivity}" drawable="com_piriform_ccleaner"/>
+    <item component="ComponentInfo{com.piriform.ccleaner/com.piriform.ccleaner.ui.activity.MainActivity}" drawable="com_piriform_ccleaner"/>
     <item component="ComponentInfo{com.cleanmaster.mguard/com.keniu.security.main.MainActivity}" drawable="com_cleanmaster_mguard"/>
     <item component="ComponentInfo{it.msec.dukto/it.msec.dukto.Dukto}" drawable="it_msec_dukto"/>
     <item component="ComponentInfo{com.alephzain.framaroot/com.alephzain.framaroot.FramaActivity}" drawable="com_alephzain_framaroot"/>
@@ -615,6 +620,7 @@
     <item component="ComponentInfo{com.estrongs.android.pop.tmp/com.estrongs.android.pop.app.FileExplorerActivity}" drawable="file_explorer"/>
     <item component="ComponentInfo{com.mobisystems.fileman/com.mobisystems.office.FileBrowser}" drawable="file_explorer"/>
     <item component="ComponentInfo{pl.solidexplorer/pl.solidexplorer.SolidExplorer}" drawable="file_explorer"/>
+    <item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="file_explorer"/>
     <item component="ComponentInfo{com.ghisler.android.TotalCommander/com.ghisler.android.TotalCommander.TotalCommander}" drawable="com_ghisler_android_totalcommander"/>
     <item component="ComponentInfo{com.metago.astro/com.metago.astro.SplashActivity}" drawable="file_explorer"/>
     <item component="ComponentInfo{com.metago.astro/com.metago.astro.FileManagerActivity}" drawable="file_explorer"/>
