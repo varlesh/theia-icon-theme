@@ -81,6 +81,9 @@
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="com_android_mms"/>
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MessageTabActivity}" drawable="com_android_mms"/>
     <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="com_android_mms"/>
+    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.mms.android.ui.ShareVCardViaMMSActivity}" drawable="com_android_mms"/>
+    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.contacts.ShareContactViaSMS}" drawable="com_android_mms"/>
+    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.MmsActivity}" drawable="com_android_mms"/>
     
     <!-- Google Plus -->
     <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plusone.app.HomeScreenActivity}" drawable="com_google_android_apps_plus"/>
@@ -123,6 +126,7 @@
     <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.HtcCalendarProvider}" drawable="com_android_calendar"/>
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.timeline.EventListWithStartTime}" drawable="com_android_calendar"/>
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.ChooserActivity}" drawable="com_android_calendar"/>
+    <item component="ComponentInfo{com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthActivityNew}" drawable="com_android_calendar"/>
 
     <!-- Music -->
     <item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserActivity}" drawable="com_android_music"/>
@@ -158,6 +162,7 @@
     <item component="ComponentInfo{org.kman.AquaMail/org.kman.AquaMail.ui.AccountListActivity}" drawable="org_kman_aquamail"/>
     <item component="ComponentInfo{org.kman.AquaMail.UnlockerMarket/org.kman.AquaMail.UnlockerMarket.LauncherActivity}" drawable="org_kman_aquamail"/>
     <item component="ComponentInfo{com.outlook.Z7/com.seven.Z7.app.email.EmailFront}" drawable="com_microsoft_office_outlook"/>
+    <item component="ComponentInfo{com.lenovo.email/com.android.email.activity.Welcome}" drawable="com_android_email"/>
     
     <!-- Contacts -->
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="com_android_contacts" />
@@ -207,6 +212,9 @@
     <item component="ComponentInfo{com.android.htccontacts/com.android.htccontacts.ContactsSearch}" drawable="com_android_dialer" />
     <item component="ComponentInfo{com.android.htccontacts/com.android.htccontacts.BrowseLayerCarouselActivity}" drawable="com_android_contacts"/>
     <item component="ComponentInfo{com.brainworks.contacts/com.brainworks.contacts.ui.Main}" drawable="com_android_contacts"/>
+    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.contactAppActivity}" drawable="com_android_contacts"/>
+    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.callLogsActivity}" drawable="com_android_contacts"/>
+    <item component="ComponentInfo{com.lenovo.ideafriend/contacts.alias.ContactShortcut}" drawable="com_android_contacts"/>
 
     <!-- Simtoolkit -->
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="sim" />
@@ -222,6 +230,7 @@
     <item component="ComponentInfo{com.android.stk2/com.android.stk2.StkLauncherActivity2}" drawable="sim" />
     <item component="ComponentInfo{com.android.stk/com.android.stk.UtkLauncherActivity}" drawable="sim" />
     <item component="ComponentInfo{com.android.stk/com.android.stk.EgStkExLauncherActivity2}" drawable="sim" />
+    <item component="ComponentInfo{com.mediatek.StkSelection/com.mediatek.StkSelection.StkSelection}" drawable="sim" />
 
     <!-- Play Music -->
     <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="com_android_music"/>
@@ -380,6 +389,7 @@
     <item component="ComponentInfo{org.videolan.vlc.betav7neon/org.videolan.vlc.betav7neon.gui.MainActivity}" drawable="org_videolan_vlc_betav7neon" />
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.gui.MainActivity}" drawable="org_videolan_vlc_betav7neon" />
     <item component="ComponentInfo{com.android.music/com.android.music.VideoBrowserActivity}" drawable="com_google_android_videos" />
+    <item component="ComponentInfo{com.lenovo.videoplayer/com.lenovo.videoplayer.VideoPlayerActivity}" drawable="com_google_android_videos" />
     
     <!-- Screencast -->
     <item component="ComponentInfo{com.ms.screencastfree/com.ms.screencastfree.Screencast}" drawable="com_ms_screencastfree"/>
@@ -475,6 +485,7 @@
     <item component="ComponentInfo{com.miui.fmradio/com.miui.fmradio.FMRadioActivity}" drawable="com_android_radio"/>
     <item component="ComponentInfo{com.cyanogenmod.fmradio/com.cyanogenmod.fmradio.screens.BandSelectionScreen}" drawable="com_android_radio"/>
     <item component="ComponentInfo{com.radio.fmradio/com.radio.fmradio.InitFM}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.lenovo.fm/com.lenovo.fm.RadioActivity}" drawable="com_android_radio"/>
 
     <!-- FB Reader -->
     <item component="ComponentInfo{org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.FBReader}" drawable="org_geometerplus_zlibrary_ui_android"/>
@@ -537,6 +548,7 @@
     <!-- WiFi AP -->
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings.WifiApSettingsActivity}" drawable="com_android_settings_wifi"/>
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings$TetherSettingsActivity}" drawable="com_android_settings_wifi"/>
+    <item component="ComponentInfo{com.lenovo.android.settings.tether/com.lenovo.android.settings.tether.TetherSettings}" drawable="com_android_settings_wifi"/>
 
     <!-- Flud -->
     <item component="ComponentInfo{comcom.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="com_delphicoder_flud"/>
@@ -627,6 +639,7 @@
     <item component="ComponentInfo{com.metago.astro/com.metago.astro.MainActivity}" drawable="file_explorer"/>
     <item component="ComponentInfo{com.metago.astro/com.metago.astro.tools.dirsize.DirSizeActivityLauncher}" drawable="file_explorer"/>
     <item component="ComponentInfo{com.metago.astro/com.metago.astro.tools.AppManagerLauncher}" drawable="file_explorer"/>
+    <item component="ComponentInfo{com.lenovo.FileBrowser/com.lenovo.FileBrowser.FileBrowserActivity}" drawable="file_explorer"/>
     
     <!-- Launcher -->
     <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="com_anddoes_launcher"/>
@@ -634,6 +647,7 @@
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.android.launcher2.Launcher}" drawable="com_teslacoilsw_launcher"/>
     <item component="ComponentInfo{com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity}" drawable="com_teslacoilsw_launcher"/>
     <item component="ComponentInfo{com.nokia.homescreen/com.nokia.homescreen.LauncherActivity}" drawable="com_anddoes_launcher"/>
+    <item component="ComponentInfo{com.lenovo.launcher/com.lenovo.launcher2.Launcher}" drawable="com_teslacoilsw_launcher"/>
     
     <!-- SuperSU -->
     <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-SuperAndy}" drawable="super_su"/>
@@ -716,5 +730,8 @@
 
     <!-- Activity Launcher -->
     <item component="ComponentInfo{de.szalkowski.activityLauncher/de.szalkowski.activityLauncher.MainActivity}" drawable="de_szalkowski_activitylauncher" />
+    
+    <!-- battery -->
+    <item component="ComponentInfo{com.lenovo.safe.powercenter/com.lenovo.battery.status.BatteryStatusActivity}" drawable="battery" />
 
 </resources>
