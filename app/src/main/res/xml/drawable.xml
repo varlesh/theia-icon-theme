@@ -145,4 +145,6 @@
     <item drawable="com_microsoft_office_outlook"/>
     <item drawable="ru_sports"/>
     <item drawable="ru_ideast_championat"/>
+    <item drawable="de_szalkowski_activitylauncher"/>
+
 </resources>
