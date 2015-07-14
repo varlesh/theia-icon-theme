@@ -150,6 +150,7 @@
     <item component="ComponentInfo{com.mv2studio.amarok.kontrol.free/com.mv2studio.amarok.kontrol.ui.Acivity.BaseActivity}" drawable="com_mv2studio_amarok_kontrol_free"/>
     <item component="ComponentInfo{com.nokia.app.mixradio.client/nokia.music.client.droid.views.PlayerView}" drawable="com_mixradio_droid"/>
     <item component="ComponentInfo{com.nokia.app.mixradio.client/nokia.music.client.droid.SplashScreen}" drawable="com_mixradio_droid"/>
+    <item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}" drawable="com_android_music"/>
     
     <!-- Apps -->
     <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="com_alensw_picfolder"/>
@@ -310,6 +311,7 @@
     <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadsListTab}" drawable="com_android_providers_downloads_ui" />
     <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadTabActivity}" drawable="com_android_providers_downloads_ui" />
     <item component="ComponentInfo{com.cellmania.android.storefront.webview.vmu/com.cellmania.android.storefront.webview.vmu.CM_WebView_StorefrontActivity}" drawable="com_android_providers_downloads_ui"/>
+
     
     <!-- Go Weather -->
     <item component="ComponentInfo{com.mediawoz.goweather/com.mediawoz.goweather.WeatherApp}" drawable="com_devexpert_weather"/>
@@ -645,6 +647,10 @@
     <item component="ComponentInfo{com.metago.astro/com.metago.astro.tools.dirsize.DirSizeActivityLauncher}" drawable="file_explorer"/>
     <item component="ComponentInfo{com.metago.astro/com.metago.astro.tools.AppManagerLauncher}" drawable="file_explorer"/>
     <item component="ComponentInfo{com.lenovo.FileBrowser/com.lenovo.FileBrowser.FileBrowserActivity}" drawable="file_explorer"/>
+    <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}" drawable="file_explorer"/>
+    <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.ShortcutActivity}" drawable="file_explorer"/>
+    <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.EditorActivity}" drawable="file_explorer"/>
+
     
     <!-- Launcher -->
     <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="com_anddoes_launcher"/>
