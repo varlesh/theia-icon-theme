@@ -30,8 +30,8 @@
      id="namedview48"
      showgrid="false"
      showguides="false"
-     inkscape:zoom="1"
-     inkscape:cx="37.522277"
+     inkscape:zoom="4.04"
+     inkscape:cx="-20.955446"
      inkscape:cy="31.847615"
      inkscape:window-x="-4"
      inkscape:window-y="33"
@@ -104,7 +104,7 @@
          offset="0.704952" />
       <stop
          id="stop3756-9-3"
-         style="stop-color:#a06c2b;stop-opacity:1"
+         style="stop-color:#c68635;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -545,7 +545,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
