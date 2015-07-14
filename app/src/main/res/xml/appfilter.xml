@@ -712,9 +712,9 @@
     <item component="ComponentInfo{nya.miku.wishmaster/nya.miku.wishmaster.ui.MainActivity}" drawable="nya_miku_wishmaster_sfw" />
 
     <!-- 2ch -->
-    <item component="ComponentInfo{com.vortexwolf.chan/com.vortexwolf.chan.activites.PickBoardActivity}" drawable="com_vortexwolf_chan" />
-    <item component="ComponentInfo{com.vortexwolf.chan/com.vortexwolf.chan.activites.ExternalUrlHandlerActivity}" drawable="com_vortexwolf_chan" />
-    <item component="ComponentInfo{com.vortexwolf.chan/com.vortexwolf.chan.activites.SearchableActivity}" drawable="com_vortexwolf_chan" />
+    <item component="ComponentInfo{com.vortexwolf.chan/com.vortexwolf.chan.activities.PickBoardActivity}" drawable="com_vortexwolf_chan" />
+    <item component="ComponentInfo{com.vortexwolf.chan/com.vortexwolf.chan.activities.ExternalUrlHandlerActivity}" drawable="com_vortexwolf_chan" />
+    <item component="ComponentInfo{com.vortexwolf.chan/com.vortexwolf.chan.activities.SearchableActivity}" drawable="com_vortexwolf_chan" />
 
     <!-- Flashlight -->
     <item component="ComponentInfo{com.devuni.flashlight/com.devuni.flashlight.MainActivity}" drawable="fonarik" />
