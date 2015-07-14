@@ -215,6 +215,11 @@
     <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.contactAppActivity}" drawable="com_android_contacts"/>
     <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.callLogsActivity}" drawable="com_android_contacts"/>
     <item component="ComponentInfo{com.lenovo.ideafriend/contacts.alias.ContactShortcut}" drawable="com_android_contacts"/>
+    <item component="ComponentInfo{com.lenovo.ideafriend/contacts.alias.PeopleActivity}" drawable="com_android_contacts"/>
+    <item component="ComponentInfo{com.lenovo.ideafriend/contacts.alias.ContactsFontDoor}" drawable="com_android_contacts"/>
+    <item component="ComponentInfo{com.lenovo.ideafriend/contacts.alias.DialtactsContactsEntryActivity}" drawable="com_android_contacts"/>
+    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.DialtactsActivity}" drawable="com_android_contacts"/>
+    <item component="ComponentInfo{com.lenovo.ideafriend/contacts.alias.CallLogActivity}" drawable="com_android_contacts"/>
 
     <!-- Simtoolkit -->
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="sim" />
@@ -733,5 +738,8 @@
     
     <!-- battery -->
     <item component="ComponentInfo{com.lenovo.safe.powercenter/com.lenovo.battery.status.BatteryStatusActivity}" drawable="battery" />
+    <item component="ComponentInfo{com.lenovo.safe.powercenter/com.lenovo.safe.powercenter.ui.PowerTabActivity}" drawable="battery" />
+    <item component="ComponentInfo{com.lenovo.safe.powercenter/com.lenovo.safe.powercenter.ui.SmartSettingActivity}" drawable="battery" />
+    <item component="ComponentInfo{com.lenovo.safe.powercenter/com.lenovo.safe.powercenter.ui.SplashActivity}" drawable="battery" />
 
 </resources>
