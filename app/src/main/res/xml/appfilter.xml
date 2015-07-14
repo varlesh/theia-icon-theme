@@ -157,7 +157,7 @@
     <item component="ComponentInfo{com.motorola.blur.email/com.motorola.blur.email.mailbox.MailListActivity}" drawable="com_android_email"/>
     <item component="ComponentInfo{org.kman.AquaMail/org.kman.AquaMail.ui.AccountListActivity}" drawable="org_kman_aquamail"/>
     <item component="ComponentInfo{org.kman.AquaMail.UnlockerMarket/org.kman.AquaMail.UnlockerMarket.LauncherActivity}" drawable="org_kman_aquamail"/>
-    <item component="ComponentInfo{com.outlook.Z7/com.seven.Z7.app.ClientApplication}" drawable="com_microsoft_office_outlook"/>
+    <item component="ComponentInfo{com.outlook.Z7/com.seven.Z7.app.email.EmailFront}" drawable="com_microsoft_office_outlook"/>
     
     <!-- Contacts -->
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="com_android_contacts" />
