@@ -777,6 +777,6 @@
 	<item component="ComponentInfo{tool.scanner.qrscan.barcodescan/com.google.zxing.client.android.CaptureActivity}" drawable="qr_code"/>
 
     <!-- Themes -->
-    <item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.Chooser}" drawable="themes"/>
-    
+    <item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity}" drawable="themes"/>
+
 </resources>
