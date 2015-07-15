@@ -152,5 +152,6 @@
         <item>com_alibaba_aliexpresshd</item>
         <item>com_avito_android</item>
         <item>qr_code</item>
+        <item>ru_yandex_yandexmaps</item>
 	</string-array>
 </resources>

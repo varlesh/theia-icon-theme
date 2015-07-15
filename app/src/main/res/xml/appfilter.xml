@@ -267,9 +267,11 @@
     <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="com_google_android_docs_editors_docs"/>
 
 
-    <!-- Google Maps -->
+    <!-- Maps -->
     <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="com_google_android_maps"/>
     <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.PlacesActivity}" drawable="com_google_android_maps"/>
+    <item component="ComponentInfo{ru.yandex.yandexmaps/ru.yandex.yandexmaps.MapActivity}" drawable="com_google_android_maps"/>
+
 
     <!-- Google Earth -->
     <item component="ComponentInfo{com.google.earth/com.google.earth.EarthActivity}" drawable="com_google_earth"/>

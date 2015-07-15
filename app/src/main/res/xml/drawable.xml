@@ -152,4 +152,5 @@
     <item drawable="com_alibaba_aliexpresshd"/>
     <item drawable="com_avito_android"/>
     <item drawable="qr_code"/>
+    <item drawable="ru_yandex_yandexmaps"/>
 </resources>
