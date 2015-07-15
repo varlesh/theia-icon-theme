@@ -755,7 +755,10 @@
     <item component="ComponentInfo{radiotime.player/tunein.player.pro.Splash}" drawable="tunein_player"/>
     
     <!-- Pocket Casts -->
-<item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.TabWidget}" drawable="au_com_shiftyjelly_pocketcasts"/>
-<item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity" drawable="au_com_shiftyjelly_pocketcasts"/>
+	<item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.TabWidget}" drawable="au_com_shiftyjelly_pocketcasts"/>
+	<item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity" drawable="au_com_shiftyjelly_pocketcasts"/>
+
+	<!-- Clock Widget -->
+	<item component="ComponentInfo{com.sonyericsson.digitalclockwidget2/com.sonyericsson.digitalclockwidget2.Info}" drawable="clock-widget"/>
 
 </resources>
