@@ -156,5 +156,6 @@
         <item>ru_yandex_disk</item>
         <item>com_dropbox_android</item>
         <item>com_flyingottersoftware_mega</item>
+        <item>themes</item>
 	</string-array>
 </resources>
