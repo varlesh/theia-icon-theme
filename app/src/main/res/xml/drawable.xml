@@ -153,4 +153,7 @@
     <item drawable="com_avito_android"/>
     <item drawable="qr_code"/>
     <item drawable="ru_yandex_yandexmaps"/>
+    <item drawable="ru_yandex_disk"/>
+    <item drawable="com_dropbox_android"/>
+    <item drawable="com_flyingottersoftware_mega"/>
 </resources>

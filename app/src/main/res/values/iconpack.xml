@@ -153,5 +153,8 @@
         <item>com_avito_android</item>
         <item>qr_code</item>
         <item>ru_yandex_yandexmaps</item>
+        <item>ru_yandex_disk</item>
+        <item>com_dropbox_android</item>
+        <item>com_flyingottersoftware_mega</item>
 	</string-array>
 </resources>

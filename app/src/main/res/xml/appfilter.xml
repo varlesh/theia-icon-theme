@@ -277,8 +277,11 @@
     <item component="ComponentInfo{com.google.earth/com.google.earth.EarthActivity}" drawable="com_google_earth"/>
     <item component="ComponentInfo{com.google.earth/com.google.earth.MainActivity}" drawable="com_google_earth"/>
 
-    <!-- Google Drive -->
+    <!--Drive Services -->
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="com_google_android_apps_docs"/>
+    <item component="ComponentInfo{ru.yandex.disk/ru.yandex.disk.MainActivity}" drawable="ru_yandex_disk"/>
+    <item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}" drawable="com_dropbox_android"/>
+    <item component="ComponentInfo{com.flyingottersoftware.mega/com.flyingottersoftware.mega.ManagerActivity}" drawable="com_flyingottersoftware_mega"/>
 
     <!--Google Play Games-->
     <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="com_google_android_gms"/>
