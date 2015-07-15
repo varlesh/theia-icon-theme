@@ -147,9 +147,10 @@
         <item>ru_ideast_championat</item>
         <item>de_szalkowski_activitylauncher</item>
         <item>twitter</item>
-        <item>clock-widget</item>
+        <item>clock_widget</item>
         <item>ru_yandex_weatherplugin</item>
         <item>com_alibaba_aliexpresshd</item>
         <item>com_avito_android</item>
+        <item>qr_code</item>
 	</string-array>
 </resources>

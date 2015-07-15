@@ -764,6 +764,12 @@
 	<item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity" drawable="au_com_shiftyjelly_pocketcasts"/>
 
 	<!-- Clock Widget -->
-	<item component="ComponentInfo{com.sonyericsson.digitalclockwidget2/com.sonyericsson.digitalclockwidget2.Info}" drawable="clock-widget"/>
+	<item component="ComponentInfo{com.sonyericsson.digitalclockwidget2/com.sonyericsson.digitalclockwidget2.Info}" drawable="clock_widget"/>
+
+	<!-- Code Scaner -->
+	<item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="qr_code"/>
+	<item component="ComponentInfo{qr.barcode.mttb1/com.google.zxing.client.android.CaptureActivity}" drawable="qr_code"/>
+	<item component="ComponentInfo{tool.scanner.qrscan.barcodescan/com.google.zxing.client.android.CaptureActivity}" drawable="qr_code"/>
+
 
 </resources>

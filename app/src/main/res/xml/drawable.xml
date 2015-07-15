@@ -147,8 +147,9 @@
     <item drawable="ru_ideast_championat"/>
     <item drawable="de_szalkowski_activitylauncher"/>
     <item drawable="twitter"/>
-    <item drawable="clock-widget"/>
+    <item drawable="clock_widget"/>
     <item drawable="ru_yandex_weatherplugin"/>
     <item drawable="com_alibaba_aliexpresshd"/>
     <item drawable="com_avito_android"/>
+    <item drawable="qr_code"/>
 </resources>
