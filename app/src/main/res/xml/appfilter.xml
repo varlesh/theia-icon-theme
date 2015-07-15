@@ -778,6 +778,5 @@
 
     <!-- Themes -->
     <item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.Chooser}" drawable="themes"/>
-
-
+    
 </resources>
