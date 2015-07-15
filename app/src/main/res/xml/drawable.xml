@@ -150,4 +150,5 @@
     <item drawable="clock-widget"/>
     <item drawable="ru_yandex_weatherplugin"/>
     <item drawable="com_alibaba_aliexpresshd"/>
+    <item drawable="com_avito_android"/>
 </resources>

@@ -150,5 +150,6 @@
         <item>clock-widget</item>
         <item>ru_yandex_weatherplugin</item>
         <item>com_alibaba_aliexpresshd</item>
+        <item>com_avito_android</item>
 	</string-array>
 </resources>

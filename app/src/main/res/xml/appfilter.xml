@@ -247,6 +247,8 @@
     <item component="ComponentInfo{com.nokia.nstore/com.nokia.nstore.HomeListActivity}" drawable="opera_store"/>
     <item component="ComponentInfo{com.yandex.store/com.yandex.store.MainActivity}" drawable="yandex_store"/>
     <item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.SplashActivity}" drawable="com_alibaba_aliexpresshd"/>
+    <item component="ComponentInfo{com.avito.android/com.avito.android.SplashActivity}" drawable="com_avito_android"/>
+    <item component="ComponentInfo{com.avito.android/com.avito.android.ui.activity.CategoryListActivity}" drawable="com_avito_android"/>
 
     <!-- Google Books -->
     <item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.HomeActivity}" drawable="com_google_android_apps_books"/>
