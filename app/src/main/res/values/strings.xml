@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Basic theme information -->
-    <string name="theme_title">elementary icon pack</string>
+    <string name="theme_title">Theia Icon Theme</string>
     <string name="developer_name">elementary OS Russian Community</string>
     <!-- This (optional) link will appear at the end of the theme description -->
     <string name="developer_link">https://elementary.today</string>
