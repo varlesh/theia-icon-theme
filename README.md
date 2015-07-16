@@ -1,4 +1,4 @@
-# elementary-style
+# Theia Icon Theme
 Android icon theme.
 
 ## RUS
