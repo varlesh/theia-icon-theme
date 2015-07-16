@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "areeb.scratch.iconpack"
+        applicationId "com.elementarytoday.theia"
         targetSdkVersion 19
     }
 

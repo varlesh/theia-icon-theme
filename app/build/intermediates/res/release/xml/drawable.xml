@@ -142,5 +142,23 @@
     <item drawable="com_webmoney_my"/>
     <item drawable="nya_miku_wishmaster_sfw"/>
     <item drawable="ru_kraynov_app_tjournal"/>
+    <item drawable="com_microsoft_office_outlook"/>
+    <item drawable="ru_sports"/>
+    <item drawable="ru_ideast_championat"/>
+    <item drawable="de_szalkowski_activitylauncher"/>
+    <item drawable="twitter"/>
+    <item drawable="clock_widget"/>
+    <item drawable="ru_yandex_weatherplugin"/>
+    <item drawable="com_alibaba_aliexpresshd"/>
+    <item drawable="com_avito_android"/>
+    <item drawable="qr_code"/>
+    <item drawable="ru_yandex_yandexmaps"/>
+    <item drawable="ru_yandex_disk"/>
+    <item drawable="com_dropbox_android"/>
+    <item drawable="com_flyingottersoftware_mega"/>
+    <item drawable="themes"/>
+    <item drawable="ru_mail_cloud"/>
+    <item drawable="ru_yandex_market"/>
+    <item drawable="ru_yandex_mail"/>
 </resources>
-<!-- From: file:/C:/Users/user/Documents/GitHub/elementary-style/app/src/main/res/xml/drawable.xml -->
+<!-- From: file:/C:/Users/user/Documents/GitHub/theia-icon-theme/app/src/main/res/xml/drawable.xml -->

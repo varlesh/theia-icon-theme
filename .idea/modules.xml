@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/elementary-style.iml" filepath="$PROJECT_DIR$/elementary-style.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theia-icon-theme.iml" filepath="$PROJECT_DIR$/theia-icon-theme.iml" />
     </modules>
   </component>
 </project>

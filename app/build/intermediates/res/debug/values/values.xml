@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/user/Documents/GitHub/elementary-style/app/src/main/res/values/iconpack.xml -->
+    <!-- From: file:/C:/Users/user/Documents/GitHub/theia-icon-theme/app/src/main/res/values/iconpack.xml -->
     <eat-comment/>
     <string-array name="icon_pack" translatable="false">
         <item>battery</item>
@@ -127,8 +127,43 @@
         <item>terminal</item>
         <item>update</item>
         <item>org_cohortor_gstrings</item>
+        <item>com_stackexchange_marvin</item>
+        <item>fr_outadev_lastfm_scrobb</item>
+        <item>au_com_shiftyjelly_pocketcasts</item>
+        <item>com_mixradio_droid</item>
+        <item>tunein_player</item>
+        <item>f_droid</item>
+        <item>opera_store</item>
+        <item>yandex_store</item>
+        <item>ru_mw</item>
+        <item>ru_yandex_money</item>
+        <item>com_vortexwolf_chan</item>
+        <item>fonarik</item>
+        <item>com_scee_psxandroid</item>
+        <item>com_vsco_cam</item>
+        <item>com_webmoney_my</item>
+        <item>nya_miku_wishmaster_sfw</item>
+        <item>ru_kraynov_app_tjournal</item>
+        <item>com_microsoft_office_outlook</item>
+        <item>ru_sports</item>
+        <item>ru_ideast_championat</item>
+        <item>de_szalkowski_activitylauncher</item>
+        <item>twitter</item>
+        <item>clock_widget</item>
+        <item>ru_yandex_weatherplugin</item>
+        <item>com_alibaba_aliexpresshd</item>
+        <item>com_avito_android</item>
+        <item>qr_code</item>
+        <item>ru_yandex_yandexmaps</item>
+        <item>ru_yandex_disk</item>
+        <item>com_dropbox_android</item>
+        <item>com_flyingottersoftware_mega</item>
+        <item>themes</item>
+        <item>ru_mail_cloud</item>
+        <item>ru_yandex_market</item>
+        <item>ru_yandex_mail</item>
 	</string-array>
-    <!-- From: file:/C:/Users/user/Documents/GitHub/elementary-style/app/src/main/res/values/bools.xml -->
+    <!-- From: file:/C:/Users/user/Documents/GitHub/theia-icon-theme/app/src/main/res/values/bools.xml -->
     <eat-comment/>
     <bool name="config_apexskin">true</bool>
     <bool name="config_desktop_indicator">false</bool>
@@ -141,11 +176,11 @@
     <bool name="enableDockPack">false</bool>
     <bool name="enableIconPack">true</bool>
     <bool name="use_drawer_icons_bg">false</bool>
-    <!-- From: file:/C:/Users/user/Documents/GitHub/elementary-style/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/user/Documents/GitHub/theia-icon-theme/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/C:/Users/user/Documents/GitHub/elementary-style/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/user/Documents/GitHub/theia-icon-theme/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_settings">Settings</string>
     <string name="developer_link">https://elementary.today</string>

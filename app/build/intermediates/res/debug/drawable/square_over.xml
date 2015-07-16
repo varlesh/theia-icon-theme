@@ -4,4 +4,4 @@
     <gradient android:startColor="#8033b5e5" android:endColor="#dd33b5e5" android:angle="90.0" />
     <padding android:left="4.0dip" android:top="4.0dip" android:right="4.0dip" android:bottom="4.0dip" />
 </shape>
-<!-- From: file:/C:/Users/user/Documents/GitHub/elementary-style/app/src/main/res/drawable/square_over.xml -->
+<!-- From: file:/C:/Users/user/Documents/GitHub/theia-icon-theme/app/src/main/res/drawable/square_over.xml -->

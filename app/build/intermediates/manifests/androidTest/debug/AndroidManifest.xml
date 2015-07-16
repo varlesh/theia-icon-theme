@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="areeb.scratch.iconpack.test">
+    package="com.elementarytoday.theia.test">
 
     <uses-sdk android:minSdkVersion="1" android:targetSdkVersion="19" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="areeb.scratch.iconpack"
+                     android:targetPackage="com.elementarytoday.theia"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for areeb.scratch.iconpack"/>
+                     android:label="Tests for com.elementarytoday.theia"/>
 </manifest>

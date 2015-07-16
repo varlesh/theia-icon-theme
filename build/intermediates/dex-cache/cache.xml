@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\user\Documents\GitHub\elementary-style\app\libs\android-support-v4.jar"
+        jar="C:\Users\user\Documents\GitHub\theia-icon-theme\app\libs\android-support-v4.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
-        <dex dex="C:\Users\user\Documents\GitHub\elementary-style\app\build\intermediates\pre-dexed\release\android-support-v4-29e83c3d0b99877f7f81169e05c8d5b779cd7b48.jar" />
+        <dex dex="C:\Users\user\Documents\GitHub\theia-icon-theme\app\build\intermediates\pre-dexed\release\android-support-v4-9e4a6c5f2b77b0d069f79e5ce82c7c360e99015d.jar" />
     </item>
     <item
         jar="C:\Users\user\AndroidStudioProjects\Новая папка (2)2\app\libs\android-support-v4.jar"
@@ -14,6 +14,13 @@
         revision="22.0.1"
         sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
         <dex dex="C:\Users\user\AndroidStudioProjects\Новая папка (2)2\app\build\intermediates\pre-dexed\debug\android-support-v4-70263f5b69e89d9dd45c1bd10dccc4ec9b19a605.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Documents\GitHub\elementary-style\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="C:\Users\user\Documents\GitHub\elementary-style\app\build\intermediates\pre-dexed\release\android-support-v4-29e83c3d0b99877f7f81169e05c8d5b779cd7b48.jar" />
     </item>
 
 </items>
