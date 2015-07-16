@@ -249,6 +249,8 @@
     <item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.SplashActivity}" drawable="com_alibaba_aliexpresshd"/>
     <item component="ComponentInfo{com.avito.android/com.avito.android.SplashActivity}" drawable="com_avito_android"/>
     <item component="ComponentInfo{com.avito.android/com.avito.android.ui.activity.CategoryListActivity}" drawable="com_avito_android"/>
+    <item component="ComponentInfo{ru.yandex.market/ru.yandex.market.ui.MainActivity}" drawable="ru_yandex_market"/>
+
 
     <!-- Google Books -->
     <item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.HomeActivity}" drawable="com_google_android_apps_books"/>
