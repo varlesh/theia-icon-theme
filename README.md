@@ -7,7 +7,9 @@ Android icon theme.
 * Если иконки нет, то создайте ее сами или сделайте запрос  в [Issues] (https://github.com/varlesh/elementary-style/issues)
 
 Требования:
+
 1. Общий стиль elementary
+
 2. Исходный размер иконки в SVG размером 48x48, созданная в icons-source. (В название иконки должно быть присвоено согласно имени URL-ссылки в PlayMarket или самого приложения. Название не должно содержать кирилических символов и заглавных букв) К примеру, приложение Flud.
 
 Ссылка: https://play.google.com/store/apps/details?id=com.delphicoder.flud
