@@ -159,5 +159,6 @@
         <item>themes</item>
         <item>ru_mail_cloud</item>
         <item>ru_yandex_market</item>
+        <item>ru_yandex_mail</item>
 	</string-array>
 </resources>

@@ -159,4 +159,5 @@
     <item drawable="themes"/>
     <item drawable="ru_mail_cloud"/>
     <item drawable="ru_yandex_market"/>
+    <item drawable="ru_yandex_mail"/>
 </resources>
