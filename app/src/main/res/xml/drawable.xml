@@ -161,4 +161,5 @@
     <item drawable="ru_yandex_market"/>
     <item drawable="ru_yandex_mail"/>
     <item drawable="ru_sberbankmobile"/>
+    <item drawable="ru_rosbank_android"/>
 </resources>

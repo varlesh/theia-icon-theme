@@ -161,5 +161,6 @@
         <item>ru_yandex_market</item>
         <item>ru_yandex_mail</item>
         <item>ru_sberbankmobile</item>
+        <item>ru_rosbank_android</item>
 	</string-array>
 </resources>
