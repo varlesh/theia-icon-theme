@@ -164,5 +164,7 @@
         <item>ru_rosbank_android</item>
         <item>ru_alfabank_mobile_android</item>
         <item>ru_beeline_services</item>
+        <item>com_paragon_mts_ma_android</item>
+        <item>ru_megafon_mlk</item>
 	</string-array>
 </resources>

@@ -51,8 +51,6 @@
     <item component="ComponentInfo{com.android.gallery3d/com.android.camera.VideoCamera}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.android.gallery3d/com.android.camera.Camera}" drawable="com_android_camera"/>
 
-
-
     <!-- Browser -->
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser"/>
     <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser"/>
@@ -788,5 +786,8 @@
 
     <!-- Opsos -->
     <item component="ComponentInfo{ru.beeline.services/ru.beeline.services.ui.activities.MainActivity}" drawable="ru_beeline_services"/>
+    <item component="ComponentInfo{com.paragon.mts.ma.android/ru.mts.service.ActivitySplash}" drawable="com_paragon_mts_ma_android"/>
+    <item component="ComponentInfo{ru.megafon.mlk/ru.megafon.mlk.screen.activity.MainActivity}" drawable="ru_megafon_mlk"/>
+
 
 </resources>
