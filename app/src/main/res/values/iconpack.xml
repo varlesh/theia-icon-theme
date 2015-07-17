@@ -163,5 +163,6 @@
         <item>ru_sberbankmobile</item>
         <item>ru_rosbank_android</item>
         <item>ru_alfabank_mobile_android</item>
+        <item>ru_beeline_services</item>
 	</string-array>
 </resources>

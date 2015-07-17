@@ -786,4 +786,7 @@
     <!-- Themes -->
     <item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity}" drawable="themes"/>
 
+    <!-- Opsos -->
+    <item component="ComponentInfo{ru.beeline.services/ru.beeline.services.ui.activities.MainActivity}" drawable="ru_beeline_services"/>
+
 </resources>
