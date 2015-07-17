@@ -160,5 +160,6 @@
         <item>ru_mail_cloud</item>
         <item>ru_yandex_market</item>
         <item>ru_yandex_mail</item>
+        <item>ru_sberbankmobile</item>
 	</string-array>
 </resources>

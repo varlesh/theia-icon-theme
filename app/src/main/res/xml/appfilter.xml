@@ -395,8 +395,9 @@
     <!-- Adobe Reader -->
     <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="com_adobe_reader"/>
 
-    <!-- Tinnkof Bank -->
+    <!-- Banks -->
     <item component="ComponentInfo{com.idamob.tinkoff.android/com.idamob.tinkoff.android.Main}" drawable="com_idamob_tinkoff_android"/>
+    <item component="ComponentInfo{ru.sberbankmobile/ru.sberbankmobile.section.authorization.AuthorizationActivity}" drawable="ru_sberbankmobile"/>
 
     <!-- RuTaxi -->
     <item component="ComponentInfo{ru.yandex.taxi/ru.yandex.taxi.activity.StartActivity}" drawable="com_its_rto"/>
