@@ -824,4 +824,6 @@
     <!-- OLX -->
     <item component="ComponentInfo{ua.slando/pl.olx.activities.OlxMainActivity}" drawable="ua_slando"/>
 
+    <!-- Privat24 -->
+    <item component="ComponentInfo{ua.privatbank.ap24/ua.privatbank.ap24.beta.SplashActivity}" drawable="ua_privatbank_ap24"/>
 </resources>
