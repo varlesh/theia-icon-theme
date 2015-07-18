@@ -171,4 +171,6 @@
     <item drawable="com_softwarebakery_drivedroid"/>
     <item drawable="com_ttxapps_dropsync"/>
     <item drawable="com_endomondo_android"/>
+    <item drawable="com_syntellia_fleksy_keyboard"/>
+    <item drawable="com_oasisfeng_greenify"/>
 </resources>
