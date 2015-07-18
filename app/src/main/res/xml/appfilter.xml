@@ -808,5 +808,9 @@
     <!-- Dropsync -->
     <item component="ComponentInfo{com.ttxapps.dropsync/com.ttxapps.syncapp.MainActivity}" drawable="com_ttxapps_dropsync"/>
 
+    <!-- Endomondo -->
+    <item component="ComponentInfo{com.endomondo.android/com.endomondo.android.EndoSplash}" drawable="com_endomondo_android"/>
+    <item component="ComponentInfo{com.endomondo.android/com.endomondo.android.EndomondoActivity}" drawable="com_endomondo_android"/>
+    <item component="ComponentInfo{com.endomondo.android.pro/com.endomondo.android.EndoSplash}" drawable="com_endomondo_android"/>
 
 </resources>

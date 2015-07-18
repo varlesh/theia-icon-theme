@@ -170,5 +170,6 @@
         <item>org_adaway</item>
         <item>com_softwarebakery_drivedroid</item>
         <item>com_ttxapps_dropsync</item>
+        <item>com_endomondo_android</item>
 	</string-array>
 </resources>
