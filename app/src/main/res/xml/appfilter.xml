@@ -802,10 +802,11 @@
     <!-- Cabinet BETA -->
     <item component="ComponentInfo{com.affolestad.cabinet/com.affolestad.ui.MainActivity}" drawable="file_explorer"/>
 
-    
+    <!-- Drive Droid -->
+    <item component="ComponentInfo{com.softwarebakery.drivedroid/com.softwarebakery.drivedroid.MainActivity}" drawable="com_softwarebakery_drivedroid"/>
 
-
-
+    <!-- Dropsync -->
+    <item component="ComponentInfo{com.ttxapps.dropsync/com.ttxapps.syncapp.MainActivity}" drawable="com_ttxapps_syncapp"/>
 
 
 </resources>
