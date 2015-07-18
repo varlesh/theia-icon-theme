@@ -178,5 +178,19 @@
         <item>ru_droidlab_smiler</item>
         <item>com_keramidas_titaniumbackup</item>
         <item>com_uzumapps_wakelockdetector</item>
+        <item>com_alexjlockwood_twentyfortyeight</item>
+        <item>com_duolingo</item>
+        <item>com_dv_adm</item>
+        <item>com_google_android_apps_docs_editors_slides</item>
+        <item>com_google_android_apps_genie_geniewidget</item>
+        <item>com_google_android_apps_magazines</item>
+        <item>com_google_android_talk</item>
+        <item>com_lenovo_anyshare_gps</item>
+        <item>com_motorola_bodyguard</item>
+        <item>com_motorola_contextual_smartrules2</item>
+        <item>com_motorola_genie</item>
+        <item>com_motorola_migrate</item>
+        <item>com_opera_max_global</item>
+        <item>org_wikipedia</item>
 	</string-array>
 </resources>

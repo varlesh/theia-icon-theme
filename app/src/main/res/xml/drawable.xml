@@ -178,4 +178,18 @@
     <item drawable="ru_droidlab_smiler"/>
     <item drawable="com_keramidas_titaniumbackup"/>
     <item drawable="com_uzumapps_wakelockdetector"/>
+    <item drawable="com_alexjlockwood_twentyfortyeight"/>
+    <item drawable="com_duolingo"/>
+    <item drawable="com_dv_adm"/>
+    <item drawable="com_google_android_apps_docs_editors_slides"/>
+    <item drawable="com_google_android_apps_genie_geniewidget"/>
+    <item drawable="com_google_android_apps_magazines"/>
+    <item drawable="com_google_android_talk"/>
+    <item drawable="com_lenovo_anyshare_gps"/>
+    <item drawable="com_motorola_bodyguard"/>
+    <item drawable="com_motorola_contextual_smartrules2"/>
+    <item drawable="com_motorola_genie"/>
+    <item drawable="com_motorola_migrate"/>
+    <item drawable="com_opera_max_global"/>
+    <item drawable="org_wikipedia"/>
 </resources>
