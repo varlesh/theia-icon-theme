@@ -1,5 +1,7 @@
 # Theia Icon Theme
-Android icon theme.
+elementary-style icon theme for popular Android launchers.
+
+[![Available on F-Droid](http://storage1.static.itmages.ru/i/15/0718/h_1437239002_7516422_0f53ea8613.png)](https://f-droid.org/repository/browse/?fdfilter=theia&fdid=com.elementarytoday.theia)
 
 ## RUS
 
