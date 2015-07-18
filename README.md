@@ -8,9 +8,6 @@ elementary-style icon theme for popular Android launchers.
 ##Installing
 [![Available on F-Droid](http://storage1.static.itmages.ru/i/15/0718/h_1437239002_7516422_0f53ea8613.png)](https://f-droid.org/app/com.elementarytoday.theia)
 
-##Donation
-[![Donation](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=2iA664t-5dA5rAdqwcJM5j3I72FZZc_M6cFrfwF8cIrLyORaSR_D96WcB00&dispatch=5885d80a13c0db1f8e263663d3faee8de6030e9239419d79c3f52f70a3ed57ec)
-
 ##How to add icons
 
 ### RU
