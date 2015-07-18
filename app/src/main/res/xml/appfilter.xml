@@ -813,4 +813,8 @@
     <item component="ComponentInfo{com.endomondo.android/com.endomondo.android.EndomondoActivity}" drawable="com_endomondo_android"/>
     <item component="ComponentInfo{com.endomondo.android.pro/com.endomondo.android.EndoSplash}" drawable="com_endomondo_android"/>
 
+    <!-- Fleksy -->
+    <item component="ComponentInfo{com.syntellia.fleksy/com.syntellia.fleksy.settings.activities.MainActivity}" drawable="com_syntellia_fleksy_keyboard"/>
+    <item component="ComponentInfo{com.syntellia.fleksy/com.syntellia.fleksy.settings.activities.PersonalizeActivity}" drawable="com_syntellia_fleksy_keyboard"/>
+
 </resources>
