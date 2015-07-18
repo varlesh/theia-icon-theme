@@ -806,7 +806,7 @@
     <item component="ComponentInfo{com.softwarebakery.drivedroid/com.softwarebakery.drivedroid.MainActivity}" drawable="com_softwarebakery_drivedroid"/>
 
     <!-- Dropsync -->
-    <item component="ComponentInfo{com.ttxapps.dropsync/com.ttxapps.syncapp.MainActivity}" drawable="com_ttxapps_syncapp"/>
+    <item component="ComponentInfo{com.ttxapps.dropsync/com.ttxapps.syncapp.MainActivity}" drawable="com_ttxapps_dropsync"/>
 
 
 </resources>
