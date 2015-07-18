@@ -824,4 +824,10 @@
 
     <!-- OLX -->
     <item component="ComponentInfo{ua.slando/pl.olx.activities.OlxMainActivity}" drawable="ua_slando"/>
+
+    <!-- Smiler -->
+    <item component="ComponentInfo{ru.droidlab.smiler/ru.droidlab.smiler.ui.MainActivity}" drawable="ru_droidlab_smiler"/>
+
+    <!-- TitaniumBackup -->
+    <item component="ComponentInfo{com.keramidas.TitaniumBackup/com.keramidas.TitaniumBackup.MainActivity}" drawable="com_keramidas_titaniumbackup"/>
 </resources>
