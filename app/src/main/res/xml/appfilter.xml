@@ -796,5 +796,16 @@
     <item component="ComponentInfo{com.paragon.mts.ma.android/ru.mts.service.ActivitySplash}" drawable="com_paragon_mts_ma_android"/>
     <item component="ComponentInfo{ru.megafon.mlk/ru.megafon.mlk.screen.activity.MainActivity}" drawable="ru_megafon_mlk"/>
 
+    <!-- AdAway -->
+    <item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="org_adaway"/>
+
+    <!-- Cabinet BETA -->
+    <item component="ComponentInfo{com.affolestad.cabinet/com.affolestad.ui.MainActivity}" drawable="file_explorer"/>
+
+    
+
+
+
+
 
 </resources>
