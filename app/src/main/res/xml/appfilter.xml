@@ -402,6 +402,7 @@
     <item component="ComponentInfo{ru.sberbankmobile/ru.sberbankmobile.section.authorization.AuthorizationActivity}" drawable="ru_sberbankmobile"/>
     <item component="ComponentInfo{ru.rosbank.android/ru.rosbank.android.ui.LauncherActivity}" drawable="ru_rosbank_android"/>
     <item component="ComponentInfo{ru.alfabank.mobile.android/ru.alfabank.mobile.android.screen.AMSplashActivity}" drawable="ru_alfabank_mobile_android"/>
+    <item component="ComponentInfo{ua.privatbank.ap24/ua.privatbank.ap24.beta.SplashActivity}" drawable="ua_privatbank_ap24"/>
 
     <!-- RuTaxi -->
     <item component="ComponentInfo{ru.yandex.taxi/ru.yandex.taxi.activity.StartActivity}" drawable="com_its_rto"/>
@@ -823,5 +824,4 @@
 
     <!-- OLX -->
     <item component="ComponentInfo{ua.slando/pl.olx.activities.OlxMainActivity}" drawable="ua_slando"/>
-
 </resources>
