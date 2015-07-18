@@ -817,4 +817,8 @@
     <item component="ComponentInfo{com.syntellia.fleksy/com.syntellia.fleksy.settings.activities.MainActivity}" drawable="com_syntellia_fleksy_keyboard"/>
     <item component="ComponentInfo{com.syntellia.fleksy/com.syntellia.fleksy.settings.activities.PersonalizeActivity}" drawable="com_syntellia_fleksy_keyboard"/>
 
+    <!-- Greenify -->
+    <item component="ComponentInfo{com.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity}" drawable="com_oasisfeng_greenify"/>
+    <item component="ComponentInfo{com.oasisfeng.greenify/com.oasisfeng.greenify.HibernateAndLockScreen}" drawable="com_oasisfeng_greenify"/>
+
 </resources>
