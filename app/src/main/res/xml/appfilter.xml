@@ -821,4 +821,7 @@
     <item component="ComponentInfo{com.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity}" drawable="com_oasisfeng_greenify"/>
     <item component="ComponentInfo{com.oasisfeng.greenify/com.oasisfeng.greenify.HibernateAndLockScreen}" drawable="com_oasisfeng_greenify"/>
 
+    <!-- OLX -->
+    <item component="ComponentInfo{ua.slando/pl.olx.activities.OlxMainActivity}" drawable="ua_slando"/>
+
 </resources>
