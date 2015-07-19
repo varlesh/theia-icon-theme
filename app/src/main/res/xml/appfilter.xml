@@ -588,6 +588,7 @@
 
     <!-- Sound Recorder -->
     <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="com_android_soundrecorder"/>
+    <item component="ComponentInfo{com.sonymobile.androidapp.audiorecorder/com.sonymobile.androidapp.audiorecorder.activity.MainActivity}" drawable="com_android_soundrecorder"/>
 
     <!-- Moon Reader -->
     <item component="ComponentInfo{com.flyersoft.moonreader/com.flyersoft.moonreader.ActivityMain}" drawable="com_flyersoft_moonreader"/>
@@ -845,6 +846,7 @@
     <item component="ComponentInfo{com.motorola.genie/com.motorola.genie.app.DashboardActivity}" drawable="com_motorola_genie"/>
     <item component="ComponentInfo{com.motorola.migrate/com.motorola.frictionless.writer.MigrateLaunchActivity}" drawable="com_motorola_migrate"/>
     <item component="ComponentInfo{com.motorola.migrate/com.motorola.frictionless.writer.ChooseModeActivity}" drawable="com_motorola_migrate"/>
+    <item component="ComponentInfo{com.motorola.bodyguard/com.motorola.bodyguard.app.DashboardActivity}" drawable="com_motorola_bodyguard"/>
 
 
     <!-- Duolingo -->
@@ -869,5 +871,15 @@
     <!-- Wiki -->
     <item component="ComponentInfo{org.wikipedia/org.wikipedia.WikipediaActivity}" drawable="org_wikipedia"/>
     <item component="ComponentInfo{org.wikipedia.beta/org.wikipedia.beta.WikipediaActivity}" drawable="org_wikipedia"/>
+
+    <!-- 2048 -->
+    <item component="ComponentInfo{com.alexjlockwood.twentyfortyeight/com.alexjlockwood.twentyfortyeight.MainActivity}" drawable="com_alexjlockwood_twentyfortyeight"/>
+
+    <!-- Opera Max -->
+    <item component="ComponentInfo{com.opera.max.global/com.opera.max.ui.v2.MainActivity}" drawable="com_opera_max_global"/>
+
+    <!-- Google Slides -->
+    <item component="ComponentInfo{com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="com_google_android_apps_docs_editors_slides"/>
+
 
 </resources>
