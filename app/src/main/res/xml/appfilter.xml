@@ -325,7 +325,10 @@
     <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadsListTab}" drawable="com_android_providers_downloads_ui"/>
     <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadTabActivity}" drawable="com_android_providers_downloads_ui"/>
     <item component="ComponentInfo{com.cellmania.android.storefront.webview.vmu/com.cellmania.android.storefront.webview.vmu.CM_WebView_StorefrontActivity}" drawable="com_android_providers_downloads_ui"/>
-
+    <item component="ComponentInfo{com.dv.adm/com.dv.adm.AMain}" drawable="com_dv_adm"/>
+    <item component="ComponentInfo{com.dv.adm/com.dv.adm.Main}" drawable="com_dv_adm"/>
+    <item component="ComponentInfo{com.dv.adm.pro/com.dv.adm.pro.Main}" drawable="com_dv_adm"/>
+    <item component="ComponentInfo{com.dv.adm.pro/com.dv.adm.pro.AMain}" drawable="com_dv_adm"/>
     
     <!-- Weather -->
     <item component="ComponentInfo{com.mediawoz.goweather/com.mediawoz.goweather.WeatherApp}" drawable="com_devexpert_weather"/>
@@ -521,6 +524,8 @@
     <item component="ComponentInfo{org.geometerplus.zlibrary.ui.android/org.geometerplus.zlibrary.ui.android.library.EbookMain}" drawable="org_geometerplus_zlibrary_ui_android"/>
     <item component="ComponentInfo{org.geometerplus.zlibrary.ui.android/com.rock.lly.EBookView}" drawable="org_geometerplus_zlibrary_ui_android"/>
     <item component="ComponentInfo{org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.KediBookView}" drawable="org_geometerplus_zlibrary_ui_android"/>
+    <item component="ComponentInfo{com.obreey.reader/com.obreey.reader.StartActivity}" drawable="org_geometerplus_zlibrary_ui_android"/>
+
 
     <!-- AudioFX -->
     <item component="ComponentInfo{com.namakerorin.audiofxwidget/com.namakerorin.audiofxwidget.Settings}" drawable="com_android_equalizer"/>
@@ -830,4 +835,39 @@
 
     <!-- TitaniumBackup -->
     <item component="ComponentInfo{com.keramidas.TitaniumBackup/com.keramidas.TitaniumBackup.MainActivity}" drawable="com_keramidas_titaniumbackup"/>
+
+    <!-- Motorola -->
+    <item component="ComponentInfo{com.motorola.contextual.smartrules2/com.motorola.contextaware.ui.GalleryActivity}" drawable="com_motorola_contextual_smartrules2"/>
+    <item component="ComponentInfo{com.motorola.fmplayer/com.motorola.fmplayer.FMPlayer}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.motorola.MotGallery2/com.android.gallery3d.app.Gallery}" drawable="com_android_gallery3d"/>
+    <item component="ComponentInfo{com.motorola.MotGallery2/com.android.gallery3d.app.GalleryActivity}" drawable="com_android_gallery3d"/>
+    <item component="ComponentInfo{com.motorola.genie/com.motorola.genie.app.GenieMainActivity}" drawable="com_motorola_genie"/>
+    <item component="ComponentInfo{com.motorola.genie/com.motorola.genie.app.DashboardActivity}" drawable="com_motorola_genie"/>
+    <item component="ComponentInfo{com.motorola.migrate/com.motorola.frictionless.writer.MigrateLaunchActivity}" drawable="com_motorola_migrate"/>
+    <item component="ComponentInfo{com.motorola.migrate/com.motorola.frictionless.writer.ChooseModeActivity}" drawable="com_motorola_migrate"/>
+
+
+    <!-- Duolingo -->
+    <item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}" drawable="com_duolingo"/>
+
+    <!-- Hangouts -->
+    <item component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}" drawable="com_google_android_talk"/>
+
+    <!-- Google News & Weather -->
+    <item component="ComponentInfo{com.google.android.apps.genie.geniewidget/com.google.android.apps.genie.geniewidget.activities.NewsActivity}" drawable="com_google_android_apps_genie_geniewidget"/>
+
+    <!-- Google Play Magazines -->
+    <item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" drawable="com_google_android_apps_magazines"/>
+    <item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.ArticlePreviewActivity}" drawable="com_google_android_apps_magazines"/>
+    <item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.MagazinesHomeActivity}" drawable="com_google_android_apps_magazines"/>
+    <item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.EditionActivity}" drawable="com_google_android_apps_magazines"/>
+    <item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.searchActivity}" drawable="com_google_android_apps_magazines"/>
+
+    <!-- Anyshare -->
+    <item component="ComponentInfo{com.lenovo.anyshare.gps/com.lenovo.anyshare.ApMainActivity}" drawable="com_lenovo_anyshare_gps"/>
+
+    <!-- Wiki -->
+    <item component="ComponentInfo{org.wikipedia/org.wikipedia.WikipediaActivity}" drawable="org_wikipedia"/>
+    <item component="ComponentInfo{org.wikipedia.beta/org.wikipedia.beta.WikipediaActivity}" drawable="org_wikipedia"/>
+
 </resources>
