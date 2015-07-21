@@ -192,5 +192,6 @@
         <item>com_motorola_migrate</item>
         <item>com_opera_max_global</item>
         <item>org_wikipedia</item>
+        <item>com_desmos_calculator</item>
 	</string-array>
 </resources>
