@@ -277,9 +277,9 @@
     <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="com_google_android_maps"/>
     <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.PlacesActivity}" drawable="com_google_android_maps"/>
     <item component="ComponentInfo{ru.yandex.yandexmaps/ru.yandex.yandexmaps.MapActivity}" drawable="com_google_android_maps"/>
-    <item component="ComponentInfo{net.osmand.plus/net.osmand.plus.activities.MapActivity}" drawable="com_android_maps"/>
-    <item component="ComponentInfo{net.osmand.plus/net.osmand.plus.activities.MainMenuActivity}" drawable="com_android_maps"/>
-    <item component="ComponentInfo{net.osmand/net.osmand.plus.activities.MainMenuActivity}" drawable="com_android_maps"/>
+    <item component="ComponentInfo{net.osmand.plus/net.osmand.plus.activities.MapActivity}" drawable="com_google_android_maps"/>
+    <item component="ComponentInfo{net.osmand.plus/net.osmand.plus.activities.MainMenuActivity}" drawable="com_google_android_maps"/>
+    <item component="ComponentInfo{net.osmand/net.osmand.plus.activities.MainMenuActivity}" drawable="com_google_android_maps"/>
 
 
     <!-- Google Earth -->
