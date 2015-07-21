@@ -888,5 +888,8 @@
     <!-- Episodes -->
     <item component="ComponentInfo{org.jamienicol.episodes/org.jamienicol.episodes.MainActivity}" drawable="org_jamienicol_episodes"
 
+    <!-- MuPDF -->
+    <item component="ComponentInfo{com.artifex.mupdfdemo/com.artifex.mupdfdemo.ChoosePDFActivity}" drawable="com_artifex_mupdfdemo"/>
+
 
 </resources>

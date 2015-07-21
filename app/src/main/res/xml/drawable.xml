@@ -194,4 +194,5 @@
     <item drawable="org_wikipedia"/>
     <item drawable="com_desmos_calculator"/>
     <item drawable="org_jamienicol_episodes"/>
+    <item drawable="com_artifex_mupdfdemo"/>
 </resources>
