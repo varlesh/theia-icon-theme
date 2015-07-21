@@ -196,5 +196,6 @@
         <item>org_jamienicol_episodes</item>
         <item>org_sufficientlysecure_viewer</item>
         <item>fr_kwiatkowski_apktrack</item>
+        <item>org_mozilla_fennec_fdroid</item>
 	</string-array>
 </resources>

@@ -197,4 +197,5 @@
     <item drawable="com_artifex_mupdfdemo"/>
     <item drawable="org_sufficientlysecure_viewer"/>
     <item drawable="fr_kwiatkowski_apktrack"/>
+    <item drawable="org_mozilla_fennec_fdroid"/>
 </resources>

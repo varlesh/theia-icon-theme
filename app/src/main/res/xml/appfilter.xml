@@ -894,4 +894,8 @@
     <!-- Document Viewer -->
     <item component="ComponentInfo{org.sufficientlysecure.viewer/org.ebookdroid.ui.library.RecentActivity}" drawable="org_sufficientlysecure_viewer"/>
 
+    <!-- Fennec -->
+    <item component="ComponentInfo{org.mozilla.fennec/org.mozilla.fennec.App}" drawable="org_mozilla_fennec_fdroid"/>
+    <item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App}" drawable="org_mozilla_fennec_fdroid"/>
+
 </resources>
