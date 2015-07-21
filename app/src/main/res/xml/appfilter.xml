@@ -885,5 +885,8 @@
     <!-- Google Slides -->
     <item component="ComponentInfo{com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="com_google_android_apps_docs_editors_slides"/>
 
+    <!-- Episodes -->
+    <item component="ComponentInfo{org.jamienicol.episodes/org.jamienicol.episodes.MainActivity}" drawable="org_jamienicol_episodes"
+
 
 </resources>
