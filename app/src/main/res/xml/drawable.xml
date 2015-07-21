@@ -195,4 +195,5 @@
     <item drawable="com_desmos_calculator"/>
     <item drawable="org_jamienicol_episodes"/>
     <item drawable="com_artifex_mupdfdemo"/>
+    <item drawable="org_sufficientlysecure_viewer"/>
 </resources>

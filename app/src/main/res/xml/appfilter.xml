@@ -891,5 +891,7 @@
     <!-- MuPDF -->
     <item component="ComponentInfo{com.artifex.mupdfdemo/com.artifex.mupdfdemo.ChoosePDFActivity}" drawable="com_artifex_mupdfdemo"/>
 
+    <!-- Document Viewer -->
+    <item component="ComponentInfo{org.sufficientlysecure.viewer/org.ebookdroid.ui.library.RecentActivity}" drawable="org_sufficientlysecure_viewer"/>
 
 </resources>
