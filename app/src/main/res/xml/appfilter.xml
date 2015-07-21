@@ -51,6 +51,7 @@
     <item component="ComponentInfo{com.cyngn.cameranextmod/com.android.camera.SecureCameraActivity}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.android.gallery3d/com.android.camera.VideoCamera}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.android.gallery3d/com.android.camera.Camera}" drawable="com_android_camera"/>
+    <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="com_android_camera" />
 
     <!-- Browser -->
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser"/>
