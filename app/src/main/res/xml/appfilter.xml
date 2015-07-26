@@ -788,16 +788,16 @@
     <item component="ComponentInfo{radiotime.player/tunein.player.pro.Splash}" drawable="tunein_player"/>
     
     <!-- Pocket Casts -->
-	<item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.TabWidget}" drawable="au_com_shiftyjelly_pocketcasts"/>
-	<item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity" drawable="au_com_shiftyjelly_pocketcasts"/>
+    <item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.TabWidget}" drawable="au_com_shiftyjelly_pocketcasts"/>
+    <item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity" drawable="au_com_shiftyjelly_pocketcasts"/>
 
-	<!-- Clock Widget -->
-	<item component="ComponentInfo{com.sonyericsson.digitalclockwidget2/com.sonyericsson.digitalclockwidget2.Info}" drawable="clock_widget"/>
+    <!-- Clock Widget -->
+    <item component="ComponentInfo{com.sonyericsson.digitalclockwidget2/com.sonyericsson.digitalclockwidget2.Info}" drawable="clock_widget"/>
 
-	<!-- Code Scaner -->
-	<item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="qr_code"/>
-	<item component="ComponentInfo{qr.barcode.mttb1/com.google.zxing.client.android.CaptureActivity}" drawable="qr_code"/>
-	<item component="ComponentInfo{tool.scanner.qrscan.barcodescan/com.google.zxing.client.android.CaptureActivity}" drawable="qr_code"/>
+    <!-- Code Scaner -->
+    <item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="qr_code"/>
+    <item component="ComponentInfo{qr.barcode.mttb1/com.google.zxing.client.android.CaptureActivity}" drawable="qr_code"/>
+    <item component="ComponentInfo{tool.scanner.qrscan.barcodescan/com.google.zxing.client.android.CaptureActivity}" drawable="qr_code"/>
 
     <!-- Themes -->
     <item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity}" drawable="themes"/>
@@ -886,7 +886,7 @@
     <item component="ComponentInfo{com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="com_google_android_apps_docs_editors_slides"/>
 
     <!-- Episodes -->
-    <item component="ComponentInfo{org.jamienicol.episodes/org.jamienicol.episodes.MainActivity}" drawable="org_jamienicol_episodes"
+    <item component="ComponentInfo{org.jamienicol.episodes/org.jamienicol.episodes.MainActivity}" drawable="org_jamienicol_episodes"/>
 
     <!-- MuPDF -->
     <item component="ComponentInfo{com.artifex.mupdfdemo/com.artifex.mupdfdemo.ChoosePDFActivity}" drawable="com_artifex_mupdfdemo"/>
