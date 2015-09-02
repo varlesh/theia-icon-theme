@@ -162,12 +162,16 @@
     <item component="ComponentInfo{com.mv2studio.amarok.kontrol.free/com.mv2studio.amarok.kontrol.ui.Acivity.BaseActivity}" drawable="com_mv2studio_amarok_kontrol_free"/>
     <item component="ComponentInfo{com.nokia.app.mixradio.client/nokia.music.client.droid.views.PlayerView}" drawable="com_mixradio_droid"/>
     <item component="ComponentInfo{com.nokia.app.mixradio.client/nokia.music.client.droid.SplashScreen}" drawable="com_mixradio_droid"/>
+    <item component="ComponentInfo{com.mixradio.droid/com.mixradio.droid.AppStartupView}" drawable="com_mixradio_droid"/>
+    <item component="ComponentInfo{com.mixradio.droid/com.mixradio.droid.PlayerView}" drawable="com_mixradio_droid"/>
     <item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}" drawable="com_android_music"/>
     
     <!-- Apps -->
     <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="com_alensw_picfolder"/>
 
     <!-- Email -->
+    <item component="com.asus.email/com.android.email.activity.EmailActivity}" drawable="com_android_email"/>
+    <item component="com.asus.email/com.android.email.activity.MessageList}" drawable="com_android_email"/>
     <item component="com.asus.email/com.android.email.activity.Welcome}" drawable="com_android_email"/>
     <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="com_android_email"/>
     <item component="ComponentInfo{com.htc.android.mail/com.htc.android.mail.MailListTab}" drawable="com_android_email"/>
@@ -515,6 +519,7 @@
     <!-- FM Radio -->
     <item component="ComponentInfo{com.asus.fmradio/com.asus.fmradio.FMRadioMain}" drawable="com_android_radio"/>
     <item component="ComponentInfo{com.asus.fmradio/com.asus.fmradio.FMRadioUIv2}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.asus.fmradio/com.asus.fmradio.FMRadioUIv3}" drawable="com_android_radio"/>
     <item component="ComponentInfo{com.sec.android.app.fm/com.sec.android.app.fm.MainActivity}" drawable="com_android_radio"/>
     <item component="ComponentInfo{com.miui.fmradio/com.miui.fmradio.FMRadioMain}" drawable="com_android_radio"/>
     <item component="ComponentInfo{com.motorola.fmradio/com.motorola.fmradio.FMRadioMain}" drawable="com_android_radio"/>
@@ -547,6 +552,7 @@
 
 
     <!-- AudioFX -->
+    <item component="ComponentInfo{com.asus.maxxaudio.audiowizard/com.asus.maxxaudio.audiowizard.MainActivity}" drawable="com_android_equalizer"/>
     <item component="ComponentInfo{com.namakerorin.audiofxwidget/com.namakerorin.audiofxwidget.Settings}" drawable="com_android_equalizer"/>
     <item component="ComponentInfo{com.hbstudios.dspmanagerfree/com.hbstudios.dspmanagerfree.AudioFX}" drawable="com_android_equalizer"/>
     <item component="ComponentInfo{com.android.musicfx/com.android.musicfx.ActivityMusic}" drawable="com_android_equalizer"/>
@@ -607,6 +613,8 @@
     <item component="ComponentInfo{comcom.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="com_delphicoder_flud"/>
 
     <!-- Sound Recorder -->
+    <item component="ComponentInfo{com.asus.soundrecorder/com.asus.soundrecorder.AsusRecording}" drawable="com_android_soundrecorder"/>
+    <item component="ComponentInfo{com.asus.soundrecorder/com.asus.soundrecorder.SoundRecorder}" drawable="com_android_soundrecorder"/>
     <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="com_android_soundrecorder"/>
     <item component="ComponentInfo{com.sonymobile.androidapp.audiorecorder/com.sonymobile.androidapp.audiorecorder.activity.MainActivity}" drawable="com_android_soundrecorder"/>
 
@@ -658,6 +666,7 @@
     <item component="ComponentInfo{com.android.bluetooth/com.android.bluetooth.sap.BluetoothSapDialog}" drawable="com_android_bluetooth"/>
     
     <!-- Video Editor -->
+    <item component="ComponentInfo{com.asus.microfilm.app/com.asus.microfilm.app.MainActivity}" drawable="com_android_videoeditor"/>
     <item component="ComponentInfo{com.google.android.videoeditor/com.android.videoeditor.ProjectsActivity}" drawable="com_android_videoeditor"/>
     <item component="ComponentInfo{com.android.videoeditor/com.android.videoeditor.ProjectsActivity}" drawable="com_android_videoeditor"/>
     <item component="ComponentInfo{yong.app.videoeditor/com.android.videoeditor.ProjectsActivity}" drawable="com_android_videoeditor"/>
