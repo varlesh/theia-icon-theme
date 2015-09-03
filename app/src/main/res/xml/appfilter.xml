@@ -9,12 +9,14 @@
     <item component="ComponentInfo{JakedUp.AppDrawer/JakedUp.AppDrawer.Main}" drawable="rename_me_app_drawer"/>
 
     <!-- Gallery -->
+    <item component="ComponentInfo{com.asus.gallery/com.asus.gallery.app.EPhotoActivity}" drawable="com_android_gallery3d"/>
     <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}" drawable="com_android_gallery3d"/>
     <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="com_android_gallery3d"/>
     <item component="ComponentInfo{com.google.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="com_android_gallery3d"/>
     <item component="ComponentInfo{com.android.gallery3d/com.android.hwcamera}" drawable="com_android_gallery3d"/>
 
     <!-- Calculator -->
+    <item component="ComponentInfo{com.asus.calculator/com.asus.calculator.Calculator}" drawable="com_android_calculator2"/>
     <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="com_android_calculator2"/>
     <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator-Dark}" drawable="com_android_calculator2"/>
     <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.AsxCalculator}" drawable="com_android_calculator2"/>
@@ -36,6 +38,7 @@
     <item component="ComponentInfo{com.android.settings/com.android.settings.framework.activity.HtcSettings}" drawable="com_android_settings"/>
 
     <!-- Camera -->
+    <item component="ComponentInfo{com.asus.camera/com.asus.camera.CameraApp}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.android.camera/com.android.camera.CameraEntry}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.android.gallery3d/com.android.camera.CameraLauncher}" drawable="com_android_camera"/>
@@ -54,6 +57,7 @@
     <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="com_android_camera" />
 
     <!-- Browser -->
+    <item component="ComponentInfo{com.asus.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser"/>
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser"/>
     <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser"/>
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser"/>
@@ -74,6 +78,7 @@
     <item component="ComponentInfo{com.android.browser/com.android.browser.LoginBrowserActivity}" drawable="com_android_browser"/>
 
     <!-- Messaging -->
+    <item component="ComponentInfo{com.asus.message/com.android.mms.ui.ConversationList}" drawable="com_android_mms"/>
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="com_android_mms"/>
     <item component="ComponentInfo{com.motorola.blur.conversations/com.motorola.blur.conversations.ui.ConversationList}" drawable="com_android_mms"/>
     <item component="ComponentInfo{com.motorola.blur.messaging/com.motorola.blur.messaging.MessagingActivity}" drawable="com_android_mms"/>
@@ -114,6 +119,9 @@
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.tablet.HomeActivity}" drawable="com_google_android_youtube"/>
     
     <!-- Calendar -->
+    <item component="ComponentInfo{com.asus.calendar.watchcalendar/com.asus.calendar.watchcalendar.WatchCalendarActivity}" drawable="com_android_calendar"/>
+    <item component="ComponentInfo{com.asus.calendar.watchcalendar/com.asus.calendar.watchcalendar.LaunchActivity}" drawable="com_android_calendar"/>
+    <item component="ComponentInfo{com.asus.calendar/com.android.calendar.AllInOneActivity}" drawable="com_android_calendar"/>
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" drawable="com_android_calendar"/>
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="com_android_calendar"/>
     <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="com_android_calendar"/>
@@ -132,6 +140,7 @@
     <item component="ComponentInfo{com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthActivityNew}" drawable="com_android_calendar"/>
 
     <!-- Music -->
+    <item component="ComponentInfo{com.asus.music/com.asus.music.MusicMainActivity}" drawable="com_android_music"/>
     <item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserActivity}" drawable="com_android_music"/>
     <item component="ComponentInfo{com.google.android/com.google.android.music.MusicBrowserActivity}" drawable="com_android_music"/>
     <item component="ComponentInfo{com.htc.music/com.htc.music.HtcMusic}" drawable="com_android_music"/>
@@ -159,6 +168,9 @@
     <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="com_alensw_picfolder"/>
 
     <!-- Email -->
+    <item component="ComponentInfo{com.asus.email/com.android.email.activity.EmailActivity}" drawable="com_android_email"/>
+    <item component="ComponentInfo{com.asus.email/com.android.email.activity.MessageList}" drawable="com_android_email"/>
+    <item component="ComponentInfo{com.asus.email/com.android.email.activity.Welcome}" drawable="com_android_email"/>
     <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="com_android_email"/>
     <item component="ComponentInfo{com.htc.android.mail/com.htc.android.mail.MailListTab}" drawable="com_android_email"/>
     <item component="ComponentInfo{com.google.android.email/com.android.email.activity.Welcome}" drawable="com_android_email"/>
@@ -170,6 +182,7 @@
     <item component="ComponentInfo{ru.yandex.mail/ru.yandex.mail.ui.LoginActivity}" drawable="ru_yandex_mail"/>
     
     <!-- Contacts -->
+    <item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.PeopleActivity}" drawable="com_android_contacts"/>
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="com_android_contacts"/>
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="com_android_contacts"/>
     <item component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.DialerEntryActivity}" drawable="com_android_contacts"/>
@@ -335,6 +348,7 @@
     <item component="ComponentInfo{com.dv.adm.pro/com.dv.adm.pro.AMain}" drawable="com_dv_adm"/>
     
     <!-- Weather -->
+    <item component="ComponentInfo{com.asus.weathertime/com.asus.weathertime.WeatherTimeSettings}" drawable="com_devexpert_weather"/>
     <item component="ComponentInfo{com.mediawoz.goweather/com.mediawoz.goweather.WeatherApp}" drawable="com_devexpert_weather"/>
     <item component="ComponentInfo{com.gau.go.launcherex.gowidget.weatherwidget/com.gau.go.launcherex.gowidget.framework.GoWidgetActivity}" drawable="com_devexpert_weather"/>
     <item component="ComponentInfo{com.gismeteo.client/com.galssoft.gismeteo.ui.MainScreen2}" drawable="com_devexpert_weather"/>
@@ -489,6 +503,7 @@
     <item component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}" drawable="org_kde_kdeconnect_tp"/>
 
     <!-- World Time -->
+    <item component="ComponentInfo{com.asus.deskclock/com.asus.deskclock.DeskClock}" drawable="com_android_deskclock"/>
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="com_android_deskclock"/>
     <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="com_android_deskclock"/>
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmClock}" drawable="com_android_deskclock"/>
@@ -500,6 +515,9 @@
     <item component="ComponentInfo{com.android.qworldclock/com.android.qworldclock.QWorldClock}" drawable="com_android_world_clock"/>
 
     <!-- FM Radio -->
+    <item component="ComponentInfo{com.asus.fmradio/com.asus.fmradio.FMRadioMain}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.asus.fmradio/com.asus.fmradio.FMRadioUIv2}" drawable="com_android_radio"/>
+    <item component="ComponentInfo{com.asus.fmradio/com.asus.fmradio.FMRadioUIv3}" drawable="com_android_radio"/>
     <item component="ComponentInfo{com.sec.android.app.fm/com.sec.android.app.fm.MainActivity}" drawable="com_android_radio"/>
     <item component="ComponentInfo{com.miui.fmradio/com.miui.fmradio.FMRadioMain}" drawable="com_android_radio"/>
     <item component="ComponentInfo{com.motorola.fmradio/com.motorola.fmradio.FMRadioMain}" drawable="com_android_radio"/>
@@ -532,6 +550,7 @@
 
 
     <!-- AudioFX -->
+    <item component="ComponentInfo{com.asus.maxxaudio.audiowizard/com.asus.maxxaudio.audiowizard.MainActivity}" drawable="com_android_equalizer"/>
     <item component="ComponentInfo{com.namakerorin.audiofxwidget/com.namakerorin.audiofxwidget.Settings}" drawable="com_android_equalizer"/>
     <item component="ComponentInfo{com.hbstudios.dspmanagerfree/com.hbstudios.dspmanagerfree.AudioFX}" drawable="com_android_equalizer"/>
     <item component="ComponentInfo{com.android.musicfx/com.android.musicfx.ActivityMusic}" drawable="com_android_equalizer"/>
@@ -553,6 +572,7 @@
     <item component="ComponentInfo{com.android.quicksearchbox/com.android.quicksearchbox.google.GoogleSearch}" drawable="com_android_quicksearchbox"/>
     
     <!-- Phone -->
+    <item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="com_android_dialer"/>
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsCallLogActivity}" drawable="com_android_dialer"/>
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.CallLogActivity}" drawable="com_android_dialer"/>
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.CallLogActivity}" drawable="com_android_dialer"/>
@@ -591,6 +611,8 @@
     <item component="ComponentInfo{comcom.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="com_delphicoder_flud"/>
 
     <!-- Sound Recorder -->
+    <item component="ComponentInfo{com.asus.soundrecorder/com.asus.soundrecorder.AsusRecording}" drawable="com_android_soundrecorder"/>
+    <item component="ComponentInfo{com.asus.soundrecorder/com.asus.soundrecorder.SoundRecorder}" drawable="com_android_soundrecorder"/>
     <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="com_android_soundrecorder"/>
     <item component="ComponentInfo{com.sonymobile.androidapp.audiorecorder/com.sonymobile.androidapp.audiorecorder.activity.MainActivity}" drawable="com_android_soundrecorder"/>
 
@@ -642,6 +664,7 @@
     <item component="ComponentInfo{com.android.bluetooth/com.android.bluetooth.sap.BluetoothSapDialog}" drawable="com_android_bluetooth"/>
     
     <!-- Video Editor -->
+    <item component="ComponentInfo{com.asus.microfilm/com.asus.microfilm.app.MainActivity}" drawable="com_android_videoeditor"/>
     <item component="ComponentInfo{com.google.android.videoeditor/com.android.videoeditor.ProjectsActivity}" drawable="com_android_videoeditor"/>
     <item component="ComponentInfo{com.android.videoeditor/com.android.videoeditor.ProjectsActivity}" drawable="com_android_videoeditor"/>
     <item component="ComponentInfo{yong.app.videoeditor/com.android.videoeditor.ProjectsActivity}" drawable="com_android_videoeditor"/>
@@ -663,6 +686,8 @@
     <item component="ComponentInfo{org.joa.zipperplus7/org.test.flashtest.StartPageActivity}" drawable="com_rarlab_rar"/>
     
     <!-- File Explorer -->
+    <item component="ComponentInfo{com.asus.filemanager/com.asus.filemanager.activity.FileManagerActivity}" drawable="file_explorer"/>
+    <item component="ComponentInfo{com.asus.filemanager/com.asus.filemanager.main.MainPage}" drawable="file_explorer"/>
     <item component="ComponentInfo{com.android.qrdfileexplorer/com.android.qrdfileexplorer.QRDFileExplorer}" drawable="file_explorer"/>
     <item component="ComponentInfo{com.rhmsoft.fm/com.rhmsoft.fm.FileManager}" drawable="file_explorer"/>
     <item component="ComponentInfo{com.rhmsoft.fm.hd/com.rhmsoft.fm.hd.FileManagerHD}" drawable="file_explorer"/>
