@@ -56,7 +56,7 @@
     <item component="ComponentInfo{com.android.gallery3d/com.android.camera.VideoCamera}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.android.gallery3d/com.android.camera.Camera}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="com_android_camera" />
-    <item component="ComponentInfo{com.huawei.camera}" drawable="com_android_camera" />
+    <item component="ComponentInfo{com.huawei.camera/com.huawei.camera}" drawable="com_android_camera" />
 
     <!-- Browser -->
     <item component="ComponentInfo{com.asus.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser"/>
@@ -372,7 +372,7 @@
     <!-- Opera Mobile -->
     <item component="ComponentInfo{com.opera.browser/com.opera.Opera}" drawable="com_opera_browser"/>
     <!-- Opera Mini -->
-    <item component="ComponentInfo{com.opera.mini.android.Browser}" drawable="com_opera_browser"/>
+    <item component="ComponentInfo{com.opera.mini.android/com.opera.mini.android.Browser}" drawable="com_opera_browser"/>
     <!--Opera Beta-->
     <item component="ComponentInfo{com.opera.browser.beta/com.opera.Opera}" drawable="com_opera_browser_beta"/>
     
