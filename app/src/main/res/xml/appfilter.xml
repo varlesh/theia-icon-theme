@@ -14,6 +14,7 @@
     <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="com_android_gallery3d"/>
     <item component="ComponentInfo{com.google.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="com_android_gallery3d"/>
     <item component="ComponentInfo{com.android.gallery3d/com.android.hwcamera}" drawable="com_android_gallery3d"/>
+    <item component="ComponentInfo{com.android.gallery3d/com.cooliris.media.Gallery}" drawable="com_android_gallery3d"/>
 
     <!-- Calculator -->
     <item component="ComponentInfo{com.asus.calculator/com.asus.calculator.Calculator}" drawable="com_android_calculator2"/>
@@ -55,6 +56,7 @@
     <item component="ComponentInfo{com.android.gallery3d/com.android.camera.VideoCamera}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.android.gallery3d/com.android.camera.Camera}" drawable="com_android_camera"/>
     <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="com_android_camera" />
+    <item component="ComponentInfo{com.huawei.camera}" drawable="com_android_camera" />
 
     <!-- Browser -->
     <item component="ComponentInfo{com.asus.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser"/>
@@ -89,6 +91,7 @@
     <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.mms.android.ui.ShareVCardViaMMSActivity}" drawable="com_android_mms"/>
     <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.contacts.ShareContactViaSMS}" drawable="com_android_mms"/>
     <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.MmsActivity}" drawable="com_android_mms"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.mms.ui.ConversationList}" drawable="com_android_mms"/>
     
     <!-- Google Plus -->
     <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plusone.app.HomeScreenActivity}" drawable="com_google_android_apps_plus"/>
@@ -163,6 +166,7 @@
     <item component="ComponentInfo{com.nokia.app.mixradio.client/nokia.music.client.droid.views.PlayerView}" drawable="com_mixradio_droid"/>
     <item component="ComponentInfo{com.nokia.app.mixradio.client/nokia.music.client.droid.SplashScreen}" drawable="com_mixradio_droid"/>
     <item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}" drawable="com_android_music"/>
+    <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="com_android_music"/>
     
     <!-- Apps -->
     <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="com_alensw_picfolder"/>
@@ -368,7 +372,7 @@
     <!-- Opera Mobile -->
     <item component="ComponentInfo{com.opera.browser/com.opera.Opera}" drawable="com_opera_browser"/>
     <!-- Opera Mini -->
-    <item component="ComponentInfo{com.opera.mini.android/com.opera.mini.android.Browser}" drawable="com_opera_browser"/>
+    <item component="ComponentInfo{com.opera.mini.android.Browser}" drawable="com_opera_browser"/>
     <!--Opera Beta-->
     <item component="ComponentInfo{com.opera.browser.beta/com.opera.Opera}" drawable="com_opera_browser_beta"/>
     
@@ -414,6 +418,7 @@
     <item component="ComponentInfo{com.sonyericsson.organizer/com.sonyericsson.organizer.Organizer}" drawable="com_android_alarm"/>
     <item component="ComponentInfo{com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl}" drawable="com_android_alarm"/>
     <item component="ComponentInfo{com.nokia.alarmclock/com.nokia.alarmclock.NokiaClock}" drawable="com_android_alarm"/>
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmsMainActivity}" drawable="com_android_alarm"/>
 
     <!-- Adobe Reader -->
     <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="com_adobe_reader"/>
