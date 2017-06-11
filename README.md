@@ -2,13 +2,13 @@
 
 elementary-style icon theme for popular Android launchers.
 
-##Preview
+## Preview
 ![Preview](http://40.media.tumblr.com/e6dd26e298c5a6ccac1df2cb82d3214c/tumblr_inline_nroq9ekTbM1tp1n7a_500.png)
 
-##Installing
+## Installing
 [![Available on F-Droid](http://storage1.static.itmages.ru/i/15/0718/h_1437239002_7516422_0f53ea8613.png)](https://f-droid.org/app/com.elementarytoday.theia)
 
-##How to add icons
+## How to add icons
 
 ### RU
 
